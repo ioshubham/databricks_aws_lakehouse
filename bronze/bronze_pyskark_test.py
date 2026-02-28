@@ -5,6 +5,24 @@ dataPath = "/Volumes/databricks_aws_lakehouse/bronze/bronze_volume/raw_data/"
 checkpoint = "/Volumes/databricks_aws_lakehouse/bronze/bronze_volume/destination/checkpoint/" # store which all files processed
 schema_location = "/Volumes/databricks_aws_lakehouse/bronze/bronze_volume/destination/scheam_location/" #remember what data looks like
 
+schema = StructType([
+    StructField("orders", ArrayType(
+        StructType([
+            StructField("order_id", IntegerType(), True),
+            StructField("customer_id", IntegerType(), True),
+            StructField("order_date", StringType(), True),
+            StructField("total_amount", DoubleType(), True),
+            StructField("items", ArrayType(
+                StructType([
+                    StructField("product_id", IntegerType(), True),
+                    StructField("quantity", IntegerType(), True),
+                    StructField("price_per_unit", DoubleType(), True)
+                ])
+            ), True)
+        ])
+    ), True)
+])
+
 def view_csv_file():
     sample_df = spark.read.format("csv").option("header","True").csv(dataPath)
     sample_df.printSchema()
