@@ -1,61 +1,68 @@
-from pyspark.sql.functions import *
-from pyspark.sql.types import *
+from pyspark.sql.functions import current_timestamp, input_file_name, lit
+from pyspark.sql.types import StructType, StructField, StringType
 
-dataPath = "/Volumes/databricks_aws_lakehouse/bronze/bronze_volume/raw_data/"
-checkpoint = "/Volumes/databricks_aws_lakehouse/bronze/bronze_volume/destination/checkpoint/" # store which all files processed
-schema_location = "/Volumes/databricks_aws_lakehouse/bronze/bronze_volume/destination/scheam_location/" #remember what data looks like
+# ── Paths ──
+dataPath = "/Volumes/databricks_aws_lakehouse/bronze/bronze_volume/raw_data/SampleSuperstore.csv"
+#                                                                             ^^^^^^^^^^^^^^^^^^^^^^^^^
+#                                                                             exact file, not folder!
 
-def view_csv_file():
-    sample_df = spark.read.format("csv").option("header","True").csv(dataPath)
-    sample_df.printSchema()
-
-#view_csv_file()
-
+# ── Schema ──
 csv_schema = StructType([
-    StructField("ship_mode",StringType(),True),
-    StructField("segment",StringType(),True),
-    StructField("country",StringType(),True),
-    StructField("city",StringType(),True),
-    StructField("state",StringType(),True),
-    StructField("postal_code",StringType(),True),
-    StructField("region",StringType(),True),
-    StructField("category",StringType(),True),
-    StructField("sub_category",StringType(),True),
-    StructField("sales",StringType(),True),
-    StructField("qualtity",StringType(),True),
-    StructField("discount",StringType(),True),
-    StructField("profit",StringType(),True),
-    StructField("_corrupted_data",StringType(),True)
+    StructField("ship_mode",      StringType(), True),
+    StructField("segment",        StringType(), True),
+    StructField("country",        StringType(), True),
+    StructField("city",           StringType(), True),
+    StructField("state",          StringType(), True),
+    StructField("postal_code",    StringType(), True),
+    StructField("region",         StringType(), True),
+    StructField("category",       StringType(), True),
+    StructField("sub_category",   StringType(), True),
+    StructField("sales",          StringType(), True),
+    StructField("quantity",       StringType(), True),  # ✅ fixed typo
+    StructField("discount",       StringType(), True),
+    StructField("profit",         StringType(), True),
+    StructField("_corrupt_record",StringType(), True),  # ✅ standard name
 ])
-### Streaming Code
-# df = spark.readStream.format("cloudFiles")\
-#         .option("cloudFiles.format","csv")\
-#         .option("cloudFiles.schemaLocation",schema_location)\
-#         .option("cloudFiles.schemaEvolutionMode","rescue")\
-#         .schema(csv_schema)\
-#         .load(dataPath)
 
-# df.writeStream.format("delta")\
-#         .option("checkpointLocation",checkpoint)\
-#         .outputMode("append")\
-#         .trigger(once=True)\
-#         .start("/Volumes/databricks_aws_lakehouse/bronze/bronze_volume/table/")
-
-
-df = spark.read.format("csv")\
-    .option("header","True")\
-    .option("mode","PERMISSIVE")\
-    .option("columnNameOfCorruptRecord", "_corrupt_record")\
-    .schema(csv_schema)\
+# ── Read specific file ──
+df = (spark.read
+    .format("csv")
+    .option("header",                    "True")
+    .option("mode",                      "PERMISSIVE")
+    .option("columnNameOfCorruptRecord", "_corrupt_record")
+    .schema(csv_schema)
     .load(dataPath)
+)
 
-df = df.withColumn("ingest_ts",current_timestamp())
+# ── Verify count BEFORE writing ──
+print(f"CSV row count: {df.count()}")   # Must print 9994
 
+# ── Split good and bad rows ──
+df_good = df.filter(df["_corrupt_record"].isNull()).drop("_corrupt_record")
+df_bad  = df.filter(df["_corrupt_record"].isNotNull())
 
-df.write.format("delta")\
-    .option("mergeSchema","True")\
-    .mode("append")\
+# ── Add audit columns ──
+df_bronze = df_good \
+    .withColumn("ingest_ts",      current_timestamp()) \
+    .withColumn("_source_format", lit("csv")) \
+    .withColumn("_layer",         lit("bronze"))
+
+# ── Write ──
+(df_bronze.write
+    .format("delta")
+    .mode("overwrite")
     .saveAsTable("databricks_aws_lakehouse.bronze.bz_superstore")
+)
 
+# ── Verify count AFTER writing ──
+final = spark.table("databricks_aws_lakehouse.bronze.bz_superstore").count()
+print(f"✅ Bronze table: {final} rows")   # Should be 9994
 
-
+# ── Quarantine bad rows if any ──
+bad_count = df_bad.count()
+if bad_count > 0:
+    print(f"⚠️ {bad_count} corrupt rows found")
+    df_bad.write.format("delta").mode("append") \
+        .saveAsTable("databricks_aws_lakehouse.bronze.bz_superstore_quarantine")
+else:
+    print("✅ No corrupt rows found")

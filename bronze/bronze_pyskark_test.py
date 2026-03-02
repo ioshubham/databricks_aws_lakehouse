@@ -72,7 +72,7 @@ df = df.withColumn("ingest_ts",current_timestamp())
 
 df.write.format("delta")\
     .option("mergeSchema","True")\
-    .mode("append")\
+    .mode("overwrite")\
     .saveAsTable("databricks_aws_lakehouse.bronze.bz_superstore")
 
 

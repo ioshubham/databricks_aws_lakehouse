@@ -20,9 +20,27 @@ def count_of_nulls(df_silver):
         ]).show()
     return df_silver
 
+def get_pk():
+    # Check if any combination of columns is unique
+    df = spark.table("databricks_aws_lakehouse.silver.silver_enr")
+
+    # Check total rows vs distinct rows on suspected key columns
+    total = df.count()
+
+    # Try single columns first
+    for col_name in df.columns:
+        distinct = df.select(col_name).distinct().count()
+        if distinct == total:
+            print(f"✅ {col_name} is unique — can be PK")
+        else:
+            print(f"❌ {col_name} has {total - distinct} duplicates")
+
+
 df_silver = get_silver_dataFrame()
 df_silver = get_data_type_correct(df_silver)
 df_silver = count_of_nulls(df_silver)
+
+get_pk()
 
 
 
