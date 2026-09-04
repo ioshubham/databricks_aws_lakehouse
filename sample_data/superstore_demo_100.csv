@@ -1,0 +1,101 @@
+ship_mode,segment,country,city,state,postal_code,region,category,sub_category,sales,quantity,discount,profit
+Second Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,Office Supplies,Appliances,762.9794,1,0.1,110.1877
+Same Day,Consumer,United States,Chicago,Illinois,60623,Central,Office Supplies,Binders,1216.0514,1,0,156.0503
+First Class,Corporate,United States,Fort Worth,Texas,76106,Central,Office Supplies,Appliances,1436.2475,6,0,-598.2384
+First Class,Corporate,United States,Columbus,Ohio,43229,East,Office Supplies,Binders,1212.6211,8,0,455.7081,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE
+"Second Class,Home Office,Unclosed quote without termination,Seattle,Washington,98103
+First Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,Furniture,Chairs,78.2783,4,0.2,30.2702
+Standard Class,Consumer,United States,San Francisco,California,94109,West,Office Supplies,Binders,685.5814,6,0,-114.3804
+Standard Class,Home Office,United States,Seattle,Washington,98103,West,Furniture,Chairs,917.6052,3,0.1,-323.8575
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Appliances,1030.0752,1,0.1,246.829
+First Class,Corporate,United States,Seattle,Washington,98103,West,Furniture,Chairs,324.3644,10,0.3,-100.1106
+Same Day,Corporate,United States,Chicago,Illinois,60623,Central,Furniture,Tables,404.6714,4,0.2,69.7299
+"Same Day,Corporate,Unclosed quote without termination,Fort Lauderdale,Florida,33311
+Standard Class,Home Office,United States,Chicago,Illinois,60623,Central,Furniture,Chairs,1136.1154,2,0,73.5083
+"Second Class,Corporate,Unclosed quote without termination,San Francisco,California,94109
+Same Day,Home Office,United States,Seattle,Washington,98103,West,Technology,Machines,N/A_BAD_VALUE,1,0,146.7566
+First Class,Home Office,United States,New York City,New York,10024,East,Furniture,Chairs,447.3152,3,0.8,-222.3511
+First Class,Home Office,United States,Fort Worth,Texas,76106,Central,Technology,Machines,1369.8155,5,0.1,-496.4823
+Second Class,Home Office,United States,New York City,New York,10024,East,Technology,Accessories,39.0203,6,0.2,-11.101,TOO,MANY,COLUMNS
+Standard Class,Home Office,United States,Los Angeles,California,90036,West,Furniture,Chairs,1100.5423,2,0,-423.1009
+Same Day,Home Office,United States,Fort Worth,Texas,76106,Central,Office Supplies,Binders,796.2339,10,0.45,292.9556
+Standard Class,Home Office,United States,Seattle,Washington,98103,West,Technology,Phones,1492.7725,6,0.8,462.241
+Same Day,Consumer,United States,Fort Lauderdale,Florida,33311,South,Office Supplies,Appliances,105.3986,1,0.1,3.1194
+Second Class,Consumer,United States,Henderson,Kentucky,42420,South,Office Supplies,Appliances,110.4265,1,0.3,-48.1712
+Standard Class,Corporate,United States,Chicago,Illinois,60623,Central,Office Supplies,Appliances,813.4586,10,0.8,-228.8279
+Same Day,Corporate,United States,Fort Lauderdale,Florida,33311,South,Furniture,Chairs,154.4269,7,0.3,-18.3427
+Same Day,Home Office,United States,Henderson,Kentucky,42420,South,Furniture,Chairs,100.3129,6,0,-27.7074
+Standard Class,Home Office,United States,Chicago,Illinois,60623,Central,Furniture,Tables,638.6036,5,0.8,-175.7272
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,85.3766,9,0,31.7683
+Standard Class,Corporate,United States,Chicago,Illinois,60623,Central,Technology,Accessories,328.4835,7,0,-115.5692,TOO,MANY,COLUMNS
+Second Class,Corporate,United States,Seattle,Washington,98103,West,Technology,Accessories,435.0214,9,0.8,-156.9048
+First Class,Consumer,United States,Henderson,Kentucky,42420,South,Technology,Machines,100.8268,6,0,-45.8633
+"Standard Class,Consumer,Unclosed quote without termination,Philadelphia,Pennsylvania,19140
+Second Class,Consumer,United States,Los Angeles,California,90036,West,Furniture,Chairs,1016.0667,4,0.45,-398.4018
+Standard Class,Home Office,United States,Columbus,Ohio,43229,East,Furniture,Bookcases,932.8785,7,0.3,318.3314
+Standard Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Appliances,405.7656,3,0.2,-35.9094
+Second Class,Corporate,United States,Columbus,Ohio,43229,East,Furniture,Chairs,119.1585,4,0.2,-45.3743,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE
+First Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,Office Supplies,Paper,434.6312,8,0.2,21.9532
+Second Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,1398.3165,2,0,-366.3319
+Second Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Tables,415.7988,10,0.1,60.6447
+Standard Class,Home Office,United States,Seattle,Washington,98103,West,Technology,Machines,737.9125,1,0,52.2855
+First Class,Consumer,United States,Henderson,Kentucky,42420,South,Office Supplies,Paper,1158.9676,5,0,193.6725
+Same Day,Home Office,United States,Henderson,Kentucky,42420,South,Furniture,Chairs,122.1134,3,0,30.667
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,Furniture,Bookcases,469.3049,1,0.3,-145.9215
+Standard Class,Home Office,United States,Los Angeles,California,90036,West,Office Supplies,Paper,1172.3732,7,0,390.62
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,Technology,Phones,46.9317,6,0.45,10.4194
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,Furniture,Chairs,579.9872,1,0.8,-173.8858
+Same Day,Corporate,United States,Seattle,Washington,98103,West,Office Supplies,Appliances,342.1561,4,0.45,-69.9929
+Second Class,Corporate,United States,New York City,New York,10024,East,Technology,Machines,605.5208,9,0.3,209.0945
+Second Class,Corporate,United States,Fort Worth,Texas,76106,Central,Office Supplies,Binders,67.0032,10,0.45,-12.6557
+First Class,Corporate,United States,Columbus,Ohio,43229,East,Technology,Machines,182.3122,10,0.1,-49.361
+Same Day,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Machines,1033.4171,4,0.3,-115.5695
+First Class,Home Office,United States,New York City,New York,10024,East,Furniture,Chairs,1082.4339,5,0.2,108.4638
+First Class,Corporate,United States,Seattle,Washington,98103,West,Technology,Machines,199.6588,7,0.45,21.8798
+Standard Class,Home Office,United States,Columbus,Ohio,43229,East,Office Supplies,Binders,615.052,1,0.2,-148.7058
+"First Class,Corporate,Unclosed quote without termination,Chicago,Illinois,60623
+Same Day,Home Office,United States,Fort Lauderdale,Florida,33311,South,Technology,Machines,715.0474,3,0,-174.895
+First Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,Office Supplies,Binders,344.7146,4,0,-164.7795
+Standard Class,Corporate,United States,Columbus,Ohio,43229,East,Furniture,Chairs,688.5701,10,0.1,100.8833
+Same Day,Corporate,United States,San Francisco,California,94109,West,Office Supplies,Appliances,229.8813,1,0,46.1092
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Accessories,84.8254,4,0,-7.5651
+Same Day,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Technology,Machines,897.224,8,0.45,222.0739
+Same Day,Consumer,United States,Chicago,Illinois,60623,Central,Technology,Accessories,396.1954,4,0.2,74.973
+Same Day,Home Office,United States,Fort Lauderdale,Florida,33311,South,Office Supplies,Binders,665.4102,5,0.1,-169.9833
+First Class,Home Office,United States,Los Angeles,California,90036,West,Furniture,Tables,234.7377,7,0,31.872
+Second Class,Corporate,United States,San Francisco,California,94109,West,Office Supplies,Paper,818.4906,7,0,-256.8825
+Same Day,Corporate,United States,Columbus,Ohio,43229,East,Furniture,Bookcases,1286.5307,10,0.45,-90.9812
+First Class,Corporate,United States,San Francisco,California,94109,West,Technology,Phones,811.9486,9,0.1,-49.1988
+First Class,Corporate,United States,Chicago,Illinois,60623,Central,Furniture,Bookcases,589.3972,7,0,151.1539
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Bookcases,1361.324,10,0,-577.8103
+"Standard Class,Corporate,Unclosed quote without termination,Fort Worth,Texas,76106
+Second Class,Corporate,United States,San Francisco,California,94109,West,Office Supplies,Paper,325.3738,6,0.3,60.2289
+Same Day,Corporate,United States,San Francisco,California,94109,West,Office Supplies,Binders,1254.0173,8,0,218.3518
+Second Class,Corporate,United States,Fort Lauderdale,Florida,33311,South,Furniture,Chairs,1174.0372,1,0,416.3729
+Standard Class,Consumer,United States,Columbus,Ohio,43229,East,Furniture,Tables,365.432,8,0,2.7673
+Standard Class,Corporate,United States,Seattle,Washington,98103,West,Office Supplies,Paper,260.0058,10,0,52.0045
+First Class,Consumer,United States,Columbus,Ohio,43229,East,Furniture,Bookcases,1394.0419,10,0.45,-199.3633,TOO,MANY,COLUMNS
+Standard Class,Consumer,United States,Columbus,Ohio,43229,East,Office Supplies,Appliances,161.8329,5,0,35.0537
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,995.6668,2,0.3,-486.4958
+Same Day,Corporate,United States,Los Angeles,California,90036,West,Technology,Phones,1441.5735,8,0,-155.7787
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Technology,Accessories,702.6619,10,0.2,-147.5069
+Standard Class,Consumer,United States,Seattle,Washington,98103,West,Technology,Accessories,373.3565,8,0.45,-73.642
+"First Class,Consumer,Unclosed quote without termination,Chicago,Illinois,60623
+Standard Class,Corporate,United States,Seattle,Washington,98103,West,Office Supplies,Paper,426.6911,10,0.2,0.0904
+Standard Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,Technology,Phones,737.981,4,0.8,60.0072
+Same Day,Corporate,United States,Henderson,Kentucky,42420,South,Furniture,Chairs,448.411,7,0.1,-100.63
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Technology,Machines,522.1985,9,0.3,-95.7558
+"First Class,Corporate,Unclosed quote without termination,Seattle,Washington,98103
+Standard Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,Office Supplies,Paper,188.1366,9,0,-61.636
+Same Day,Corporate,United States,Columbus,Ohio,43229,East,Technology,Machines,899.2182,2,0.1,-209.8579
+First Class,Consumer,United States,Seattle,Washington,98103,West,Furniture,Bookcases,1064.9475,3,0.2,-488.8491
+Second Class,Home Office,United States,Seattle,Washington,98103,West,Furniture,Tables,960.4258,8,0,274.1514
+First Class,Corporate,United States,Chicago,Illinois,60623,Central,Technology,Accessories,517.6518,1,0.2,179.603
+Same Day,Consumer,United States,Los Angeles,California,90036,West,Technology,Phones,742.7024,10,0,-269.932
+First Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,Furniture,Chairs,841.5288,7,0.1,166.7272
+"Same Day,Corporate,Unclosed quote without termination,Seattle,Washington,98103
+Same Day,Corporate,United States,Columbus,Ohio,43229,East,Furniture,Bookcases,918.3501,2,0.1,57.8226
+First Class,Home Office,United States,Los Angeles,California,90036,West,Furniture,Tables,367.3991,9,0,-131.9406
+Same Day,Corporate,United States,Columbus,Ohio,43229,East,Technology,Accessories,443.9763,4,0.2,60.4963
+Same Day,Consumer,United States,Fort Lauderdale,Florida,33311,South,Office Supplies,Binders,1183.8638,10,0.1,-138.9559
+Standard Class,Home Office,United States,Fort Worth,Texas,76106,Central,Office Supplies,Binders,1241.6804,2,0,-435.4194
