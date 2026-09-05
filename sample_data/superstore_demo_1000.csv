@@ -1,0 +1,1002 @@
+ship_mode,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit,Order ID,Order Date,,,
+Same Day,Home Office,United States,San Francisco,California,94109,West,FUR-FU-2160-408,Furniture,Furnishings,Eldon Fold N Roll Cart,838.8834,10,0.8,171.5031,US-2024-205498,07-04-2023,,,
+Same Day,Consumer,United States,Philadelphia,Pennsylvania,19140,East,FUR-FU-6242-463,Furniture,Furnishings,Global Push Button Manager Chair,2109.1235,13,0,77.4987,US-2024-495268,08-02-2020,,,
+Second Class,Home Office,United States,Fort Worth,Texas,76106,Central,FUR-FU-2439-616,Furniture,Furnishings,Bretford Conference Table,712.5751,10,0,-300.5363,US-2021-747796,18-10-2020,,,
+Second Class,Home Office,United States,Los Angeles,California,90036,West,OFF-AR-3946-657,Office Supplies,Art,HP Officejet Printer,947.645,2,0.15,-538.4408,US-2020-208840,20-11-2024,,,
+"Standard Class,Home Office,Unclosed quote without termination,Fort Lauderdale,Florida,33311
+Same Day,Home Office,United States,Dallas,Texas,75220,Central,FUR-TA-4432-264,Furniture,Tables,Eldon Fold N Roll Cart,1196.7104,13,0,-248.4993,US-2020-225042,2022-11-01
+Standard Class,Home Office,United States,San Francisco,California,94109,West,TEC-AC-1615-319,Technology,Accessories,3M Storage Bin,1396.5277,8,0.45,399.9768,US-2023-448171,2020-09-11
+First Class,Home Office,United States,Dallas,Texas,75220,Central,FUR-TA-4688-718,Furniture,Tables,Hon Deluxe Fabric Chair,2480.4186,14,0.3,-1304.0474,US-2021-283452,2020-06-10
+First Class,Corporate,United States,Fort Worth,Texas,76106,Central,OFF-BI-8639-544,Office Supplies,Binders,Logitech Wireless Mouse,1841.8235,3,0,455.4665,US-2020-481074,2023-11-06
+Second Class,Consumer,United States,Detroit,Michigan,48227,Central,OFF-PA-1429-929,Office Supplies,Paper,Eldon Fold N Roll Cart,696.5771,6,0.45,248.2958,US-2021-322673,2024-10-04
+Same Day,Consumer,United States,Columbus,Ohio,43229,East,TEC-MA-5357-544,Technology,Machines,Cisco IP Phone,482.3462,4,0,-16.5225,US-2021-496196,2024-10-14
+Same Day,Home Office,United States,Houston,Texas,77036,Central,FUR-TA-5051-665,Furniture,Tables,Global Push Button Manager Chair,879.0411,14,0.15,44.473,US-2023-768422,2020-07-13
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,OFF-AR-4738-343,Office Supplies,Art,Newell 322,2339.8245,6,0.1,-319.873,US-2023-700862,2022-05-22
+Standard Class,Corporate,United States,Detroit,Michigan,48227,Central,OFF-AR-1881-358,Office Supplies,Art,Apple iPhone,2482.5231,4,0.15,-360.1814,US-2021-784084,2022-05-23
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,FUR-FU-8594-722,Furniture,Furnishings,Eldon Fold N Roll Cart,893.5603,11,0.45,-153.3714,US-2022-292748,2023-06-01
+Same Day,Home Office,United States,Los Angeles,California,90036,West,TEC-CO-3191-203,Technology,Copiers,Apple iPhone,1838.6893,4,0,430.6597,US-2022-134394,2022-11-28
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,FUR-FU-8737-945,Furniture,Furnishings,Eldon Fold N Roll Cart,212.6426,2,0,11.1502,US-2021-886104,2023-10-27
+Second Class,Consumer,United States,Houston,Texas,77036,Central,TEC-PH-4840-268,Technology,Phones,Eldon Fold N Roll Cart,1951.4958,3,0.3,303.2268,US-2021-454971,2023-06-21
+First Class,Home Office,United States,Newark,New Jersey,7114,East,TEC-CO-4863-120,Technology,Copiers,3M Storage Bin,839.906,3,0.6,-256.9534,US-2024-937741,2022-04-18
+Same Day,Home Office,United States,Philadelphia,Pennsylvania,19140,East,FUR-FU-3057-932,Furniture,Furnishings,Bretford Conference Table,2026.8266,4,0.15
+Second Class,Corporate,United States,Fort Worth,Texas,76106,Central,OFF-AP-6890-572,Office Supplies,Appliances,Xerox 1967,877.01,11,0.6,-94.1058,US-2024-777867,2020-11-10
+Standard Class,Corporate,United States,Detroit,Michigan,48227,Central,OFF-ST-6918-615,Office Supplies,Storage,Logitech Wireless Mouse,1094.4162,3,0,-45.6148,US-2024-381117,2021-03-15
+Same Day,Corporate,United States,Columbus,Ohio,43229,East,FUR-BO-3311-852,Furniture,Bookcases,Hon Deluxe Fabric Chair,1272.1386,5,0.8,282.6797,US-2020-803643,2023-08-07
+Standard Class,Home Office,United States,Detroit,Michigan,48227,Central,TEC-AC-6134-771,Technology,Accessories,Cisco IP Phone,1904.6283,8,0.15,70.6959,US-2021-805698,2024-08-23
+Standard Class,Corporate,United States,Detroit,Michigan,48227,Central,OFF-BI-5106-437,Office Supplies,Binders,Bush Somerset Bookcase,424.4603,9,0.45,-132.7919,US-2022-258247,2020-06-01
+First Class,Corporate,United States,Fort Lauderdale,Florida,33311,South,FUR-TA-5644-926,Furniture,Tables,Logitech Wireless Mouse,1594.6811,3,0,421.8357,US-2022-512417,2020-07-07
+Standard Class,Consumer,United States,New York City,New York,10024,East,FUR-BO-8410-468,Furniture,Bookcases,Global Push Button Manager Chair,1247.6825,4,0,-278.4739,US-2024-572075,2022-01-24
+Same Day,Home Office,United States,Detroit,Michigan,48227,Central,TEC-CO-8241-307,Technology,Copiers,Bretford Conference Table,2507.725,9,0.8,1078.5593,US-2023-619274,2023-08-15
+Standard Class,Consumer,United States,Newark,New Jersey,7114,East,TEC-MA-8354-960,Technology,Machines,Fellowes Binder,1921.7835,14,0,869.9661,US-2020-487653,2024-06-03
+First Class,Corporate,United States,Columbus,Ohio,43229,East,TEC-PH-8788-980,Technology,Phones,HP Officejet Printer,2340.195,13,0.15,251.357,US-2023-624936,2022-02-01
+Standard Class,Home Office,United States,Jacksonville,Florida,32216,South,TEC-MA-8026-267,Technology,Machines,Global Push Button Manager Chair,459.071,1,0,-139.1704,US-2020-450446,2021-04-08
+First Class,Consumer,United States,Fort Worth,Texas,76106,Central,FUR-BO-5101-937,Furniture,Bookcases,Xerox 1967,253.6635,6,0.45,-104.7513,US-2022-365049,2020-10-17
+Same Day,Corporate,United States,Columbus,Ohio,43229,East,TEC-CO-4977-901,Technology,Copiers,Bush Somerset Bookcase,2030.4565,3,0.2,-623.3449,US-2020-582796,2021-06-15
+Second Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,OFF-BI-2111-703,Office Supplies,Binders,Global Push Button Manager Chair,371.2152,2,0,-129.1169,US-2020-960720,2021-11-15
+Standard Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,FUR-FU-8716-948,Furniture,Furnishings,Apple iPhone,2851.1166,10,0,705.4515,US-2023-895359,2024-07-17
+First Class,Home Office,United States,Dallas,Texas,75220,Central,TEC-MA-3351-348,Technology,Machines,Xerox 1967,2226.2117,3,0.4,-1286.9937,US-2021-388986,2023-11-27
+Standard Class,Home Office,United States,San Francisco,California,94109,West,OFF-PA-3584-494,Office Supplies,Paper,Apple iPhone,1337.2175,10,0.8,-628.6362,US-2022-669359,2022-10-05
+First Class,Consumer,United States,Detroit,Michigan,48227,Central,TEC-AC-6915-183,Technology,Accessories,Xerox 1967,1483.3303,10,0.1,-685.1251,US-2021-946453,2023-02-20
+Same Day,Corporate,United States,Dallas,Texas,75220,Central,TEC-CO-7712-852,Technology,Copiers,Logitech Wireless Mouse,2904.3678,8,0.2,1225.9332,US-2022-982975,2024-09-08
+Standard Class,Consumer,United States,Columbus,Ohio,43229,East,TEC-CO-7780-127,Technology,Copiers,Cisco IP Phone,1382.9479,9,0.2,-762.3249,US-2021-823671,2024-05-08
+Standard Class,Home Office,United States,Detroit,Michigan,48227,Central,TEC-AC-8157-742,Technology,Accessories,Global Push Button Manager Chair,2383.773,6,0.45,950.0693,US-2020-581873,2024-05-11
+Standard Class,Home Office,United States,Chicago,Illinois,60623,Central,FUR-FU-5625-548,Furniture,Furnishings,Apple iPhone,1544.2335,2,0,-105.7831,US-2024-538987,2022-05-17,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE
+First Class,Consumer,United States,Fort Worth,Texas,76106,Central,FUR-FU-2360-653,Furniture,Furnishings,Fellowes Binder,1652.5293,10,0.8,-88.8594,US-2021-992313,2021-03-03
+First Class,Corporate,United States,Fort Worth,Texas,76106,Central,TEC-CO-9769-428,Technology,Copiers,Eldon Fold N Roll Cart,2346.5666,12,0.2,292.187,US-2022-615879,2021-08-08
+Same Day,Corporate,United States,Los Angeles,California,90036,West,OFF-AR-1710-139,Office Supplies,Art,Apple iPhone,858.6969,11,0.1,283.9712,US-2020-721557,2021-11-07
+Second Class,Consumer,United States,Newark,New Jersey,7114,East,FUR-CH-2677-446,Furniture,Chairs,Bush Somerset Bookcase,2176.2672,9,0.1,743.7919,US-2024-737808,2024-08-07
+Same Day,Consumer,United States,Henderson,Kentucky,42420,South,OFF-AP-6779-496,Office Supplies,Appliances,Global Push Button Manager Chair,2992.1331,1,0,1018.5724,US-2024-974610,2023-06-11
+Same Day,Home Office,United States,Fort Lauderdale,Florida,33311,South,OFF-ST-3440-195,Office Supplies,Storage,Eldon Fold N Roll Cart,2235.7494,11,0,780.5411,US-2021-751301,2022-09-28
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,OFF-BI-4528-234,Office Supplies,Binders,Apple iPhone,2009.1141,2,0,-658.524,US-2020-414494,2020-12-19
+Standard Class,Corporate,United States,New York City,New York,10024,East,TEC-AC-7904-320,Technology,Accessories,Bush Somerset Bookcase,2969.1318,1,0.15,-1072.2233,US-2022-568246,2024-04-21
+Second Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,FUR-CH-9755-346,Furniture,Chairs,Logitech Wireless Mouse,764.7182,8,0.45,270.1239,US-2021-763738,2024-06-02
+Second Class,Corporate,United States,Detroit,Michigan,48227,Central,OFF-PA-6230-546,Office Supplies,Paper,Apple iPhone,192.2106,3,0.2,53.905,US-2024-376832,2021-11-25
+Second Class,Home Office,United States,Columbus,Ohio,43229,East,TEC-AC-7042-609,Technology,Accessories,Belkin Surge Protector,56.7038,11,0,8.4606,US-2022-245227,2020-07-06
+First Class,Home Office,United States,Jacksonville,Florida,32216,South,FUR-CH-4675-342,Furniture,Chairs,Fellowes Binder,2844.1675,12,0.15,-1283.3314,US-2020-604078,2022-07-14
+First Class,Home Office,United States,Henderson,Kentucky,42420,South,FUR-BO-5569-142,Furniture,Bookcases,Logitech Wireless Mouse,2721.2231,14,0,978.7744,US-2024-297955,2024-04-17
+Same Day,Consumer,United States,Columbus,Ohio,43229,East,OFF-AR-1225-859,Office Supplies,Art,Newell 322,229.8571,1,0,-14.2608,US-2020-942785,2024-05-25
+First Class,Corporate,United States,Columbus,Ohio,43229,East,TEC-PH-1973-883,Technology,Phones,Cisco IP Phone,2983.9188,9,0,-982.159,US-2023-175128,2020-02-11
+Second Class,Consumer,United States,Henderson,Kentucky,42420,South,OFF-PA-5180-899,Office Supplies,Paper,Fellowes Binder,243.5101,2,0.6,75.2858,US-2023-628452,2024-01-16
+Same Day,Corporate,United States,Los Angeles,California,90036,West,OFF-PA-7287-629,Office Supplies,Paper,Bretford Conference Table,571.609,7,0,-28.9176,US-2024-256970,2021-04-02
+First Class,Corporate,United States,Dallas,Texas,75220,Central,FUR-BO-8285-468,Furniture,Bookcases,HP Officejet Printer,88.2649,10,0.6,-4.9899,US-2020-991611,yesterday
+First Class,Consumer,United States,Chicago,Illinois,60623,Central,FUR-BO-3063-406,Furniture,Bookcases,HP Officejet Printer,2896.8844,4,0.6,-471.9642,US-2021-885723,2023-04-28
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,TEC-AC-1554-870,Technology,Accessories,Newell 322,17.2321,7,0.6,3.0812,US-2020-975043,2023-04-06
+First Class,Corporate,United States,Columbus,Ohio,43229,East,OFF-ST-8142-363,Office Supplies,Storage,Bush Somerset Bookcase,2420.9112,8,0,1102.2749,US-2024-693188,2024-08-27
+First Class,Home Office,United States,Los Angeles,California,90036,West,OFF-ST-8162-305,Office Supplies,Storage,Global Push Button Manager Chair,564.5919,1,0.3,-140.5237,US-2022-839076,2024-06-14
+First Class,Corporate,United States,Houston,Texas,77036,Central,TEC-AC-2778-876,Technology,Accessories,Eldon Fold N Roll Cart,2700.5046,2,0.2,578.6241,US-2023-196765,2022-11-15
+First Class,Corporate,United States,Henderson,Kentucky,42420,South,FUR-CH-1609-562,Furniture,Chairs,Global Push Button Manager Chair,1831.993,8,0.1,-1077.1232,US-2020-196380,2020-06-23
+First Class,Home Office,United States,Houston,Texas,77036,Central,TEC-AC-4941-205,Technology,Accessories,Bush Somerset Bookcase,2445.0286,2,0,-1178.9873,US-2022-131093,2024-01-07
+First Class,Consumer,United States,Dallas,Texas,75220,Central,OFF-PA-8815-199,Office Supplies,Paper,Fellowes Binder,2638.3366,7,0.4,-661.2636,US-2022-350847,not-a-date
+Same Day,Consumer,United States,Houston,Texas,77036,Central,TEC-AC-1820-582,Technology,Accessories,Global Push Button Manager Chair,335.6092,1,0,-133.628,US-2021-282572,2021-02-12
+Second Class,Consumer,United States,Jacksonville,Florida,32216,South,TEC-MA-7247-101,Technology,Machines,Newell 322,2178.4872,8,0,-366.5745,US-2022-483396,2023-05-12
+Standard Class,Corporate,United States,Detroit,Michigan,48227,Central,OFF-PA-3450-112,Office Supplies,Paper,Global Push Button Manager Chair,2212.7859,12,0,141.2835,US-2022-642118,2022-06-15
+Same Day,Home Office,United States,Dallas,Texas,75220,Central,TEC-MA-9460-881,Technology,Machines,HP Officejet Printer,759.0845,11,0,-389.7657,US-2023-128662,2022-09-13
+Second Class,Consumer,United States,Jacksonville,Florida,32216,South,OFF-AP-8508-144,Office Supplies,Appliances,Fellowes Binder,1210.3296,10,0.3,-297.9039,US-2021-219652,2022-02-08
+Same Day,Consumer,United States,New York City,New York,10024,East,TEC-MA-9969-833,Technology,Machines,3M Storage Bin,1021.3949,8,0.3,-450.6126,US-2022-963285,2023-10-13
+Same Day,Corporate,United States,Houston,Texas,77036,Central,TEC-AC-6766-954,Technology,Accessories,Hon Deluxe Fabric Chair,2178.9251,7,0.1,718.9462,US-2022-298122,2021-06-12
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,TEC-PH-4027-858,Technology,Phones,Logitech Wireless Mouse,2748.3621,4,0.2,944.865,US-2021-757358,2020-08-07
+First Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,OFF-PA-6121-439,Office Supplies,Paper,Bush Somerset Bookcase,1351.8008,9,0.4,-228.1154,US-2021-997879,2021-12-01,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE
+Same Day,Corporate,United States,Columbus,Ohio,43229,East,FUR-TA-6094-155,Furniture,Tables,3M Storage Bin,1038.2907,12,0.15,414.3796,US-2021-289262,2022-06-21
+Standard Class,Home Office,United States,Houston,Texas,77036,Central,TEC-CO-3607-580,Technology,Copiers,Fellowes Binder,2601.498,1,0,180.985,US-2020-200443,2022-11-11
+Same Day,Home Office,United States,Chicago,Illinois,60623,Central,FUR-CH-6946-408,Furniture,Chairs,Bretford Conference Table,1310.4965,7,0.6,634.7917,US-2021-629313,2024-10-20
+Second Class,Home Office,United States,Detroit,Michigan,48227,Central,OFF-BI-6206-779,Office Supplies,Binders,Bush Somerset Bookcase,649.9537,11,0,-323.0114,US-2023-226482,2024-07-25
+First Class,Home Office,United States,Jacksonville,Florida,32216,South,FUR-BO-2743-390,Furniture,Bookcases,Hon Deluxe Fabric Chair,720.6733,11,0.8,-163.6526,US-2022-759783,2020-11-02
+Second Class,Home Office,United States,Los Angeles,California,90036,West,TEC-MA-1708-400,Technology,Machines,Newell 322,279.8009,1,0.45,-15.2354,US-2023-297342,2024-02-28
+Second Class,Consumer,United States,Fort Worth,Texas,76106,Central,OFF-AP-2088-208,Office Supplies,Appliances,Eldon Fold N Roll Cart,826.3175,five,0.8,331.9793,US-2023-734675,2024-05-03
+First Class,Consumer,United States,Detroit,Michigan,48227,Central,FUR-CH-5784-961,Furniture,Chairs,Cisco IP Phone,327.5088,2,0.45,-27.3715,US-2022-802706,2021-11-18
+Second Class,Corporate,United States,Henderson,Kentucky,42420,South,OFF-ST-5327-734,Office Supplies,Storage,Apple iPhone,2975.1289,10,0.2,-369.7523,US-2024-908645,2020-09-06
+First Class,Home Office,United States,Columbus,Ohio,43229,East,TEC-CO-1311-778,Technology,Copiers,Newell 322,2625.0112,8,0,1179.1731,US-2024-607799,2023-09-18
+Same Day,Consumer,United States,Philadelphia,Pennsylvania,19140,East,FUR-CH-6581-370,Furniture,Chairs,Newell 322,126.1982,9,0,-48.8012,US-2023-761704,2022-09-13
+Second Class,Consumer,United States,Dallas,Texas,75220,Central,FUR-CH-7406-945,Furniture,Chairs,Global Push Button Manager Chair,809.9883,8,0,209.2722,US-2021-686836,2022-04-20
+Same Day,Home Office,United States,Henderson,Kentucky,42420,South,OFF-PA-3372-730,Office Supplies,Paper,Hon Deluxe Fabric Chair,2054.6931,13,0,-83.2856,US-2021-341153,2023-03-23
+First Class,Consumer,United States,Detroit,Michigan,48227,Central,OFF-ST-6179-383,Office Supplies,Storage,Hon Deluxe Fabric Chair,2999.9206,4,0.1,-243.7721,US-2023-735556,2021-04-17
+First Class,Home Office,United States,Seattle,Washington,98103,West,TEC-AC-1971-176,Technology,Accessories,Hon Deluxe Fabric Chair,1729.3916,11,0.4,-894.3383,US-2023-977845,2024-09-09
+Standard Class,Consumer,United States,Jacksonville,Florida,32216,South,FUR-CH-7555-769,Furniture,Chairs,Fellowes Binder,2609.3724,2,0.6,-1150.904,US-2023-965206,2022-04-11
+First Class,Consumer,United States,Newark,New Jersey,7114,East,OFF-BI-9859-293,Office Supplies,Binders,Xerox 1967,2931.1879,3,0,991.4793,US-2023-803995,2020-06-08
+First Class,Corporate,United States,Henderson,Kentucky,42420,South,TEC-AC-9128-372,Technology,Accessories,Belkin Surge Protector,905.9548,1,0.45,-97.4971,US-2020-203576,2021-03-01
+Second Class,Home Office,United States,Fort Worth,Texas,76106,Central,OFF-PA-2635-713,Office Supplies,Paper,Bretford Conference Table,2225.1573,10,0.15,-1322.2381,US-2022-995991,2022-06-17
+Second Class,Home Office,United States,Detroit,Michigan,48227,Central,OFF-AR-2422-384,Office Supplies,Art,Fellowes Binder,357.985,10,0.4,-171.3231,US-2024-734260,2024-09-12
+Second Class,Corporate,United States,Fort Worth,Texas,76106,Central,TEC-AC-9895-588,Technology,Accessories,Fellowes Binder,2554.52,8,0.8,765.8068,US-2020-718262,2020-04-05
+Standard Class,Home Office,United States,Henderson,Kentucky,42420,South,TEC-MA-1826-605,Technology,Machines,Hon Deluxe Fabric Chair,2703.0116,3,0.3,-1542.141,US-2021-490649,2022-11-01
+Same Day,Consumer,United States,Fort Worth,Texas,76106,Central,TEC-PH-3693-660,Technology,Phones,Hon Deluxe Fabric Chair,645.7724,14,0,108.0094,US-2020-966410,2023-08-09
+First Class,Consumer,United States,Jacksonville,Florida,N/A_ZIP,South,TEC-MA-7153-677,Technology,Machines,Newell 322,1627.575,13,0.4,-804.3888,US-2024-468132,2021-07-19
+First Class,Home Office,United States,Newark,New Jersey,7114,East,TEC-PH-1503-751,Technology,Phones,Fellowes Binder,627.3081,1,0.4,258.25,US-2020-855705,2024-12-04
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,FUR-FU-3636-955,Furniture,Furnishings,Eldon Fold N Roll Cart,865.1572,3,0.15,144.5731,US-2021-928372,2024-01-23
+Second Class,Home Office,United States,Los Angeles,California,90036,West,TEC-MA-7780-290,Technology,Machines,3M Storage Bin,1687.9278,12,0.3,390.3017,US-2023-324868,2021-02-02
+Same Day,Home Office,United States,Los Angeles,California,90036,West,FUR-TA-8639-405,Furniture,Tables,Global Push Button Manager Chair,2846.8298,4,0.15,-1336.0855,US-2024-160400,2022-01-21
+Same Day,Consumer,United States,Chicago,Illinois,60623,Central,OFF-AP-2930-525,Office Supplies,Appliances,Global Push Button Manager Chair,2779.6368,13,0.15,-1312.2195,US-2024-322128,2024-08-15
+Standard Class,Home Office,United States,Seattle,Washington,98103,West,OFF-BI-2615-806,Office Supplies,Binders,Fellowes Binder,1379.5699,7,0.6,-673.626,US-2021-731352,2021-07-24
+Same Day,Home Office,United States,Los Angeles,California,90036,West,FUR-TA-1849-274,Furniture,Tables,Xerox 1967,1139.2599,6,0.15,-415.3392,US-2023-126773,2024-05-08
+Second Class,Consumer,United States,Houston,Texas,77036,Central,OFF-ST-1774-672,Office Supplies,Storage,Logitech Wireless Mouse,1228.954,1,0.15,-112.1684,US-2020-829576,2022-04-07
+Standard Class,Home Office,United States,Los Angeles,California,90036,West,FUR-CH-8590-144,Furniture,Chairs,Fellowes Binder,824.1998,8,0.15,-324.2388,US-2020-816597,2022-07-03
+Second Class,Corporate,United States,Columbus,Ohio,43229,East,OFF-BI-5654-944,Office Supplies,Binders,Bretford Conference Table,1557.9303,12,0.45,121.2252,US-2024-422033,2020-07-08
+Same Day,Consumer,United States,Fort Worth,Texas,76106,Central,TEC-AC-8834-627,Technology,Accessories,Logitech Wireless Mouse,777.8473,4,0.15,188.0862,US-2021-737018,2024-09-20
+Standard Class,Consumer,United States,Newark,New Jersey,7114,East,OFF-AR-4827-775,Office Supplies,Art,Newell 322,1975.8041,3,0.15,539.0286,US-2023-545725,2021-08-24
+Second Class,Consumer,United States,New York City,New York,10024,East,TEC-AC-2568-423,Technology,Accessories,Cisco IP Phone,2862.8949,4,0.8,414.6034,US-2022-255711,2020-04-19
+Same Day,Corporate,United States,Henderson,Kentucky,42420,South,FUR-TA-1177-457,Furniture,Tables,3M Storage Bin,719.0685,9,0.3,-166.8001,US-2024-607589,2021-11-08,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE
+Same Day,Consumer,United States,Detroit,Michigan,48227,Central,OFF-PA-2691-284,Office Supplies,Paper,Cisco IP Phone,481.9881,3,0.6,176.1434,US-2023-179657,2023-08-16
+Standard Class,Corporate,United States,Newark,New Jersey,7114,East,FUR-BO-1605-252,Furniture,Bookcases,HP Officejet Printer,2446.7453,4,0.45,-596.949,US-2023-154782,2022-12-27
+Second Class,Corporate,United States,Newark,New Jersey,7114,East,OFF-ST-7554-644,Office Supplies,Storage,HP Officejet Printer,1474.4291,4,0,59.484,US-2021-671141,2022-12-21
+First Class,Corporate,United States,Fort Lauderdale,Florida,33311,South,OFF-AR-9839-109,Office Supplies,Art,Apple iPhone,185.124,5,0,32.4902,US-2022-523761,2024-03-23
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19140,East,TEC-PH-6792-148,Technology,Phones,Hon Deluxe Fabric Chair,1592.4139,2,0,50.2345,US-2022-722166,2022-04-03
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,OFF-PA-7420-202,Office Supplies,Paper,Fellowes Binder,1385.4925,12,0,218.9781,US-2020-916555,2023-09-21
+First Class,Home Office,United States,Jacksonville,Florida,32216,South,TEC-CO-8093-568,Technology,Copiers,Fellowes Binder,1129.6091,2,0,543.6425,US-2020-584376,2022-08-17
+Standard Class,Consumer,United States,Los Angeles,California,90036,West,OFF-AP-7468-709,Office Supplies,Appliances,Hon Deluxe Fabric Chair,2931.5631,12,0.6,603.5705,US-2021-933585,2021-07-08
+Second Class,Home Office,United States,Chicago,Illinois,60623,Central,TEC-AC-2622-886,Technology,Accessories,Newell 322,1633.5043,9,0.8,181.5421,US-2022-827481,2022-12-21
+First Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,FUR-CH-8628-127,Furniture,Chairs,Cisco IP Phone,2442.491,2,0.15,834.1937,US-2022-587259,2024-07-15
+First Class,Home Office,United States,Henderson,Kentucky,42420,South,TEC-PH-3494-287,Technology,Phones,Apple iPhone,2645.9024,10,0.1,676.8109,US-2024-999114,2024-08-08
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,OFF-AR-2322-929,Office Supplies,Art,HP Officejet Printer,1446.5418,1,0.3,408.1353,US-2023-559657,2024-10-24
+Same Day",Home Office,Unclosed quote without termination,Newark,New Jersey,7114,,,,,,,,,,,,,,
+Standard Class,Corporate,United States,Jacksonville,Florida,32216,South,FUR-CH-8838-172,Furniture,Chairs,Hon Deluxe Fabric Chair,2182.2042,2,0.3,-340.7859,US-2021-604385,11-09-2020,,,
+Same Day,Consumer,United States,Jacksonville,Florida,32216,South,OFF-ST-3288-513,Office Supplies,Storage,Fellowes Binder,2483.7786,10,0.3,-120.8454,US-2023-219447,27-01-2022,,,
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,OFF-AR-3733-954,Office Supplies,Art,Xerox 1967,2892.9268,6,0.6,-1716.0717,US-2021-157103,09-06-2023,,,
+Second Class,Corporate,United States,Columbus,Ohio,43229,East,OFF-ST-7402-704,Office Supplies,Storage,Apple iPhone,2740.8524,10,0.6,-945.1578,US-2021-664199,17-12-2021,,,
+Same Day,Home Office,United States,Jacksonville,Florida,32216,South,TEC-AC-3612-583,Technology,Accessories,Newell 322,2634.6907,4,0.15,1290.2919,US-2023-783032,05-11-2021,,,
+Second Class,Home Office,United States,Henderson,Kentucky,42420,South,FUR-TA-2670-396,Furniture,Tables,Eldon Fold N Roll Cart,1112.8997,1,0.2,343.4292,US-2020-330375,17-05-2021,,,
+First Class,Consumer,United States,Houston,Texas,77036,Central,FUR-TA-8927-948,Furniture,Tables,3M Storage Bin,1257.8914,2,0.2,67.0387,US-2021-358800,10-01-2024,,,
+First Class,Corporate,United States,Jacksonville,Florida,32216,South,FUR-TA-9114-849,Furniture,Tables,3M Storage Bin,1397.3371,6,ten_percent,656.6082,US-2022-177732,08-11-2020,,,
+Second Class,Corporate,United States,Seattle,Washington,98103,West,TEC-MA-5178-643,Technology,Machines,Newell 322,2297.517,7,0.45,679.3786,US-2022-771030,20-12-2024,,,
+First Class,Home Office,United States,Chicago,Illinois,60623,Central,FUR-TA-2233-715,Furniture,Tables,Logitech Wireless Mouse,495.0616,12,0.45,133.1428,US-2023-968413,21-05-2020,,,
+Second Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,OFF-PA-4847-675,Office Supplies,Paper,Cisco IP Phone,2529.4628,11,0.2,-1438.4189,US-2022-177957,21-01-2021,,,
+"First Class,Consumer,Unclosed quote without termination,Jacksonville,Florida,32216
+Second Class,Consumer,United States,New York City,New York,10024,East,OFF-ST-8672-510,Office Supplies,Storage,Global Push Button Manager Chair,2520.9406,3,0.4,-49.2863,US-2020-978022,2021-04-16
+Same Day,Consumer,United States,New York City,New York,10024,East,TEC-MA-4910-349,Technology,Machines,Belkin Surge Protector,1386.6407,14,0.2,-595.3791,US-2023-540769,2021-02-25
+Same Day,Consumer,United States,Detroit,Michigan,48227,Central,TEC-PH-6705-783,Technology,Phones,Cisco IP Phone,$1200,7,0.15,-311.2325,US-2023-991192,2022-03-14
+First Class,Corporate,United States,Fort Worth,Texas,76106,Central,TEC-MA-7039-912,Technology,Machines,3M Storage Bin,1183.9085,11,0.4,-28.0716,US-2023-289560,2021-01-05
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,OFF-BI-1320-943,Office Supplies,Binders,Xerox 1967,1527.1848,5,ten_percent,325.2061,US-2020-737336,2021-11-11
+Standard Class,Corporate,United States,Fort Lauderdale,Florida,33311,South,FUR-FU-7828-205,Furniture,Furnishings,Newell 322,2763.422,2,0.6,-159.4437,US-2021-913201,2024-03-09
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,FUR-TA-7353-282,Furniture,Tables,Fellowes Binder,1856.1,12,0.15,809.5644,US-2022-209044,2023-03-08
+Second Class,Consumer,United States,Dallas,Texas,75220,Central,FUR-FU-4441-958,Furniture,Furnishings,Bush Somerset Bookcase,49.5679,4,0,-28.797,US-2024-149117,2021-06-08
+First Class,Consumer,United States,Columbus,Ohio,43229,East,FUR-CH-4490-648,Furniture,Chairs,Eldon Fold N Roll Cart,2118.0026,7,0.2,-271.9349,US-2023-543940,2023-02-27
+Same Day,Consumer,United States,New York City,New York,10024,East,OFF-AR-2543-734,Office Supplies,Art,Fellowes Binder,2575.5937,12,0.45,613.3926,US-2021-880007,2020-04-07
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,OFF-BI-3946-432,Office Supplies,Binders,Eldon Fold N Roll Cart,346.7263,12,0.2,122.9405,US-2021-743132,2024-10-28
+First Class",Home Office,Unclosed quote without termination,Henderson,Kentucky,42420,,,,,,,,,,,,,,
+Same Day,Corporate,United States,Los Angeles,California,90036,West,OFF-AP-6558-251,Office Supplies,Appliances,HP Officejet Printer,2113.2715,2,0.1,980.5833,US-2022-300282,14-03-2020,,,
+Standard Class,Home Office,United States,Detroit,Michigan,48227,Central,OFF-PA-9400-397,Office Supplies,Paper,Eldon Fold N Roll Cart,299.6251,2,0,45.6058,US-2024-807544,18-05-2021,,,
+Same Day,Home Office,United States,Philadelphia,Pennsylvania,19140,East,TEC-AC-8619-146,Technology,Accessories,Global Push Button Manager Chair,2567.6868,7,0.6,,,,,,
+Same Day,Corporate,United States,Jacksonville,Florida,32216,South,TEC-CO-3838-773,Technology,Copiers,Xerox 1967,2914.9894,11,0.45,-1628.3823,US-2021-353292,23-02-2020,,,
+First Class,Home Office,United States,San Francisco,California,94109,West,TEC-AC-4932-884,Technology,Accessories,HP Officejet Printer,1654.5618,13,0.45,197.9113,US-2021-346764,18-02-2020,,,
+First Class,Corporate,United States,New York City,New York,10024,East,TEC-CO-3373-701,Technology,Copiers,Hon Deluxe Fabric Chair,116.2935,3,0.1,54.2902,US-2020-985142,26-11-2022,,,
+Same Day,Consumer,United States,Jacksonville,Florida,32216,South,OFF-PA-9628-833,Office Supplies,Paper,Hon Deluxe Fabric Chair,1087.1433,1,0.2,444.1672,US-2020-958346,22-02-2024,,,
+Second Class,Corporate,United States,Fort Worth,Texas,76106,Central,TEC-AC-9672-533,Technology,Accessories,Newell 322,841.884,14,0.2,236.8832,US-2020-768338,18-03-2022,,,
+Same Day,Corporate,United States,Seattle,Washington,98103,West,FUR-CH-4466-613,Furniture,Chairs,Cisco IP Phone,885.2196,4,0.45,-305.0483,US-2022-425924,05-04-2023,,,
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,TEC-MA-4765-349,Technology,Machines,Bush Somerset Bookcase,2835.4251,3,0.1,1239.505,US-2021-246770,10-04-2022,,,
+Second Class,Home Office,United States,Columbus,Ohio,43229,East,OFF-PA-7716-596,Office Supplies,Paper,Logitech Wireless Mouse,925.756,3,0.45,-186.8896,US-2022-123872,06-05-2023,,,
+Standard Class,Corporate,United States,Henderson,Kentucky,42420,South,TEC-MA-2325-752,Technology,Machines,Cisco IP Phone,1508.5214,6,0.1,484.1792,US-2024-642353,23-05-2024,,,
+First Class,Consumer,United States,Jacksonville,Florida,32216,South,TEC-MA-6288-863,Technology,Machines,Fellowes Binder,462.2137,9,0.4,-197.2908,US-2021-776386,18-06-2020,,,
+Standard Class,Corporate,United States,Seattle,Washington,98103,West,OFF-AP-6803-956,Office Supplies,Appliances,Bush Somerset Bookcase,2560.4799,5,0.6,795.7906,US-2021-617515,01-01-2023,,,
+Standard Class,Corporate,United States,New York City,New York,10024,East,OFF-BI-4932-647,Office Supplies,Binders,Newell 322,671.4141,14,0.3,-62.6368,US-2023-159758,08-11-2020,,,
+Same Day,Home Office,United States,Seattle,Washington,98103,West,FUR-FU-2255-230,Furniture,Furnishings,Belkin Surge Protector,207.4934,10,0.1,-10.5706,US-2021-671536,02-03-2021,,,
+First Class,Consumer,United States,Jacksonville,Florida,32216,South,FUR-CH-4622-202,Furniture,Chairs,Logitech Wireless Mouse,1047.6309,11,0.2,217.0057,US-2020-705141,27-11-2024,,,
+Second Class,Consumer,United States,Houston,Texas,77036,Central,TEC-MA-4104-443,Technology,Machines,Eldon Fold N Roll Cart,1558.1681,1,0.6,54.5161,US-2020-435867,19-11-2024,,,
+Second Class,Home Office,United States,Henderson,Kentucky,42420,South,OFF-AR-9842-119,Office Supplies,Art,Logitech Wireless Mouse,1427.6143,3,0.45,18.024,US-2020-832776,04-12-2024,,,
+First Class,Home Office,United States,Seattle,Washington,98103,West,TEC-PH-2067-725,Technology,Phones,Newell 322,1405.0025,7,0.1,103.1707,US-2020-644013,14-02-2021,,,
+Second Class,Corporate,United States,Houston,Texas,77036,Central,TEC-CO-7788-524,Technology,Copiers,Bretford Conference Table,1393.5641,12,0,379.3775,US-2020-103124,18-03-2020,,,
+Standard Class,Corporate,United States,New York City,New York,N/A_ZIP,East,OFF-BI-2429-474,Office Supplies,Binders,Hon Deluxe Fabric Chair,1043.8268,14,0.1,-466.0419,US-2022-237955,08-05-2022,,,
+Standard Class,Consumer,United States,Detroit,Michigan,48227,Central,OFF-AR-1293-220,Office Supplies,Art,Cisco IP Phone,845.5966,3,0,-89.7628,US-2020-314749,28-11-2022,,,
+First Class,Home Office,United States,San Francisco,California,94109,West,FUR-BO-5978-220,Furniture,Bookcases,Eldon Fold N Roll Cart,1633.4511,2,0.45,-130.4297,US-2020-894570,13-09-2021,,,
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,TEC-MA-2304-173,Technology,Machines,Logitech Wireless Mouse,2572.3895,14,0,260.0229,US-2021-601613,05-01-2021,,,
+First Class,Consumer,United States,Jacksonville,Florida,32216,South,TEC-AC-9535-527,Technology,Accessories,Bush Somerset Bookcase,2899.9686,N/A,0.6,-736.8498,US-2020-274150,02-10-2020,,,
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,OFF-AP-4336-124,Office Supplies,Appliances,Global Push Button Manager Chair,2918.5499,4,0.2,641.1919,US-2020-277778,06-02-2022,,,
+Same Day,Corporate,United States,Jacksonville,Florida,32216,South,FUR-TA-7807-859,Furniture,Tables,Apple iPhone,872.5513,13,0.1,-500.2063,US-2021-572500,02-03-2022,,,
+First Class,Consumer,United States,Fort Worth,Texas,76106,Central,OFF-AR-5308-230,Office Supplies,Art,Xerox 1967,1575.9436,13,0.1,-298.1867,US-2024-934040,21-09-2020,,,
+Same Day,Home Office,United States,Chicago,Illinois,60623,Central,OFF-BI-5201-371,Office Supplies,Binders,Logitech Wireless Mouse,2755.4154,4,0.4,-399.4132,US-2024-814084,01-12-2022,,,
+Standard Class,Consumer,United States,Detroit,Michigan,48227,Central,OFF-AR-7342-847,Office Supplies,Art,Newell 322,1922.0812,9,0.2,-342.0443,US-2023-998384,24-04-2022,,,
+Standard Class,Home Office,United States,Dallas,Texas,75220,Central,TEC-AC-4249-927,Technology,Accessories,Bretford Conference Table,2365.4952,14,0.3,-438.7602,US-2021-917370,24-02-2022,,,
+Second Class,Home Office,United States,Henderson,Kentucky,42420,South,FUR-BO-7377-466,Furniture,Bookcases,Hon Deluxe Fabric Chair,279.828,9,0.3,-135.485,US-2023-255912,14-10-2022,,,
+Same Day,Corporate,United States,Columbus,Ohio,43229,East,FUR-TA-1830-943,Furniture,Tables,Belkin Surge Protector,1460.0739,13,0.1,-439.7205,US-2021-349910,13-11-2022,,,
+First Class,Corporate,United States,Seattle,Washington,98103,West,TEC-MA-8867-223,Technology,Machines,Newell 322,1659.6497,6,0.4,-381.5693,US-2023-172120,N/A,,,
+Standard Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,FUR-CH-3022-409,Furniture,Chairs,Logitech Wireless Mouse,50.299,11,0.6,16.8792,US-2022-804437,25-08-2024,,,
+Same Day,Home Office,United States,Henderson,Kentucky,42420,South,OFF-PA-6848-444,Office Supplies,Paper,3M Storage Bin,1554.0331,9,0.8,421.4639,US-2023-779580,05-10-2024,,,
+Same Day,Home Office,United States,Fort Lauderdale,Florida,33311,South,OFF-ST-7388-805,Office Supplies,Storage,Logitech Wireless Mouse,368.0412,13,0.8,14.6717,US-2021-623729,07-07-2024,,,
+Second Class,Corporate,United States,Chicago,Illinois,60623,Central,TEC-CO-6359-846,Technology,Copiers,Global Push Button Manager Chair,2698.8649,6,0.1,-1221.2388,US-2021-946784,28-01-2022,,,
+First Class,Corporate,United States,Chicago,Illinois,60623,Central,OFF-AP-1445-451,Office Supplies,Appliances,Cisco IP Phone,2728.4016,1,0.1,-1163.759,US-2024-610235,11-04-2020,,,
+Second Class,Corporate,United States,Houston,Texas,77036,Central,OFF-ST-1235-553,Office Supplies,Storage,Xerox 1967,1511.4145,14,0.1,754.8533,US-2023-155077,06-01-2023,,,
+Standard Class,Consumer,United States,New York City,New York,10024,East,TEC-AC-9241-790,Technology,Accessories,Bush Somerset Bookcase,1691.1875,3,0.8,-607.4855,US-2020-669562,26-01-2021,,,
+First Class,Home Office,United States,San Francisco,California,94109,West,TEC-CO-3009-512,Technology,Copiers,Bretford Conference Table,2691.0721,8,0.15,-1233.7664,US-2024-734091,06-09-2023,,,
+First Class,Consumer,United States,San Francisco,California,94109,West,TEC-CO-2926-139,Technology,Copiers,Newell 322,2080.9254,2,0,226.2813,US-2021-239404,03-09-2023,,,
+Second Class,Home Office,United States,Columbus,Ohio,43229,East,TEC-AC-1570-505,Technology,Accessories,Hon Deluxe Fabric Chair,958.9131,9,0.15,-312.9885,US-2021-220481,03-02-2023,,,
+Same Day,Corporate,United States,San Francisco,California,94109,West,FUR-TA-8550-175,Furniture,Tables,Logitech Wireless Mouse,861.7882,10,0.1,384.7662,US-2022-190324,25-09-2024,,,
+First Class,Consumer,United States,Seattle,Washington,98103,West,OFF-BI-6356-398,Office Supplies,Binders,Belkin Surge Protector,1495.4166,4,0.8,120.0762,US-2020-330861,11-08-2024,,,
+Second Class,Home Office,United States,Jacksonville,Florida,32216,South,OFF-BI-5753-678,Office Supplies,Binders,Bush Somerset Bookcase,1769.4454,1,0,-637.031,US-2021-277045,08-05-2021,,,
+Second Class,Consumer,United States,Jacksonville,Florida,N/A_ZIP,South,TEC-MA-7663-522,Technology,Machines,Belkin Surge Protector,2597.8653,14,0.4,-1158.4451,US-2022-866881,01-09-2024,,,
+Standard Class,Corporate,United States,Jacksonville,Florida,32216,South,TEC-CO-1918-960,Technology,Copiers,Apple iPhone,2688.2053,2,0.2,372.1594,US-2022-750701,26-03-2024,,,
+Same Day,Corporate,United States,Fort Lauderdale,Florida,33311,South,TEC-AC-5512-249,Technology,Accessories,Newell 322,1448.224,11,0.8,417.4975,US-2021-673873,22-08-2024,,,
+Same Day,Home Office,United States,Seattle,Washington,98103,West,OFF-AR-7107-641,Office Supplies,Art,3M Storage Bin,215.7396,2,0.15,54.5026,US-2021-304274,15-04-2021,,,
+Standard Class,Corporate,United States,Henderson,Kentucky,42420,South,FUR-CH-8311-493,Furniture,Chairs,Fellowes Binder,1702.0308,4,0.45,-812.5266,US-2023-825322,26-05-2023,,,
+First Class,Corporate,United States,Newark,New Jersey,7114,East,TEC-CO-4378-322,Technology,Copiers,Hon Deluxe Fabric Chair,2097.2406,2,0.15,-153.3568,US-2024-485763,04-03-2020,TOO,MANY,COLUMNS
+First Class,Consumer,United States,Newark,New Jersey,7114,East,TEC-MA-8731-927,Technology,Machines,Hon Deluxe Fabric Chair,2828.9331,4,0.8,476.8965,US-2021-944313,14-03-2024,,,
+Standard Class,Home Office,United States,New York City,New York,10024,East,OFF-ST-6351-247,Office Supplies,Storage,Bush Somerset Bookcase,1157.0206,6,0,179.7662,US-2022-835896,16-08-2024,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE,
+Second Class,Consumer,United States,Dallas,Texas,75220,Central,TEC-MA-9235-817,Technology,Machines,Apple iPhone,87.1802,7,0.6,-25.8103,US-2024-655748,26-03-2020,,,
+Standard Class,Consumer,United States,Columbus,Ohio,ZIPCODE,East,OFF-PA-8443-351,Office Supplies,Paper,Newell 322,2745.3761,12,0.45,928.6154,US-2022-377459,06-03-2024,,,
+Second Class,Corporate,United States,Columbus,Ohio,43229,East,TEC-AC-5660-344,Technology,Accessories,Fellowes Binder,2132.0216,8,0.1,-961.1452,US-2022-618802,16-09-2022,,,
+First Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,TEC-MA-6274-967,Technology,Machines,Fellowes Binder,1635.6344,2,,,,,,,
+Standard Class,Home Office,United States,Seattle,Washington,98103,West,TEC-MA-7497-816,Technology,Machines,Cisco IP Phone,325.7246,10,0.45,-64.007,US-2024-870443,28-11-2020,,,
+First Class,Home Office,United States,Chicago,Illinois,60623,Central,FUR-BO-1993-282,Furniture,Bookcases,Fellowes Binder,863.2483,7,0.8,241.0098,US-2022-275980,02-10-2023,,,
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,TEC-CO-2476-587,Technology,Copiers,Bush Somerset Bookcase,2164.8019,9,0.1,-71.0667,US-2024-418965,17-11-2021,,,
+Same Day,Home Office,United States,Fort Lauderdale,Florida,33311,South,TEC-CO-7413-885,Technology,Copiers,Logitech Wireless Mouse,2355.5354,7,0.8,27.3428,US-2023-656367,17-07-2022,,,
+Standard Class,Consumer,United States,New York City,New York,10024,East,OFF-AR-5446-888,Office Supplies,Art,Xerox 1967,2400.451,6,0,757.7947,US-2021-539663,23-08-2021,,,
+First Class,Home Office,United States,Detroit,Michigan,48227,Central,OFF-BI-8214-858,Office Supplies,Binders,Logitech Wireless Mouse,1462.1803,7,,,,,,,
+Same Day,Consumer,United States,Newark,New Jersey,7114,East,FUR-BO-4259-777,Furniture,Bookcases,Bush Somerset Bookcase,1898.3206,14,0.2,-740.9393,US-2024-684131,17-05-2024,,,
+First Class,Consumer,United States,Chicago,Illinois,60623,Central,OFF-AP-3598-110,Office Supplies,Appliances,Belkin Surge Protector,unknown,2,0,-1068.0422,US-2024-907331,14-11-2023,,,
+Same Day,Consumer,United States,Los Angeles,California,90036,West,TEC-AC-9485-534,Technology,Accessories,Bretford Conference Table,2907.3052,2,0.1,503.4272,US-2020-605221,08-05-2023,,,
+Second Class,Home Office,United States,Houston,Texas,77036,Central,FUR-CH-3175-607,Furniture,Chairs,Fellowes Binder,112.4832,3,0.4,-65.1117,US-2023-496391,19-01-2020,,,
+Same Day,Consumer,United States,San Francisco,California,94109,West,OFF-ST-9987-192,Office Supplies,Storage,HP Officejet Printer,1439.0753,6,0.2,-326.6027,US-2021-167894,22-02-2022,,,
+Standard Class,Home Office,United States,Dallas,Texas,75220,Central,FUR-BO-2985-814,Furniture,Bookcases,Bretford Conference Table,902.1686,2,0.3,355.8175,US-2020-466724,01-05-2023,TOO,MANY,COLUMNS
+Second Class,Consumer,United States,Houston,Texas,77036,Central,OFF-AP-4680-156,Office Supplies,Appliances,HP Officejet Printer,2347.7843,9,0.6,-162.2682,US-2020-817652,17-09-2024,,,
+First Class,Consumer,United States,Detroit,Michigan,48227,Central,TEC-CO-5116-823,Technology,Copiers,Bretford Conference Table,41.0757,12,0,-9.5544,US-2020-555402,22-04-2024,,,
+Standard Class,Corporate,United States,Henderson,Kentucky,42420,South,OFF-AR-5555-880,Office Supplies,Art,Fellowes Binder,893.9826,5,0.45,-477.6851,US-2023-303045,03-07-2020,,,
+Standard Class,Corporate,United States,Houston,Texas,77036,Central,OFF-BI-5470-674,Office Supplies,Binders,Belkin Surge Protector,1916.9122,5,0.6,-905.3744,US-2021-946630,18-10-2021,,,
+Second Class,Corporate,United States,Chicago,Illinois,60623,Central,TEC-MA-2377-136,Technology,Machines,Bush Somerset Bookcase,2289.8946,7,0.6,-113.2157,US-2024-514460,27-10-2022,,,
+First Class,Consumer,United States,Chicago,Illinois,60623,Central,FUR-BO-6995-231,Furniture,Bookcases,Xerox 1967,1690.648,7,0.3,9.8692,US-2024-332115,07-10-2021,,,
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,OFF-AR-5302-418,Office Supplies,Art,Cisco IP Phone,$1200,8,0,137.6659,US-2021-698807,20-05-2021,,,
+Same Day,Consumer,United States,Philadelphia,Pennsylvania,19140,East,FUR-FU-7942-269,Furniture,Furnishings,Logitech Wireless Mouse,2914.9235,9,0,-163.2712,US-2022-230059,16-04-2023,,,
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19140,East,TEC-PH-4977-217,Technology,Phones,Belkin Surge Protector,2523.1144,14,0.3,-1168.678,US-2022-316994,11-04-2022,,,
+Same Day,Consumer,United States,San Francisco,California,94109,West,TEC-MA-4912-527,Technology,Machines,Cisco IP Phone,2508.3009,9,0,872.2766,US-2021-561736,03-07-2023,,,
+Standard Class,Corporate,United States,Houston,Texas,77036,Central,TEC-AC-5752-748,Technology,Accessories,Logitech Wireless Mouse,2242.5279,8,0,1088.2347,US-2023-514317,yesterday,,,
+First Class,Consumer,United States,San Francisco,California,94109,West,FUR-FU-2574-701,Furniture,Furnishings,Bush Somerset Bookcase,2704.9963,1,0.4,-1481.4696,US-2024-623597,14-07-2024,,,
+Standard Class,Home Office,United States,San Francisco,California,94109,West,FUR-FU-8287-285,Furniture,Furnishings,Apple iPhone,1733.3259,1,0.15,-400.943,US-2022-498402,yesterday,,,
+Standard Class,Home Office,United States,Jacksonville,Florida,32216,South,TEC-MA-7321-272,Technology,Machines,Cisco IP Phone,1797.3634,5,0,-479.3704,US-2021-283809,07-02-2020,,,
+First Class,Consumer,United States,Los Angeles,California,90036,West,FUR-FU-3308-778,Furniture,Furnishings,HP Officejet Printer,1421.2343,2,0,-458.188,US-2020-256624,19-03-2021,,,
+First Class,Corporate,United States,Newark,New Jersey,7114,East,FUR-FU-5659-177,Furniture,Furnishings,Eldon Fold N Roll Cart,970.1258,11,0.1,-386.5154,US-2020-919292,11-03-2021,,,
+First Class,Home Office,United States,Henderson,Kentucky,42420,South,OFF-PA-5371-487,Office Supplies,Paper,Global Push Button Manager Chair,210.1167,8,0.3,103.6392,US-2024-338654,13-10-2024,,,
+Standard Class,Home Office,United States,Dallas,Texas,75220,Central,FUR-CH-9103-922,Furniture,Chairs,Xerox 1967,2454.229,6,0,-153.6972,US-2024-362793,26-12-2020,TOO,MANY,COLUMNS
+Standard Class,Consumer,United States,San Francisco,California,94109,West,FUR-CH-7299-890,Furniture,Chairs,HP Officejet Printer,688.5702,7,0.15,-109.6311,US-2022-233325,28-09-2020,,,
+Standard Class,Corporate,United States,Fort Lauderdale,Florida,33311,South,OFF-ST-2770-777,Office Supplies,Storage,Global Push Button Manager Chair,636.2353,7,0.4,4.3873,US-2021-528901,04-12-2020,,,
+Standard Class,Consumer,United States,Chicago,Illinois,60623,Central,FUR-TA-8668-781,Furniture,Tables,Hon Deluxe Fabric Chair,2447.3335,10,0.15,596.5335,US-2024-837732,09-06-2022,,,
+Same Day,Consumer,United States,Columbus,Ohio,43229,East,OFF-AR-6664-228,Office Supplies,Art,Global Push Button Manager Chair,N/A_BAD_VALUE,10,0.15,180.3914,US-2021-874556,12-04-2020,,,
+Second Class,Home Office,United States,Los Angeles,California,90036,West,TEC-CO-6612-622,Technology,Copiers,Hon Deluxe Fabric Chair,1491.7201,14,0.1,715.0334,US-2023-332093,19-02-2021,,,
+Standard Class,Corporate,United States,New York City,New York,10024,East,TEC-MA-5444-143,Technology,Machines,Eldon Fold N Roll Cart,459.0144,12,0,80.5723,US-2023-982973,22-11-2022,,,
+Standard Class,Consumer,United States,San Francisco,California,94109,West,FUR-CH-4118-390,Furniture,Chairs,Global Push Button Manager Chair,425.1388,12,0,-12.6353,US-2024-712435,23-09-2021,,,
+Second Class,Corporate,United States,Jacksonville,Florida,32216,South,FUR-BO-2056-136,Furniture,Bookcases,Eldon Fold N Roll Cart,2835.0374,1,0.15,-276.3635,US-2022-233004,24-06-2021,,,
+Standard Class,Corporate,United States,Newark,New Jersey,7114,East,OFF-AP-7403-182,Office Supplies,Appliances,Bretford Conference Table,2831.0214,3,0,826.0987,US-2023-825477,04-05-2022,,,
+Standard Class,Home Office,United States,San Francisco,California,94109,West,TEC-AC-8041-643,Technology,Accessories,Cisco IP Phone,1105.5171,11,0.3,-456.1586,US-2020-579955,21-03-2020,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE,
+Second Class,Corporate,United States,Fort Worth,Texas,76106,Central,OFF-AP-9974-605,Office Supplies,Appliances,Eldon Fold N Roll Cart,1868.3865,13,0.45,550.5533,US-2021-960055,15-05-2021,,,
+First Class,Home Office,United States,Newark,New Jersey,7114,East,FUR-BO-9998-909,Furniture,Bookcases,Xerox 1967,1124.2765,10,0.8,369.3377,US-2020-204548,01-02-2021,,,
+First Class,Consumer,United States,Chicago,Illinois,60623,Central,OFF-AR-8857-131,Office Supplies,Art,HP Officejet Printer,134.0655,10,0.8,-53.9449,US-2022-211598,22-08-2021,,,
+Same Day,Home Office,United States,Jacksonville,Florida,32216,South,FUR-CH-8904-429,Furniture,Chairs,Logitech Wireless Mouse,2240.3496,1,0.8,1043.0752,US-2023-516692,27-07-2023,,,
+Same Day,Corporate,United States,New York City,New York,10024,East,FUR-TA-5415-341,Furniture,Tables,Hon Deluxe Fabric Chair,2923.1404,1,0.1,1020.4522,US-2022-437867,19-04-2020,,,
+Same Day,Home Office,United States,Columbus,Ohio,43229,East,FUR-FU-5866-466,Furniture,Furnishings,Bretford Conference Table,1256.1277,13,0,-510.4039,US-2023-912926,08-08-2022,,,
+First Class,Home Office,United States,Fort Worth,Texas,76106,Central,OFF-BI-3695-264,Office Supplies,Binders,Logitech Wireless Mouse,2126.0474,13,0.6,-81.6815,US-2020-652860,01-01-2021,,,
+Standard Class,Corporate,United States,Henderson,Kentucky,42420,South,TEC-PH-1979-888,Technology,Phones,Bush Somerset Bookcase,2755.8956,14,0.3,1031.4033,US-2022-538867,02-03-2020,,,
+Same Day,Corporate,United States,Chicago,Illinois,60623,Central,TEC-PH-4278-610,Technology,Phones,Cisco IP Phone,1124.03,10,0.6,191.5123,US-2023-808467,25-08-2023,,,
+Same Day,Consumer,United States,Columbus,Ohio,43229,East,TEC-CO-3757-925,Technology,Copiers,Bretford Conference Table,1230.5306,14,0.6,-294.7113,US-2023-171407,08-03-2022,,,
+First Class,Corporate,United States,Newark,New Jersey,7114,East,TEC-PH-3203-575,Technology,Phones,Apple iPhone,2554.9243,12,0.1,-1106.2411,US-2022-803702,25-05-2023,,,
+Second Class,Home Office,United States,Newark,New Jersey,7114,East,FUR-FU-6685-823,Furniture,Furnishings,Global Push Button Manager Chair,1561.9235,14,0.3,148.5886,US-2021-438894,19-09-2024,,,
+Second Class,Home Office,United States,Detroit,Michigan,48227,Central,OFF-AP-3863-504,Office Supplies,Appliances,HP Officejet Printer,2316.0889,7,0.6,-1378.312,US-2023-978030,15-08-2022,,,
+"Same Day,Home Office,Unclosed quote without termination,Columbus,Ohio,43229
+Same Day,Home Office,United States,Henderson,Kentucky,42420,South,OFF-BI-6625-217,Office Supplies,Binders,Hon Deluxe Fabric Chair,696.1984,11,0.15,-352.5824,US-2022-156731,2023-02-21
+Second Class,Home Office,United States,Dallas,Texas,75220,Central,TEC-CO-8158-233,Technology,Copiers,Xerox 1967,2592.8415,6,0.1,246.7451,US-2020-441634,2020-02-19
+First Class,Home Office,United States,Henderson,Kentucky,N/A_ZIP,South,TEC-AC-8619-918,Technology,Accessories,Global Push Button Manager Chair,1411.1321,8,0,-617.5379,US-2022-729299,2021-02-22
+Same Day,Corporate,United States,Dallas,Texas,75220,Central,OFF-PA-4420-467,Office Supplies,Paper,3M Storage Bin,1853.5738,five,0.1,536.185,US-2020-943724,2022-04-04
+Standard Class,Corporate,United States,Newark,New Jersey,7114,East,FUR-BO-9144-768,Furniture,Bookcases,Hon Deluxe Fabric Chair,1375.8258,4,0,-122.8062,US-2020-425022,2024-01-22
+Same Day,Consumer,United States,Seattle,Washington,98103,West,TEC-CO-9267-950,Technology,Copiers,Bush Somerset Bookcase,8.3769,5,??,2.8376,US-2022-420805,2020-07-07
+Standard Class,Corporate,United States,Newark,New Jersey,7114,East,FUR-BO-7236-495,Furniture,Bookcases,Apple iPhone,1458.0276,14,0.4,566.269,US-2021-673230,2022-12-21
+Second Class,Home Office,United States,Los Angeles,California,90036,West,TEC-PH-1926-146,Technology,Phones,Global Push Button Manager Chair,438.0849,8,0.45,-67.5503,US-2022-720034,2022-09-23
+Same Day,Consumer,United States,Los Angeles,California,90036,West,FUR-BO-2040-988,Furniture,Bookcases,Logitech Wireless Mouse,308.3299,3,0.6,-6.3414,US-2020-901495,2024-06-02
+Second Class,Corporate,United States,New York City,New York,10024,East,FUR-TA-2463-935,Furniture,Tables,Bush Somerset Bookcase,2639.9805,7,0.3,1153.0151,US-2020-109590,2021-05-11
+Standard Class,Consumer,United States,New York City,New York,10024,East,FUR-BO-5709-435,Furniture,Bookcases,Logitech Wireless Mouse,1974.9851,1,0,-215.7508,US-2021-459391,2024-02-23
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,TEC-PH-8726-186,Technology,Phones,Global Push Button Manager Chair,130.7664,2,0,-70.186,US-2020-913540,2023-08-13
+Same Day,Home Office,United States,Jacksonville,Florida,32216,South,FUR-CH-1043-890,Furniture,Chairs,Xerox 1967,419.5737,11,0.8,69.5164,US-2021-867685,2024-09-08
+First Class,Corporate,United States,Houston,Texas,77036,Central,OFF-AP-3670-764,Office Supplies,Appliances,Global Push Button Manager Chair,98.2945,4,0.15,-39.9932,US-2022-213981,2024-04-09
+First Class,Home Office,United States,Los Angeles,California,90036,West,OFF-BI-2162-721,Office Supplies,Binders,Bush Somerset Bookcase,790.9391,10,0.1,310.0231,US-2021-380751,2020-05-13
+First Class,Corporate,United States,Dallas,Texas,75220,Central,FUR-TA-1030-928,Furniture,Tables,Hon Deluxe Fabric Chair,877.5087,5,0,19.6073,US-2024-985602,2020-08-03
+Second Class,Home Office,United States,Chicago,Illinois,60623,Central,OFF-BI-5362-966,Office Supplies,Binders,Belkin Surge Protector,740.3671,7,0.3,156.472,US-2021-548970,2023-06-12
+Second Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,TEC-AC-7684-656,Technology,Accessories,3M Storage Bin,2154.0253,14,0.45,897.4096,US-2020-382671,2022-05-13
+Second Class,Corporate,United States,Seattle,Washington,98103,West,OFF-AP-7540-926,Office Supplies,Appliances,Eldon Fold N Roll Cart,1075.6692,9,0.3,170.2749,US-2024-130138,2020-11-17
+Same Day,Home Office,United States,Detroit,Michigan,48227,Central,OFF-BI-3433-184,Office Supplies,Binders,Logitech Wireless Mouse,2975.3928,2,0.8,-968.7682,US-2023-328831,2022-08-10
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,TEC-CO-1759-156,Technology,Copiers,3M Storage Bin,877.0808,5,0,336.5267,US-2023-150798,2022-04-23
+First Class,Consumer,United States,Los Angeles,California,90036,West,OFF-BI-5174-152,Office Supplies,Binders,Bush Somerset Bookcase,2751.7977,12,0,1225.1544,US-2021-848257,2021-06-18
+Same Day,Corporate,United States,New York City,New York,10024,East,TEC-PH-6133-997,Technology,Phones,Fellowes Binder,1454.8625,1,0.3,90.9467,US-2021-586404,2021-09-19
+Standard Class,Home Office,United States,Houston,Texas,77036,Central,OFF-PA-1471-399,Office Supplies,Paper,Hon Deluxe Fabric Chair,1561.3333,12,0,-387.359,US-2024-740225,2024-07-23
+Same Day,Home Office,United States,Chicago,Illinois,60623,Central,OFF-BI-1638-527,Office Supplies,Binders,Global Push Button Manager Chair,810.2578,11,0,181.6756,US-2021-110944,2020-08-10
+First Class,Consumer,United States,New York City,New York,ZIPCODE,East,FUR-BO-6854-718,Furniture,Bookcases,Global Push Button Manager Chair,896.3235,4,0.2,-479.953,US-2023-703920,2022-05-28
+Same Day,Consumer,United States,San Francisco,California,94109,West,OFF-AP-8249-379,Office Supplies,Appliances,Newell 322,2565.4271,7,0.2,846.3655,US-2023-342439,2024-04-15
+Same Day,Consumer,United States,New York City,New York,10024,East,OFF-AP-9721-911,Office Supplies,Appliances,Newell 322,2698.6533,10,0,621.0407,US-2021-522638,2023-01-03
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,OFF-BI-5946-127,Office Supplies,Binders,Fellowes Binder,2522.0768,1,0.8,-61.4119,US-2023-287150,2020-01-07
+Same Day,Home Office,United States,Henderson,Kentucky,42420,South,FUR-FU-2008-576,Furniture,Furnishings,Global Push Button Manager Chair,559.3211,4,0,112.932,US-2022-225110,2022-12-24
+Same Day,Home Office,United States,Newark,New Jersey,7114,East,TEC-AC-8542-505,Technology,Accessories,Eldon Fold N Roll Cart,82.5448,6,0.1,22.7883,US-2020-604340,2024-11-01
+First Class,Home Office,United States,Seattle,Washington,98103,West,FUR-BO-1301-622,Furniture,Bookcases,Newell 322,155.5161,6,0.2,18.3715,US-2021-671475,2024-07-25
+First Class,Consumer,United States,Columbus,Ohio,43229,East,TEC-PH-6443-419,Technology,Phones,Newell 322,2626.8595,9,0.1,-1189.0857,US-2022-279921,2020-12-23
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,FUR-TA-6659-976,Furniture,Tables,Fellowes Binder,1723.9405,4,0,502.5347,US-2023-622494,2024-11-22
+Standard Class,Corporate,United States,Los Angeles,California,90036,West,TEC-MA-1294-558,Technology,Machines,HP Officejet Printer,2913.7777,6,0.45,-1003.1682,US-2023-820298,2021-10-09
+Second Class,Consumer,United States,Dallas,Texas,75220,Central,FUR-FU-3250-357,Furniture,Furnishings,Apple iPhone,2602.7283,11,0,7.9048,US-2022-413236,2020-07-03
+Same Day,Corporate,United States,Los Angeles,California,90036,West,OFF-PA-2474-376,Office Supplies,Paper,Bretford Conference Table,765.0842,5,0.45,-445.742,US-2024-787692,2022-10-13
+First Class,Home Office,United States,Henderson,Kentucky,42420,South,OFF-BI-7183-867,Office Supplies,Binders,Cisco IP Phone,1747.5036,2,0.4,-612.8274,US-2023-505545,2020-11-03
+Standard Class,Home Office,United States,Jacksonville,Florida,32216,South,OFF-AP-2595-444,Office Supplies,Appliances,Bretford Conference Table,1357.7982,7,0.45,407.8377,US-2021-183037,2023-10-05
+Second Class,Home Office,United States,Jacksonville,Florida,32216,South,FUR-CH-3454-909,Furniture,Chairs,Eldon Fold N Roll Cart,8.2533,2,0,2.4858,US-2021-694016,2021-04-02
+Standard Class,Consumer,United States,New York City,New York,10024,East,OFF-BI-6787-835,Office Supplies,Binders,HP Officejet Printer,2322.7421,4,0.1,-647.5436,US-2020-747846,2023-04-23
+Second Class,Corporate,United States,Columbus,Ohio,43229,East,TEC-CO-7761-594,Technology,Copiers,Apple iPhone,2273.3432,13,0.8,1020.9466,US-2020-784728,2020-05-16
+Same Day,Consumer,United States,Detroit,Michigan,48227,Central,FUR-FU-1254-756,Furniture,Furnishings,HP Officejet Printer,2249.4941,2,0.45,-220.5807,US-2022-447610,2021-03-12
+First Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,TEC-MA-9334-458,Technology,Machines,Cisco IP Phone,2147.78,2,0,36.9166,US-2022-794358,2022-04-27
+Standard Class,Consumer,United States,San Francisco,California,94109,West,OFF-AP-7102-362,Office Supplies,Appliances,Bush Somerset Bookcase,2345.6199,10,0.2,609.4674,US-2022-997142,2020-12-12
+Second Class,Consumer,United States,New York City,New York,10024,East,OFF-ST-4767-111,Office Supplies,Storage,Bretford Conference Table,583.0146,2,0.8,263.2515,US-2023-787098,N/A
+Second Class,Corporate,United States,New York City,New York,10024,East,FUR-TA-9878-781,Furniture,Tables,Belkin Surge Protector,1875.4656,2,0.45,-34.0006,US-2022-760603,2023-06-04
+First Class,Corporate,United States,Detroit,Michigan,48227,Central,FUR-FU-3215-925,Furniture,Furnishings,Bretford Conference Table,2098.2544,12,0,-1105.8383,US-2024-963510,2022-10-10
+Standard Class,Corporate,United States,Houston,Texas,77036,Central,FUR-TA-9322-888,Furniture,Tables,Xerox 1967,1594.9299,3,0.3,-651.9001,US-2024-220160,2020-04-11
+Second Class,Consumer,United States,Detroit,Michigan,48227,Central,FUR-BO-8060-948,Furniture,Bookcases,Eldon Fold N Roll Cart,1472.9753,2,0.3,-707.3771,US-2023-225677,2023-07-20
+Second Class",Home Office,Unclosed quote without termination,Dallas,Texas,75220,,,,,,,,,,,,,,
+Same Day,Consumer,United States,Dallas,Texas,75220,Central,OFF-BI-6840-561,Office Supplies,Binders,Newell 322,1036.2355,5,0.4,80.7952,US-2020-793236,10-10-2024,,,
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,OFF-ST-2656-485,Office Supplies,Storage,Cisco IP Phone,1074.7748,11,0.45,499.5782,US-2022-674834,27-07-2021,,,
+Standard Class,Consumer,United States,Columbus,Ohio,43229,East,OFF-PA-7021-510,Office Supplies,Paper,Xerox 1967,2517.2194,10,0.3,-800.9134,US-2020-513415,05-03-2023,,,
+Same Day,Consumer,United States,Fort Lauderdale,Florida,33311,South,FUR-CH-5410-673,Furniture,Chairs,Hon Deluxe Fabric Chair,1615.8252,6,0.4,146.9529,US-2023-855126,12-06-2023,,,
+Standard Class,Home Office,United States,Seattle,Washington,98103,West,TEC-PH-3577-155,Technology,Phones,Bush Somerset Bookcase,916.0878,14,0.1,-370.5074,US-2020-301071,25-01-2023,,,
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,FUR-BO-7191-319,Furniture,Bookcases,Apple iPhone,2699.3967,10,0.15,-903.126,US-2022-547866,12-04-2020,,,
+Second Class,Corporate,United States,Fort Lauderdale,Florida,33311,South,OFF-AP-8378-976,Office Supplies,Appliances,Xerox 1967,986.3614,4,0,-377.024,US-2024-833893,10-03-2024,,,
+First Class,Home Office,United States,Los Angeles,California,90036,West,FUR-CH-1903-952,Furniture,Chairs,HP Officejet Printer,unknown,11,0.1,315.6293,US-2024-840945,28-02-2022,,,
+Standard Class,Home Office,United States,Columbus,Ohio,43229,East,OFF-AP-2139-294,Office Supplies,Appliances,HP Officejet Printer,1541.5369,9,0.2,-561.0703,US-2023-737584,05-07-2020,,,
+Same Day,Corporate,United States,New York City,New York,10024,East,OFF-ST-6690-226,Office Supplies,Storage,3M Storage Bin,167.8212,9,,,,,,,
+Second Class,Home Office,United States,Seattle,Washington,98103,West,FUR-BO-5067-835,Furniture,Bookcases,Apple iPhone,1189.2929,4,0.3,-135.0862,US-2020-120264,14-04-2022,,,
+Same Day,Consumer,United States,Detroit,Michigan,48227,Central,TEC-CO-8035-975,Technology,Copiers,Bush Somerset Bookcase,6.1573,3,0.1,1.5256,US-2021-754035,17-12-2024,,,
+Second Class,Consumer,United States,Dallas,Texas,75220,Central,TEC-CO-2567-683,Technology,Copiers,Xerox 1967,1316.3848,4,0.45,-137.2183,US-2023-728278,26-01-2022,,,
+Same Day,Home Office,United States,Dallas,Texas,75220,Central,TEC-PH-9226-138,Technology,Phones,Bush Somerset Bookcase,232.6725,1,0.4,-55.4529,US-2022-356415,22-11-2021,,,
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,FUR-CH-4919-517,Furniture,Chairs,HP Officejet Printer,2783.8143,5,0.1,17.0169,US-2022-643944,01-10-2020,,,
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,FUR-FU-6206-283,Furniture,Furnishings,Apple iPhone,408.4383,6,0,-207.1821,US-2021-987648,04-10-2021,,,
+Second Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,OFF-ST-9811-253,Office Supplies,Storage,Apple iPhone,2225.4789,2,0,-1252.5077,US-2021-667623,12-05-2021,TOO,MANY,COLUMNS
+"Standard Class,Corporate,Unclosed quote without termination,Seattle,Washington,98103
+First Class,Consumer,United States,Dallas,Texas,75220,Central,TEC-CO-3294-359,Technology,Copiers,Bush Somerset Bookcase,1592.0077,7,0.8,-346.4755,US-2022-968811,2023-11-23
+First Class,Corporate,United States,Seattle,Washington,98103,West,FUR-CH-7079-772,Furniture,Chairs,HP Officejet Printer,1568.4343,5,0.4,536.1835,US-2024-439023,2021-04-26
+Same Day,Home Office,United States,New York City,New York,10024,East,FUR-CH-4299-503,Furniture,Chairs,Newell 322,2756.2613,13,0.45,263.9398,US-2020-330086,2020-10-13
+Standard Class,Consumer,United States,New York City,New York,UNKNOWN,East,TEC-MA-2309-824,Technology,Machines,Bush Somerset Bookcase,1210.5966,9,0.3,566.9716,US-2021-569590,2020-01-27
+Standard Class,Home Office,United States,Henderson,Kentucky,UNKNOWN,South,TEC-CO-2123-746,Technology,Copiers,Logitech Wireless Mouse,1330.9696,4,0.2,522.9352,US-2021-282597,2022-11-01
+First Class,Corporate,United States,Chicago,Illinois,60623,Central,OFF-ST-9033-866,Office Supplies,Storage,Newell 322,66.1851,5,0.8,-6.201,US-2023-331460,2024-07-16
+Standard Class,Corporate,United States,Jacksonville,Florida,32216,South,TEC-MA-3884-908,Technology,Machines,Hon Deluxe Fabric Chair,1535.1689,5,0.15,-613.6964,US-2024-160340,2022-09-28
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,FUR-CH-2820-410,Furniture,Chairs,Bush Somerset Bookcase,1063.4447,14,0.6,86.0341,US-2024-486313,2020-08-20
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19140,East,TEC-CO-7864-648,Technology,Copiers,Cisco IP Phone,1477.4387,5,0,491.1732,US-2023-877715,2020-07-27,TOO,MANY,COLUMNS
+Standard Class,Corporate,United States,Detroit,Michigan,48227,Central,FUR-TA-8710-653,Furniture,Tables,Hon Deluxe Fabric Chair,2896.9401,2,0.1,-649.153,US-2021-981132,2023-06-27
+Standard Class,Home Office,United States,Chicago,Illinois,60623,Central,FUR-CH-3773-832,Furniture,Chairs,Fellowes Binder,2514.4787,1O,0.3,-14.0097,US-2022-837153,2021-06-12
+First Class,Consumer,United States,Houston,Texas,77036,Central,OFF-AP-5438-220,Office Supplies,Appliances,Global Push Button Manager Chair,1150.9311,4,0,-532.7279,US-2023-282430,2020-08-03
+First Class,Consumer,United States,San Francisco,California,94109,West,OFF-AP-3186-257,Office Supplies,Appliances,Bretford Conference Table,1157.1021,14,0.2,104.7689,US-2021-725276,2023-08-21
+Standard Class,Corporate,United States,Chicago,Illinois,60623,Central,FUR-FU-8996-100,Furniture,Furnishings,Newell 322,611.5066,1,0.1,107.9272,US-2022-793708,2020-06-18
+Second Class,Consumer,United States,San Francisco,California,94109,West,FUR-FU-9972-889,Furniture,Furnishings,Apple iPhone,2498.803,11,0.2,1141.0889,US-2023-456941,2022-11-17
+First Class,Consumer,United States,Jacksonville,Florida,32216,South,TEC-CO-7247-246,Technology,Copiers,Eldon Fold N Roll Cart,737.114,6,0.4,62.7483,US-2024-389967,2023-05-02
+Second Class,Consumer,United States,Los Angeles,California,90036,West,OFF-AR-8864-210,Office Supplies,Art,Fellowes Binder,1539.4311,14,0.15,-589.1183,US-2020-276656,2020-03-27
+Same Day,Home Office,United States,Columbus,Ohio,43229,East,OFF-PA-7609-697,Office Supplies,Paper,Hon Deluxe Fabric Chair,2163.2474,5,0.1,-341.1853,US-2022-749625,2024-11-11
+Standard Class,Home Office,United States,Los Angeles,California,90036,West,FUR-CH-6492-138,Furniture,Chairs,HP Officejet Printer,2089.5329,10,0.6,784.0261,US-2021-603544,2021-07-12,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,OFF-BI-5560-357,Office Supplies,Binders,Belkin Surge Protector,2750.6169,11,0.1,668.269,US-2024-148116,2024-06-03
+Second Class,Corporate,United States,New York City,New York,10024,East,TEC-CO-2555-293,Technology,Copiers,Fellowes Binder,2913.2165,6,0,218.9623,US-2020-692624,2021-07-09
+First Class,Home Office,United States,Chicago,Illinois,60623,Central,TEC-CO-7645-978,Technology,Copiers,Xerox 1967,2658.5494,10,0,503.7648,US-2020-655023,2020-09-05
+First Class",Corporate,Unclosed quote without termination,San Francisco,California,94109,,,,,,,,,,,,,,
+Standard Class,Consumer,United States,Seattle,Washington,98103,West,FUR-TA-1561-947,Furniture,Tables,Fellowes Binder,1129.0848,10,0.6,197.7939,,,,,
+First Class,Corporate,United States,Detroit,Michigan,48227,Central,TEC-CO-7601-127,Technology,Copiers,Logitech Wireless Mouse,82.8078,3,0.6,18.1744,US-2022-856259,25-09-2022,,,
+Same Day,Corporate,United States,Dallas,Texas,75220,Central,OFF-BI-3090-232,Office Supplies,Binders,Eldon Fold N Roll Cart,2897.6836,9,0.1,-693.0763,US-2021-720192,22-01-2023,,,
+First Class,Home Office,United States,Seattle,Washington,98103,West,FUR-CH-8231-885,Furniture,Chairs,Eldon Fold N Roll Cart,788.2843,3,0.15,186.9918,US-2023-742420,20-03-2024,,,
+Second Class,Corporate,United States,Dallas,Texas,N/A_ZIP,Central,OFF-AR-7099-157,Office Supplies,Art,Global Push Button Manager Chair,1425.2308,10,0.3,408.2163,US-2021-169151,14-03-2024,,,
+First Class,Consumer,United States,Chicago,Illinois,60623,Central,OFF-BI-8103-777,Office Supplies,Binders,Bretford Conference Table,1008.9003,3,0.2,-490.7721,US-2022-893563,21-07-2021,,,
+Same Day,Consumer,United States,Jacksonville,Florida,32216,South,FUR-CH-9312-311,Furniture,Chairs,Belkin Surge Protector,938.1509,9,0.45,262.5605,US-2023-768881,07-10-2022,,,
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,TEC-PH-2708-603,Technology,Phones,Global Push Button Manager Chair,1195.6772,6,0.8,174.7531,US-2024-928685,18-09-2024,,,
+Second Class,Corporate,United States,Newark,New Jersey,7114,East,TEC-AC-9169-364,Technology,Accessories,Global Push Button Manager Chair,377.7958,11,0,-50.0293,US-2021-706830,21-04-2024,,,
+Same Day,Corporate,United States,Seattle,Washington,98103,West,OFF-AR-7949-309,Office Supplies,Art,Newell 322,2242.4015,1,0,-956.5677,US-2021-858760,16-08-2024,,,
+Second Class,Corporate,United States,Fort Worth,Texas,76106,Central,OFF-PA-7531-542,Office Supplies,Paper,HP Officejet Printer,1589.112,13,0,-200.4957,US-2024-710312,23-04-2023,,,
+First Class,Corporate,United States,Dallas,Texas,75220,Central,OFF-AP-7468-311,Office Supplies,Appliances,Apple iPhone,2675.6496,4,0.6,604.1652,US-2020-346622,06-06-2023,,,
+Same Day,Home Office,United States,Seattle,Washington,98103,West,FUR-TA-6755-409,Furniture,Tables,Bretford Conference Table,672.3683,8,0.15,-210.8404,US-2024-597440,04-10-2023,,,
+Second Class,Consumer,United States,Fort Worth,Texas,76106,Central,OFF-ST-6108-170,Office Supplies,Storage,Global Push Button Manager Chair,127.816,4,0.45,-44.0381,US-2020-767189,27-04-2023,,,
+Second Class,Corporate,United States,Newark,New Jersey,7114,East,FUR-FU-5902-200,Furniture,Furnishings,Logitech Wireless Mouse,1955.9385,10,0,-234.8364,US-2021-356607,28-02-2020,,,
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,FUR-FU-9460-469,Furniture,Furnishings,Cisco IP Phone,2417.2492,11,0,877.7366,US-2022-658618,03-12-2024,,,
+"First Class,Corporate,Unclosed quote without termination,Jacksonville,Florida,32216
+Same Day,Home Office,United States,Chicago,Illinois,60623,Central,TEC-MA-5708-401,Technology,Machines,Bretford Conference Table,586.4386,9,0.1,-126.2434,US-2023-275962,2020-12-15
+Second Class,Home Office,United States,Columbus,Ohio,43229,East,OFF-AR-5458-343,Office Supplies,Art,Hon Deluxe Fabric Chair,1805.1899,12,0.45,885.8781,US-2023-231273,2021-06-07
+Second Class,Consumer,United States,Henderson,Kentucky,42420,South,TEC-MA-5821-670,Technology,Machines,Xerox 1967,654.8301,12,ten_percent,-80.0628,US-2023-494793,2023-01-14
+Standard Class,Consumer,United States,New York City,New York,10024,East,FUR-FU-9175-162,Furniture,Furnishings,Logitech Wireless Mouse,2100.9792,8,0,882.7218,US-2021-246566,2022-05-11
+Second Class,Consumer,United States,Henderson,Kentucky,42420,South,FUR-FU-8101-881,Furniture,Furnishings,Newell 322,1007.1171,2,0,444.1379,US-2021-225974,2022-08-16
+First Class,Consumer,United States,Detroit,Michigan,48227,Central,TEC-MA-2223-659,Technology,Machines,Cisco IP Phone,1549.2641,3,0.6,-486.736,US-2021-567495,2020-01-15
+Same Day,Corporate,United States,Dallas,Texas,75220,Central,TEC-AC-6575-473,Technology,Accessories,Bush Somerset Bookcase,689.1971,10,0,-287.5519,US-2022-649984,2024-12-15
+Same Day,Consumer,United States,Fort Worth,Texas,76106,Central,FUR-BO-9072-172,Furniture,Bookcases,HP Officejet Printer,2486.1074,5,0.3,274.1314,US-2020-736713,2021-11-28
+First Class,Home Office,United States,Chicago,Illinois,60623,Central,OFF-PA-1006-997,Office Supplies,Paper,Newell 322,692.2488,6,0.45,237.5455,US-2023-374594,2024-03-23
+Standard Class,Corporate,United States,Newark,New Jersey,7114,East,TEC-MA-6630-521,Technology,Machines,Eldon Fold N Roll Cart,524.9173,6,0.1,-142.6122,US-2024-868401,2024-05-21
+Standard Class,Corporate,United States,Henderson,Kentucky,42420,South,OFF-ST-2187-238,Office Supplies,Storage,3M Storage Bin,1418.7919,1,0.1,-564.8996,US-2020-276523,2022-11-24
+Second Class,Consumer,United States,San Francisco,California,94109,West,FUR-FU-3622-936,Furniture,Furnishings,Bretford Conference Table,2083.5035,8,0,-81.3917,US-2023-935644,2023-02-06
+Same Day,Consumer,United States,Jacksonville,Florida,32216,South,OFF-BI-6754-349,Office Supplies,Binders,Cisco IP Phone,810.2722,7,0.8,-84.8834,US-2021-130064,2024-05-28
+First Class,Home Office,United States,Henderson,Kentucky,42420,South,OFF-AP-7877-910,Office Supplies,Appliances,Eldon Fold N Roll Cart,2553.143,5,0.2,-103.102,US-2020-453717,2024-01-24
+Same Day,Home Office,United States,Seattle,Washington,98103,West,TEC-PH-6387-954,Technology,Phones,Newell 322,2706.021,7,0.6,35.6081,US-2023-584450,2022-02-01
+Same Day,Corporate,United States,Detroit,Michigan,48227,Central,FUR-FU-1773-301,Furniture,Furnishings,Logitech Wireless Mouse,2834.0745,3,0.2,-428.073,US-2020-215835,2022-01-24
+Second Class,Corporate,United States,Dallas,Texas,75220,Central,TEC-AC-8448-419,Technology,Accessories,Logitech Wireless Mouse,388.2855,3,0.8,-51.3178,US-2021-894410,2023-12-24
+Standard Class,Consumer,United States,Seattle,Washington,98103,West,TEC-PH-9441-844,Technology,Phones,Bush Somerset Bookcase,463.8237,8,0.2,-86.3167,US-2021-492252,2020-04-16
+Second Class,Home Office,United States,Houston,Texas,77036,Central,OFF-PA-5806-900,Office Supplies,Paper,Global Push Button Manager Chair,768.3723,5,0.1,-308.4343,US-2021-117677,2023-04-07
+First Class,Consumer,United States,Fort Worth,Texas,76106,Central,OFF-AP-8063-926,Office Supplies,Appliances,HP Officejet Printer,561.6773,14,0.2,57.3375,US-2023-242981,2024-03-12
+Second Class,Corporate,United States,Dallas,Texas,75220,Central,TEC-PH-1610-664,Technology,Phones,Fellowes Binder,2899.0282,7,0,1372.9131,US-2022-563030,2024-06-07
+Second Class,Home Office,United States,Fort Worth,Texas,76106,Central,FUR-CH-9743-393,Furniture,Chairs,Belkin Surge Protector,2471.8419,5,0.2,869.2699,US-2023-789676,2021-01-28,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE
+Standard Class,Consumer,United States,Newark,New Jersey,7114,East,FUR-TA-9646-930,Furniture,Tables,3M Storage Bin,1689.6137,10,0,248.3438,US-2020-683495,2024-02-14
+Same Day,Corporate,United States,Los Angeles,California,90036,West,FUR-TA-1629-621,Furniture,Tables,Global Push Button Manager Chair,2395.2351,5,0.1,811.7765,US-2024-821028,2021-10-21
+Standard Class,Consumer,United States,Chicago,Illinois,60623,Central,OFF-AP-2769-731,Office Supplies,Appliances,Newell 322,261.4586,10,0.6,-153.4197,US-2023-517359,2022-11-02,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE
+Same Day,Home Office,United States,Los Angeles,California,90036,West,TEC-PH-9882-120,Technology,Phones,Logitech Wireless Mouse,1636.3844,8,0.3,-155.2231,US-2022-991750,2024-10-27
+First Class,Home Office,United States,Detroit,Michigan,48227,Central,OFF-AR-8017-591,Office Supplies,Art,Global Push Button Manager Chair,804.4111,9,0,313.9563,US-2022-703369,2024-12-04
+Standard Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,TEC-PH-5601-416,Technology,Phones,Cisco IP Phone,1003.7055,5,0.8,443.7783,US-2021-322731,2024-02-22
+First Class,Corporate,United States,Columbus,Ohio,43229,East,OFF-AP-2706-914,Office Supplies,Appliances,Apple iPhone,290.7947,1,0,-115.4689,US-2020-614251,2024-12-17
+Second Class,Corporate,United States,Seattle,Washington,98103,West,TEC-CO-9051-723,Technology,Copiers,Newell 322,2620.4253,12,0,-1437.1125,US-2021-642327,2022-05-10
+Second Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,TEC-MA-8904-464,Technology,Machines,Newell 322,1506.8087,14,0.6,352.9873,US-2023-840163,2021-09-03
+Same Day,Consumer,United States,Chicago,Illinois,60623,Central,OFF-AP-6263-695,Office Supplies,Appliances,Xerox 1967,2587.9761,11,0.1,391.1686,US-2024-494711,2020-06-26
+Same Day,Home Office,United States,New York City,New York,10024,East,OFF-AR-7814-682,Office Supplies,Art,Bush Somerset Bookcase,143.759,11,0.45,1.8703,US-2023-298421,2024-05-15
+Second Class,Consumer,United States,Houston,Texas,77036,Central,OFF-AR-9191-733,Office Supplies,Art,Fellowes Binder,1633.3317,13,0,400.9098,US-2024-991333,2022-07-16
+Second Class,Consumer,United States,Seattle,Washington,98103,West,TEC-AC-4244-737,Technology,Accessories,Bretford Conference Table,947.5378,14,0.1,-75.3512,US-2022-380236,2022-07-07
+Same Day,Consumer,United States,San Francisco,California,94109,West,FUR-TA-1624-656,Furniture,Tables,HP Officejet Printer,1709.5233,9,0.1,31.9806,US-2024-757970,2023-11-14
+Second Class,Consumer,United States,Detroit,Michigan,48227,Central,FUR-FU-6215-260,Furniture,Furnishings,Global Push Button Manager Chair,447.2367,7,0.45,-166.173,US-2021-728278,2024-10-01
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,OFF-BI-9692-557,Office Supplies,Binders,Newell 322,405.714,8,0.45,104.3785,US-2022-767019,2023-04-15
+Standard Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,FUR-FU-6193-845,Furniture,Furnishings,Cisco IP Phone,1744.2548,1,0,437.663,US-2022-496189,2022-02-11
+Same Day,Corporate,United States,Los Angeles,California,90036,West,FUR-TA-2706-376,Furniture,Tables,3M Storage Bin,515.1493,3,0.15,136.1429,US-2021-751214,2024-08-26
+Standard Class,Home Office,United States,New York City,New York,10024,East,OFF-PA-3190-911,Office Supplies,Paper,Belkin Surge Protector,1951.2879,5,0.4,-797.6847,US-2023-277202,2023-04-08
+Second Class,Consumer,United States,Henderson,Kentucky,42420,South,TEC-PH-5255-799,Technology,Phones,Eldon Fold N Roll Cart,unknown,11,0.1,93.6031,US-2020-536577,2024-11-01
+Standard Class,Home Office,United States,Chicago,Illinois,60623,Central,FUR-CH-5758-621,Furniture,Chairs,HP Officejet Printer,2742.4656,8,0,983.5467,US-2022-927739,2024-07-02
+Second Class,Home Office,United States,Seattle,Washington,98103,West,FUR-CH-6749-946,Furniture,Chairs,Newell 322,1799.7341,3,0.15,-531.7763,US-2023-964029,2023-07-13
+Same Day,Corporate,United States,Houston,Texas,ZIPCODE,Central,OFF-PA-2713-981,Office Supplies,Paper,Eldon Fold N Roll Cart,2061.8595,5,0.1,-716.1879,US-2021-940991,2020-09-11
+First Class,Home Office,United States,Henderson,Kentucky,42420,South,FUR-FU-4050-875,Furniture,Furnishings,Hon Deluxe Fabric Chair,2642.829,14,0.8,249.2797,US-2022-678024,2022-06-10
+First Class,Corporate,United States,Dallas,Texas,N/A_ZIP,Central,OFF-PA-9739-928,Office Supplies,Paper,Belkin Surge Protector,2842.2704,13,0,-1629.5077,US-2022-935524,2023-07-13
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,FUR-TA-7566-652,Furniture,Tables,3M Storage Bin,2818.377,8,0,-102.8832,US-2024-535490,2024-01-28
+Standard Class,Home Office,United States,Newark,New Jersey,7114,East,OFF-AR-3148-247,Office Supplies,Art,HP Officejet Printer,21.6288,10,0.1,9.7665,US-2020-820919,2023-11-24
+Second Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,FUR-TA-5384-752,Furniture,Tables,Logitech Wireless Mouse,1741.6695,8,0,-266.8594,US-2024-708737,not-a-date
+First Class,Home Office,United States,Chicago,Illinois,60623,Central,TEC-AC-6269-491,Technology,Accessories,Cisco IP Phone,2824.3182,1O,0.8,1152.8612,US-2024-975126,2022-01-03
+First Class,Consumer,United States,Newark,New Jersey,7114,East,FUR-BO-9181-111,Furniture,Bookcases,Bush Somerset Bookcase,285.6977,14,0,-63.6621,US-2024-289713,2020-09-07,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE
+First Class,Consumer,United States,Houston,Texas,77036,Central,OFF-AP-1693-554,Office Supplies,Appliances,Bretford Conference Table,2599.0348,2,0.4,1028.9449,US-2024-293892,2022-06-06
+First Class,Corporate,United States,New York City,New York,10024,East,OFF-ST-2005-875,Office Supplies,Storage,Eldon Fold N Roll Cart,1680.1588,13,0.3,-896.6261,US-2021-922830,2024-06-03
+Standard Class,Corporate,United States,New York City,New York,10024,East,FUR-CH-7028-187,Furniture,Chairs,Hon Deluxe Fabric Chair,2013.7709,3,0.2,-585.2698,US-2023-276370,2021-09-11
+Same Day,Home Office,United States,Chicago,Illinois,60623,Central,OFF-ST-2328-811,Office Supplies,Storage,Belkin Surge Protector,2512.0119,9,0.2,-694.7003,US-2024-971575,2024-11-12
+Second Class,Home Office,United States,New York City,New York,10024,East,OFF-ST-9580-132,Office Supplies,Storage,Newell 322,846.3985,7,0.3,-387.1156,US-2020-753626,not-a-date
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,TEC-PH-8106-939,Technology,Phones,Xerox 1967,926.3547,14,0.45,-503.6226,US-2023-212784,2022-09-24
+First Class,Home Office,United States,Chicago,Illinois,60623,Central,FUR-BO-4916-637,Furniture,Bookcases,Cisco IP Phone,1800.0981,7,0.45,-525.0648,US-2023-581893,2023-03-21
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,FUR-BO-6646-875,Furniture,Bookcases,HP Officejet Printer,1427.5499,12,0.4,-209.7393,US-2021-968303,2024-11-13
+Same Day,Consumer,United States,Chicago,Illinois,60623,Central,TEC-CO-8075-388,Technology,Copiers,Logitech Wireless Mouse,683.7058,14,0.1,-382.6347,US-2022-432178,2022-10-16
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,FUR-FU-5547-886,Furniture,Furnishings,HP Officejet Printer,2147.5141,5,0,-1100.2895,US-2020-934044,2020-06-02
+Second Class",Consumer,Unclosed quote without termination,San Francisco,California,94109,,,,,,,,,,,,,,
+Same Day,Home Office,United States,Philadelphia,Pennsylvania,19140,East,TEC-CO-5974-141,Technology,Copiers,Cisco IP Phone,2116.0185,1,0.2,-710.7684,US-2020-575954,14-10-2024,,,
+Same Day,Consumer,United States,Henderson,Kentucky,42420,South,OFF-AP-2134-707,Office Supplies,Appliances,Newell 322,1247.2743,7,0.6,-675.0331,US-2020-800433,17-03-2023,,,
+Same Day,Consumer,United States,Philadelphia,Pennsylvania,19140,East,TEC-AC-9085-232,Technology,Accessories,Belkin Surge Protector,44.7047,5,0.1,-20.2083,US-2022-333865,24-10-2024,,,
+Same Day,Corporate,United States,San Francisco,California,94109,West,TEC-MA-7171-331,Technology,Machines,Fellowes Binder,214.4355,13,0,98.8208,US-2023-314813,07-07-2022,,,
+Second Class,Corporate,United States,New York City,New York,10024,East,OFF-ST-1707-681,Office Supplies,Storage,Cisco IP Phone,740.0339,3,0,306.6642,US-2023-952342,06-02-2023,,,
+First Class,Home Office,United States,San Francisco,California,94109,West,FUR-BO-8877-465,Furniture,Bookcases,Eldon Fold N Roll Cart,2951.2629,8,0.1,321.9545,US-2022-540425,24-09-2020,,,
+Same Day,Home Office,United States,Fort Worth,Texas,76106,Central,FUR-BO-6304-281,Furniture,Bookcases,Cisco IP Phone,579.3428,8,0.6,37.0242,US-2022-619595,15-07-2023,,,
+Second Class,Home Office,United States,Newark,New Jersey,7114,East,OFF-AP-8878-859,Office Supplies,Appliances,Bush Somerset Bookcase,2189.296,12,0,464.0268,US-2022-368080,20-06-2020,,,
+Second Class,Home Office,United States,New York City,New York,10024,East,OFF-PA-5451-681,Office Supplies,Paper,Bretford Conference Table,2547.2039,5,0.6,-309.7339,US-2023-641377,25-11-2023,,,
+Same Day,Home Office,United States,Fort Worth,Texas,76106,Central,FUR-CH-5271-267,Furniture,Chairs,Apple iPhone,387.2189,8,0.2,26.465,US-2023-113749,05-04-2022,,,
+Standard Class,Home Office,United States,Seattle,Washington,98103,West,OFF-PA-7635-625,Office Supplies,Paper,Xerox 1967,457.752,5,0.1,93.3816,US-2021-918875,14-02-2020,TOO,MANY,COLUMNS
+Second Class,Consumer,United States,Seattle,Washington,98103,West,TEC-MA-6572-846,Technology,Machines,Newell 322,2510.6926,1,0,-1436.1788,US-2024-232154,02-07-2024,,,
+First Class,Corporate,United States,New York City,New York,10024,East,FUR-BO-8259-881,Furniture,Bookcases,Logitech Wireless Mouse,1457.7992,7,0.2,-427.4593,US-2022-547143,22-05-2022,,,
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,TEC-CO-9267-628,Technology,Copiers,Apple iPhone,2707.9408,9,0.4,-925.6642,US-2020-463881,10-11-2020,,,
+First Class,Consumer,United States,Columbus,Ohio,43229,East,TEC-CO-4058-651,Technology,Copiers,Newell 322,1114.7303,1,0.2,-384.0482,US-2021-428174,24-05-2023,,,
+Same Day,Corporate,United States,Seattle,Washington,98103,West,TEC-AC-7305-179,Technology,Accessories,Logitech Wireless Mouse,1610.6641,13,0.1,-753.0836,US-2021-681603,16-10-2022,,,
+First Class,Home Office,United States,Newark,New Jersey,7114,East,OFF-PA-8247-656,Office Supplies,Paper,HP Officejet Printer,1335.6171,5,0.1,161.2775,US-2024-444168,24-01-2023,,,
+Same Day,Corporate,United States,Jacksonville,Florida,32216,South,OFF-AP-2302-607,Office Supplies,Appliances,Bush Somerset Bookcase,811.4855,12,0.15,132.7906,US-2020-309389,24-02-2023,,,
+First Class,Home Office,United States,Henderson,Kentucky,42420,South,OFF-AP-3878-168,Office Supplies,Appliances,Newell 322,158.8709,13,0.45,10.6505,US-2023-332380,07-11-2020,,,
+First Class,Home Office,United States,Columbus,Ohio,43229,East,OFF-PA-8819-188,Office Supplies,Paper,3M Storage Bin,1152.2897,2,0.45,-316.3423,US-2022-275025,22-09-2020,,,
+Second Class,Corporate,United States,Columbus,Ohio,43229,East,FUR-FU-6503-743,Furniture,Furnishings,Xerox 1967,1257.8442,9,0.4,-420.3833,US-2023-197910,21-06-2022,,,
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,TEC-MA-1965-247,Technology,Machines,Xerox 1967,534.6344,10,0.8,-220.9368,US-2021-845139,06-11-2020,,,
+Second Class,Consumer,United States,New York City,New York,10024,East,TEC-MA-6163-118,Technology,Machines,Newell 322,2287.4901,6,0.3,-564.5169,US-2024-194247,05-01-2021,,,
+Second Class,Home Office,United States,Chicago,Illinois,60623,Central,FUR-BO-6639-466,Furniture,Bookcases,Global Push Button Manager Chair,1706.4805,13,0.4,-503.5153,US-2024-844451,01-01-2021,,,
+First Class,Corporate,United States,Dallas,Texas,75220,Central,OFF-AP-9900-874,Office Supplies,Appliances,Bretford Conference Table,1271.7318,8,0,-518.2629,US-2021-950833,17-11-2024,,,
+Same Day,Consumer,United States,New York City,New York,10024,East,OFF-AR-9784-241,Office Supplies,Art,Hon Deluxe Fabric Chair,1612.4679,5,0,434.0837,US-2020-818466,25-02-2024,,,
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,OFF-BI-6753-537,Office Supplies,Binders,Hon Deluxe Fabric Chair,946.2573,1,0.45,89.7549,US-2020-404527,22-12-2021,,,
+Second Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,OFF-BI-7899-544,Office Supplies,Binders,Global Push Button Manager Chair,513.6005,12,0.45,218.318,US-2023-690125,20-02-2022,,,
+Second Class,Consumer,United States,New York City,New York,10024,East,OFF-AR-1448-308,Office Supplies,Art,Logitech Wireless Mouse,314.6085,4,0,43.3302,US-2023-112584,12-03-2023,,,
+Standard Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,TEC-AC-1795-369,Technology,Accessories,Hon Deluxe Fabric Chair,2933.8716,10,0.45,555.7859,US-2024-899847,18-01-2022,,,
+First Class,Corporate,United States,Los Angeles,California,90036,West,OFF-ST-3638-404,Office Supplies,Storage,Eldon Fold N Roll Cart,2943.676,8,0.8,-1232.3848,US-2021-967473,18-01-2020,,,
+Same Day,Consumer,United States,Newark,New Jersey,7114,East,TEC-MA-4360-359,Technology,Machines,HP Officejet Printer,1726.9712,2,0.4,-632.48,US-2020-497208,20-04-2023,,,
+First Class,Home Office,United States,Newark,New Jersey,7114,East,FUR-TA-9420-992,Furniture,Tables,3M Storage Bin,1024.6243,9,0,-60.2645,US-2022-889829,13-03-2023,,,
+First Class,Consumer,United States,New York City,New York,10024,East,OFF-PA-8659-657,Office Supplies,Paper,Belkin Surge Protector,1095.5712,2,0.2,410.8056,US-2024-754840,19-11-2021,,,
+Same Day,Corporate,United States,Dallas,Texas,75220,Central,TEC-PH-4314-585,Technology,Phones,Eldon Fold N Roll Cart,1523.4229,6,0.2,-162.5362,US-2023-629720,09-03-2022,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE,
+Standard Class,Home Office,United States,San Francisco,California,94109,West,OFF-AP-9678-586,Office Supplies,Appliances,Fellowes Binder,2414.204,10,0,356.9234,US-2024-729955,04-05-2023,,,
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19140,East,TEC-PH-8393-884,Technology,Phones,HP Officejet Printer,2362.504,12,0.15,-1363.8671,US-2021-601627,08-06-2021,,,
+First Class,Home Office,United States,Houston,Texas,77036,Central,OFF-AR-1829-309,Office Supplies,Art,Newell 322,80.0682,13,-,-10.5754,US-2020-459235,04-02-2021,,,
+Same Day,Consumer,United States,Henderson,Kentucky,42420,South,FUR-BO-9696-729,Furniture,Bookcases,Newell 322,1271.6207,4,,,,,,,
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,OFF-BI-6653-867,Office Supplies,Binders,Fellowes Binder,845.1095,9,ten_percent,-380.0929,US-2024-577113,08-09-2022,,,
+Second Class,Corporate,United States,Fort Worth,Texas,76106,Central,OFF-AR-3094-438,Office Supplies,Art,Bush Somerset Bookcase,878.9894,6,0,402.1006,US-2021-463560,25-10-2021,,,
+Standard Class,Consumer,United States,Detroit,Michigan,48227,Central,TEC-MA-8832-301,Technology,Machines,HP Officejet Printer,2040.6044,10,0.1,129.5938,US-2021-577819,05-09-2020,TOO,MANY,COLUMNS
+Second Class,Consumer,United States,Dallas,Texas,75220,Central,TEC-AC-9170-126,Technology,Accessories,Logitech Wireless Mouse,1417.048,4,0.1,-584.9557,US-2022-336226,27-12-2020,,,
+Second Class,Home Office,United States,Detroit,Michigan,48227,Central,OFF-PA-7745-767,Office Supplies,Paper,3M Storage Bin,1149.3027,1,0.2,348.4235,US-2022-454995,TBD,,,
+Same Day,Home Office,United States,Detroit,Michigan,48227,Central,TEC-CO-8937-503,Technology,Copiers,Fellowes Binder,2441.8181,6,0.45,309.5338,US-2021-853525,09-01-2023,,,
+Standard Class,Home Office,United States,Columbus,Ohio,43229,East,FUR-TA-1215-900,Furniture,Tables,Fellowes Binder,1623.7354,6,0,121.9883,US-2021-169276,02-12-2024,,,
+Standard Class,Corporate,United States,Newark,New Jersey,7114,East,TEC-AC-1638-617,Technology,Accessories,Logitech Wireless Mouse,1152.1514,3,0,128.1326,US-2021-227356,21-05-2021,,,
+Second Class,Consumer,United States,Newark,New Jersey,7114,East,TEC-AC-3135-998,Technology,Accessories,Apple iPhone,1897.8128,2,0.3,852.3573,US-2021-848952,03-06-2020,,,
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,OFF-ST-6129-436,Office Supplies,Storage,Bretford Conference Table,2854.1294,13,0.1,-724.4333,US-2022-936643,03-05-2020,,,
+Same Day,Corporate,United States,Fort Lauderdale,Florida,33311,South,TEC-MA-9877-259,Technology,Machines,Global Push Button Manager Chair,2400.1653,7,0,1025.661,US-2021-235814,03-07-2020,,,
+First Class,Corporate,United States,Jacksonville,Florida,32216,South,TEC-MA-1261-393,Technology,Machines,Belkin Surge Protector,244.2292,8,0.15,-144.1726,US-2022-793673,28-10-2020,,,
+Second Class,Corporate,United States,Jacksonville,Florida,32216,South,OFF-ST-8755-208,Office Supplies,Storage,Cisco IP Phone,2279.1326,8,0.4,976.3798,US-2023-908334,17-01-2020,,,
+First Class,Home Office,United States,Detroit,Michigan,48227,Central,FUR-CH-1100-774,Furniture,Chairs,Apple iPhone,2276.4766,7,0.45,1072.5122,US-2021-605118,25-10-2024,,,
+Second Class,Home Office,United States,Houston,Texas,77036,Central,TEC-CO-8232-184,Technology,Copiers,Global Push Button Manager Chair,2502.3265,10,0.2,567.9585,US-2021-881253,08-09-2023,,,
+Same Day,Consumer,United States,New York City,New York,10024,East,FUR-FU-9619-843,Furniture,Furnishings,Fellowes Binder,965.6264,7,0,-454.3236,US-2023-593609,02-01-2023,,,
+Standard Class,Home Office,United States,Fort Worth,Texas,76106,Central,FUR-BO-5767-925,Furniture,Bookcases,Fellowes Binder,504.2443,14,0.4,-276.544,US-2024-791971,15-05-2020,TOO,MANY,COLUMNS
+First Class,Corporate,United States,Chicago,Illinois,60623,Central,FUR-FU-5672-340,Furniture,Furnishings,Fellowes Binder,48.5794,3,0,-26.7847,US-2024-937767,15-04-2020,,,
+Standard Class,Home Office,United States,Fort Worth,Texas,76106,Central,OFF-AP-9560-882,Office Supplies,Appliances,HP Officejet Printer,1866.3266,12,0.45,521.8384,US-2022-190797,28-10-2024,,,
+First Class,Home Office,United States,Los Angeles,California,90036,West,OFF-BI-5311-871,Office Supplies,Binders,Apple iPhone,1189.8077,11,0,-180.2912,US-2022-487629,21-11-2024,,,
+Standard Class,Corporate,United States,Henderson,Kentucky,42420,South,TEC-CO-5679-280,Technology,Copiers,Xerox 1967,2264.2022,9,0.4,-430.6354,US-2020-222069,23-05-2023,,,
+Standard Class,Corporate,United States,Seattle,Washington,98103,West,TEC-AC-2466-589,Technology,Accessories,Eldon Fold N Roll Cart,706.3535,5,0.45,-111.5007,US-2020-790834,20-04-2024,,,
+Second Class,Home Office,United States,Columbus,Ohio,43229,East,FUR-CH-9998-974,Furniture,Chairs,Cisco IP Phone,2989.8527,12,0.4,32.4663,US-2024-889178,28-03-2021,,,
+Same Day,Home Office,United States,Dallas,Texas,75220,Central,OFF-ST-4891-963,Office Supplies,Storage,Belkin Surge Protector,1995.5714,1,0.2,-481.1173,US-2023-341876,27-04-2023,,,
+First Class,Corporate,United States,Newark,New Jersey,7114,East,OFF-ST-7473-934,Office Supplies,Storage,HP Officejet Printer,218.1853,6,0.3,100.4967,US-2022-446034,20-05-2021,,,
+Second Class,Consumer,United States,San Francisco,California,94109,West,TEC-PH-1027-487,Technology,Phones,Hon Deluxe Fabric Chair,2017.0955,1,0.6,-1106.7084,US-2021-205740,24-07-2022,,,
+Second Class,Consumer,United States,Seattle,Washington,98103,West,OFF-ST-5780-910,Office Supplies,Storage,Bush Somerset Bookcase,270.1581,13,0.3,-66.7097,US-2024-604840,23-11-2020,,,
+Second Class,Home Office,United States,Dallas,Texas,75220,Central,TEC-PH-3500-662,Technology,Phones,Fellowes Binder,2705.1223,13,0.8,306.5671,US-2021-529650,26-07-2021,,,
+First Class,Corporate,United States,Detroit,Michigan,48227,Central,FUR-BO-9597-399,Furniture,Bookcases,Fellowes Binder,N/A_BAD_VALUE,6,0.45,-155.0987,US-2022-425742,07-12-2020,,,
+Same Day,Home Office,United States,Philadelphia,Pennsylvania,19140,East,FUR-FU-2707-613,Furniture,Furnishings,Fellowes Binder,2618.366,6,0.45,-1091.608,US-2020-640442,15-05-2021,,,
+First Class,Consumer,United States,Seattle,Washington,98103,West,OFF-BI-7690-371,Office Supplies,Binders,Cisco IP Phone,2298.5881,9,0,-1314.7405,US-2024-274179,03-01-2023,,,
+Same Day,Consumer,United States,Los Angeles,California,90036,West,OFF-PA-9763-899,Office Supplies,Paper,Global Push Button Manager Chair,2282.4718,2,0.8,135.5236,US-2021-476988,16-09-2023,,,
+Same Day,Corporate,United States,Fort Lauderdale,Florida,33311,South,OFF-BI-7927-831,Office Supplies,Binders,Newell 322,1825.2089,11,0.2,-318.4684,US-2022-877643,18-08-2023,,,
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,OFF-AR-5092-360,Office Supplies,Art,Apple iPhone,1542.0964,4,0.15,81.8894,US-2021-534931,05-09-2023,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE,
+Same Day,Home Office,United States,New York City,New York,10024,East,TEC-PH-3178-382,Technology,Phones,Cisco IP Phone,615.3722,4,0.3,107.0081,US-2022-422139,03-06-2020,,,
+Same Day,Consumer,United States,Henderson,Kentucky,42420,South,FUR-FU-6817-393,Furniture,Furnishings,Newell 322,2637.7445,3,0.1,22.1617,US-2022-954182,16-03-2022,,,
+Same Day,Home Office,United States,Detroit,Michigan,48227,Central,TEC-CO-3245-338,Technology,Copiers,HP Officejet Printer,215.3686,10,0.45,-110.2786,US-2023-687532,09-09-2021,,,
+First Class,Consumer,United States,Newark,New Jersey,7114,East,OFF-PA-3494-764,Office Supplies,Paper,Logitech Wireless Mouse,1010.2973,2,0,-258.9674,US-2021-510447,27-01-2022,,,
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,OFF-BI-3863-557,Office Supplies,Binders,Bretford Conference Table,1459.1098,9,0.2,239.2892,US-2021-273901,13-10-2024,,,
+Standard Class,Corporate,United States,Houston,Texas,77036,Central,OFF-AR-8606-502,Office Supplies,Art,Newell 322,93.0341,6,0,1.5605,US-2024-288034,15-09-2022,,,
+First Class,Home Office,United States,San Francisco,California,94109,West,TEC-AC-8088-537,Technology,Accessories,Bush Somerset Bookcase,34.1422,14,??,-6.7884,US-2023-209195,06-08-2024,,,
+First Class,Consumer,United States,Seattle,Washington,98103,West,FUR-CH-7213-410,Furniture,Chairs,HP Officejet Printer,530.8684,4,0,-167.3709,US-2020-693060,10-05-2024,,,
+Standard Class,Home Office,United States,Dallas,Texas,75220,Central,FUR-TA-6615-554,Furniture,Tables,Global Push Button Manager Chair,2794.3417,4,0.6,231.8587,US-2023-878322,26-04-2024,,,
+Standard Class,Home Office,United States,Fort Worth,Texas,76106,Central,OFF-AP-8280-585,Office Supplies,Appliances,Global Push Button Manager Chair,247.9336,10,0.3,109.0911,US-2020-808030,14-08-2020,,,
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,OFF-AR-1618-475,Office Supplies,Art,Newell 322,2905.9238,5,0.8,-1010.5254,US-2021-854142,03-09-2021,,,
+Standard Class,Corporate,United States,San Francisco,California,94109,West,FUR-CH-6051-287,Furniture,Chairs,Logitech Wireless Mouse,2298.1637,14,0.2,16.857,US-2020-239068,24-07-2020,,,
+First Class,Consumer,United States,San Francisco,California,94109,West,TEC-CO-7390-961,Technology,Copiers,Bretford Conference Table,1023.9215,11,0.1,-236.4224,US-2024-851893,20-12-2022,,,
+Same Day,Home Office,United States,San Francisco,California,94109,West,FUR-CH-8358-219,Furniture,Chairs,Fellowes Binder,478.825,8,0,-121.9961,US-2024-824227,27-03-2024,,,
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,TEC-MA-2737-643,Technology,Machines,Eldon Fold N Roll Cart,1564.8971,7,0.8,-813.0395,US-2021-599039,07-04-2022,,,
+Standard Class,Corporate,United States,San Francisco,California,94109,West,TEC-MA-2499-101,Technology,Machines,Newell 322,2439.1599,4,0,-1366.0613,US-2023-397332,14-05-2024,,,
+Same Day,Corporate,United States,Fort Lauderdale,Florida,33311,South,OFF-AP-5673-910,Office Supplies,Appliances,Fellowes Binder,1606.5197,12,0.3,-865.9571,US-2024-912649,25-05-2024,,,
+Standard Class,Home Office,United States,Detroit,Michigan,48227,Central,TEC-MA-3820-990,Technology,Machines,Newell 322,1196.3115,14,0,-188.3655,US-2023-391084,16-01-2021,,,
+Standard Class,Consumer,United States,Jacksonville,Florida,32216,South,FUR-FU-2976-647,Furniture,Furnishings,Bush Somerset Bookcase,85.618,1,0.8,5.1439,US-2024-985175,08-07-2021,,,
+First Class,Home Office,United States,Chicago,Illinois,60623,Central,OFF-BI-4765-138,Office Supplies,Binders,Xerox 1967,1841.1057,8,0.2,-218.4747,US-2021-630087,20-11-2023,,,
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,OFF-ST-6626-477,Office Supplies,Storage,Bretford Conference Table,2848.17,9,,,,,,,
+First Class,Corporate,United States,Seattle,Washington,98103,West,TEC-CO-5510-260,Technology,Copiers,Fellowes Binder,1828.4347,3,0.1,400.9379,US-2022-219046,04-07-2022,,,
+First Class,Home Office,United States,Jacksonville,Florida,32216,South,OFF-AR-5811-760,Office Supplies,Art,Bush Somerset Bookcase,1695.2365,10,0.15,258.2125,US-2020-250755,15-01-2024,,,
+Same Day,Consumer,United States,Fort Worth,Texas,76106,Central,TEC-PH-5244-705,Technology,Phones,Bush Somerset Bookcase,782.4565,13,0,154.1877,US-2022-642002,21-07-2021,,,
+First Class,Home Office,United States,San Francisco,California,94109,West,TEC-CO-4718-176,Technology,Copiers,Belkin Surge Protector,2442.6296,3,0.6,926.1719,US-2022-134242,02-06-2020,,,
+Standard Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,FUR-TA-2242-279,Furniture,Tables,Belkin Surge Protector,2435.1566,12,0.8,485.0108,US-2021-605266,TBD,,,
+Standard Class,Corporate,United States,Seattle,Washington,98103,West,OFF-ST-8551-913,Office Supplies,Storage,Cisco IP Phone,186.4935,8,0.45,75.9134,US-2024-268961,26-04-2021,,,
+First Class,Corporate,United States,Columbus,Ohio,43229,East,TEC-AC-5636-607,Technology,Accessories,Logitech Wireless Mouse,1429.8589,8,0,158.2975,US-2021-510080,10-07-2021,,,
+Second Class,Consumer,United States,Dallas,Texas,ZIPCODE,Central,OFF-PA-1123-131,Office Supplies,Paper,Fellowes Binder,1494.2331,4,0.8,724.2671,US-2020-602235,17-11-2020,,,
+Second Class,Home Office,United States,Houston,Texas,77036,Central,FUR-CH-3067-117,Furniture,Chairs,Bush Somerset Bookcase,2187.9447,14,0,-391.6431,US-2024-825607,17-05-2021,,,
+First Class,Corporate,United States,Fort Lauderdale,Florida,33311,South,TEC-AC-9806-192,Technology,Accessories,Xerox 1967,1235.5985,8,0.6,-61.9971,US-2021-902094,25-03-2022,,,
+First Class,Corporate,United States,Columbus,Ohio,43229,East,FUR-CH-9977-764,Furniture,Chairs,Xerox 1967,2565.8779,6,0,543.3864,US-2020-280480,17-03-2023,,,
+Standard Class,Consumer,United States,Detroit,Michigan,48227,Central,TEC-CO-6617-902,Technology,Copiers,Xerox 1967,2332.9806,3,0.8,-747.3283,US-2021-443076,20-10-2022,,,
+First Class,Corporate,United States,Fort Worth,Texas,76106,Central,FUR-TA-2288-619,Furniture,Tables,Bretford Conference Table,1855.3837,8,0.8,-876.8353,US-2020-861460,04-04-2023,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE,
+Standard Class,Home Office,United States,Dallas,Texas,75220,Central,FUR-TA-7365-279,Furniture,Tables,Bretford Conference Table,2015.4148,7,0.3,-1139.8343,US-2022-877453,unknown_date,,,
+Same Day,Corporate,United States,New York City,New York,10024,East,FUR-CH-3086-227,Furniture,Chairs,HP Officejet Printer,452.0688,13,0.45,-133.3238,US-2022-213523,03-04-2022,,,
+Same Day,Consumer,United States,Columbus,Ohio,43229,East,FUR-FU-2941-132,Furniture,Furnishings,Apple iPhone,2865.8095,13,0.15,-1541.9297,US-2024-460901,05-12-2022,,,
+Same Day,Consumer,United States,New York City,New York,10024,East,TEC-PH-1363-701,Technology,Phones,Newell 322,1889.4289,6,0,11.2605,US-2020-273950,24-09-2021,,,
+Second Class,Consumer,United States,Seattle,Washington,98103,West,OFF-AP-7561-531,Office Supplies,Appliances,Global Push Button Manager Chair,1770.0983,6,0.3,-1011.8835,US-2022-936553,16-11-2021,,,
+Second Class,Home Office,United States,Columbus,Ohio,43229,East,OFF-AR-1427-935,Office Supplies,Art,Hon Deluxe Fabric Chair,2420.1577,4,0.1,1020.257,US-2022-315984,06-06-2022,,,
+Same Day,Home Office,United States,Fort Lauderdale,Florida,33311,South,TEC-CO-4133-271,Technology,Copiers,3M Storage Bin,1746.694,4,0.6,559.7557,US-2021-554169,07-06-2024,,,
+Standard Class,Corporate,United States,Jacksonville,Florida,32216,South,OFF-AP-6253-485,Office Supplies,Appliances,Apple iPhone,51.5385,12,0,-17.928,US-2024-485609,07-08-2022,,,
+First Class,Home Office,United States,Newark,New Jersey,7114,East,FUR-TA-1338-835,Furniture,Tables,Xerox 1967,2372.5158,8,0.6,174.9199,US-2020-807245,04-05-2020,,,
+Standard Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,OFF-AR-6133-407,Office Supplies,Art,Global Push Button Manager Chair,1206.8082,8,0.1,321.6064,US-2023-381842,18-02-2023,,,
+First Class,Corporate,United States,Houston,Texas,77036,Central,OFF-AR-8281-167,Office Supplies,Art,Xerox 1967,661.7284,4,0.8,172.1064,US-2022-433562,12-11-2023,,,
+First Class,Home Office,United States,Detroit,Michigan,48227,Central,FUR-BO-4851-792,Furniture,Bookcases,Newell 322,2630.2946,4,0.4,580.3045,US-2023-747767,yesterday,,,
+Same Day,Home Office,United States,Newark,New Jersey,7114,East,TEC-AC-1973-118,Technology,Accessories,Bush Somerset Bookcase,469.3278,14,0,-79.7384,US-2023-496894,18-05-2020,,,
+First Class,Corporate,United States,Detroit,Michigan,48227,Central,TEC-PH-7130-293,Technology,Phones,Apple iPhone,167.403,11,0.8,26.3916,US-2022-328038,15-08-2021,,,
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,TEC-PH-3666-453,Technology,Phones,Global Push Button Manager Chair,1339.6625,5,0,26.9296,US-2023-987833,11-01-2020,,,
+Second Class,Home Office,United States,Jacksonville,Florida,32216,South,FUR-FU-8495-630,Furniture,Furnishings,Cisco IP Phone,1517.003,2,0,118.2466,US-2024-952446,13-02-2023,,,
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,TEC-PH-8003-611,Technology,Phones,Bretford Conference Table,1461.3935,9,0,-513.1813,US-2024-974739,11-12-2024,,,
+Second Class,Home Office,United States,Los Angeles,California,90036,West,FUR-BO-8292-500,Furniture,Bookcases,Bretford Conference Table,954.4672,6,0.4,-139.7961,US-2020-379883,24-09-2020,,,
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,OFF-PA-6903-861,Office Supplies,Paper,Global Push Button Manager Chair,1990.0564,3,0,531.6051,US-2020-118566,14-12-2024,,,
+Second Class,Home Office,United States,Henderson,Kentucky,42420,South,TEC-CO-4966-459,Technology,Copiers,Logitech Wireless Mouse,744.3515,2,0.6,53.2439,US-2023-147538,21-09-2020,,,
+First Class,Corporate,United States,Chicago,Illinois,60623,Central,TEC-MA-5963-626,Technology,Machines,Bush Somerset Bookcase,2669.3103,14,0.6,-735.6189,US-2024-279359,20-02-2022,,,
+Second Class,Consumer,United States,Newark,New Jersey,7114,East,OFF-BI-2422-805,Office Supplies,Binders,Bretford Conference Table,2736.6598,10,0.8,614.6016,US-2022-946713,03-05-2024,,,
+Same Day,Corporate,United States,Jacksonville,Florida,32216,South,FUR-FU-9009-601,Furniture,Furnishings,Fellowes Binder,1633.7474,6,0.3,575.6942,US-2020-148859,02-11-2024,,,
+Same Day,Home Office,United States,Jacksonville,Florida,32216,South,OFF-PA-5817-807,Office Supplies,Paper,Apple iPhone,2107.4071,8,0.1,-275.0071,US-2023-892425,15-05-2024,,,
+Same Day,Consumer,United States,Los Angeles,California,90036,West,TEC-MA-9766-802,Technology,Machines,Hon Deluxe Fabric Chair,1476.4245,8,0,-741.9245,US-2022-904989,22-10-2020,,,
+First Class,Home Office,United States,Fort Worth,Texas,76106,Central,TEC-AC-6856-443,Technology,Accessories,Eldon Fold N Roll Cart,1769.3704,4,0.1,383.9885,US-2022-631764,12-01-2020,,,
+First Class,Home Office,United States,Seattle,Washington,98103,West,TEC-AC-5998-930,Technology,Accessories,HP Officejet Printer,2983.3174,13,0.3,-1093.5141,US-2021-364578,07-07-2021,,,
+Same Day,Home Office,United States,Seattle,Washington,98103,West,OFF-BI-9725-566,Office Supplies,Binders,3M Storage Bin,39.571,5,0.45,18.8793,US-2021-767021,04-08-2020,,,
+Standard Class,Corporate,United States,Seattle,Washington,98103,West,FUR-BO-2355-438,Furniture,Bookcases,Eldon Fold N Roll Cart,284.3301,5,0,48.4655,US-2021-275016,04-07-2021,,,
+Standard Class,Home Office,United States,Houston,Texas,77036,Central,TEC-CO-7481-653,Technology,Copiers,Newell 322,213.4691,5,0.15,-70.6238,US-2022-411421,22-12-2022,,,
+Standard Class,Home Office,United States,New York City,New York,10024,East,OFF-AR-5767-289,Office Supplies,Art,Bush Somerset Bookcase,911.1232,7,0.45,310.7281,US-2023-313647,27-10-2024,,,
+Second Class,Home Office,United States,Detroit,Michigan,48227,Central,TEC-AC-5543-343,Technology,Accessories,Hon Deluxe Fabric Chair,1664.5975,9,0.45,417.1186,US-2021-800812,15-12-2024,,,
+First Class,Consumer,United States,Houston,Texas,77036,Central,TEC-CO-7263-657,Technology,Copiers,HP Officejet Printer,493.2823,5,0.6,207.0403,US-2020-822769,14-09-2022,,,
+Same Day,Home Office,United States,Fort Lauderdale,Florida,33311,South,OFF-AR-7451-738,Office Supplies,Art,HP Officejet Printer,1979.11,9,0.15,-720.9187,US-2022-601299,22-02-2022,,,
+First Class,Home Office,United States,New York City,New York,10024,East,OFF-BI-8342-581,Office Supplies,Binders,Hon Deluxe Fabric Chair,494.8265,14,0.15,-115.0241,US-2021-586536,16-03-2022,,,
+Same Day,Consumer,United States,Philadelphia,Pennsylvania,19140,East,OFF-BI-3228-361,Office Supplies,Binders,Bush Somerset Bookcase,2856.5436,3,0.6,1154.6202,US-2022-451194,28-11-2023,,,
+Second Class,Corporate,United States,Seattle,Washington,N/A_ZIP,West,OFF-AP-7010-248,Office Supplies,Appliances,Apple iPhone,5.7535,4,0.1,0.3312,US-2023-107296,02-08-2021,,,
+First Class,Home Office,United States,Columbus,Ohio,43229,East,OFF-ST-7030-785,Office Supplies,Storage,Belkin Surge Protector,1827.369,3,0.8,279.1764,US-2022-505321,27-07-2023,,,
+Standard Class,Home Office,United States,Seattle,Washington,98103,West,OFF-AR-3142-398,Office Supplies,Art,Fellowes Binder,1479.9798,2,0.15,-149.2302,,,,,
+Second Class,Corporate,United States,Seattle,Washington,98103,West,FUR-CH-4512-457,Furniture,Chairs,Eldon Fold N Roll Cart,1188.1696,2,0.6,-224.1858,US-2020-232012,22-08-2023,,,
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,OFF-PA-1631-801,Office Supplies,Paper,Apple iPhone,724.6541,14,0.15,29.4649,US-2020-225234,09-06-2022,,,
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,TEC-MA-7283-829,Technology,Machines,Eldon Fold N Roll Cart,1937.218,12,0.3,834.615,US-2024-158493,02-10-2024,,,
+First Class,Home Office,United States,Los Angeles,California,90036,West,OFF-ST-2866-699,Office Supplies,Storage,Xerox 1967,197.3498,13,0.45,74.9209,US-2022-118519,25-01-2023,,,
+First Class,Consumer,United States,Los Angeles,California,90036,West,OFF-PA-8320-337,Office Supplies,Paper,Fellowes Binder,184.4593,10,0.45,87.2975,US-2021-441815,25-08-2024,,,
+Same Day,Consumer,United States,San Francisco,California,94109,West,OFF-ST-5266-343,Office Supplies,Storage,Newell 322,2127.1492,3,0.15,773.2457,US-2023-374306,05-12-2020,,,
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,FUR-TA-9679-592,Furniture,Tables,Apple iPhone,359.7646,9,0.1,108.3128,US-2021-693047,17-05-2020,,,
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,FUR-FU-6757-521,Furniture,Furnishings,Apple iPhone,615.8859,5,0,192.9531,US-2024-780773,09-11-2022,,,
+First Class,Home Office,United States,Seattle,Washington,98103,West,OFF-AR-3622-410,Office Supplies,Art,Logitech Wireless Mouse,2118.7914,1,0.6,-1043.8889,US-2020-842433,09-12-2021,TOO,MANY,COLUMNS
+First Class,Consumer,United States,Chicago,Illinois,60623,Central,OFF-ST-7726-277,Office Supplies,Storage,Logitech Wireless Mouse,467.3783,7,0,-125.428,US-2021-345333,12-06-2020,,,
+First Class,Consumer,United States,Fort Worth,Texas,76106,Central,OFF-AR-4195-155,Office Supplies,Art,Logitech Wireless Mouse,2705.5333,10,0,-1339.4243,US-2020-761586,21-08-2020,TOO,MANY,COLUMNS
+Standard Class,Home Office,United States,Columbus,Ohio,43229,East,TEC-CO-4488-260,Technology,Copiers,Hon Deluxe Fabric Chair,1816.0756,4,0.4,-717.6224,US-2020-575125,11-03-2022,,,
+Second Class,Consumer,United States,Dallas,Texas,75220,Central,TEC-PH-9342-269,Technology,Phones,Hon Deluxe Fabric Chair,824.6336,11,0,-292.1142,US-2022-961633,01-09-2021,,,
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,TEC-CO-8389-609,Technology,Copiers,Global Push Button Manager Chair,1067.6177,10,0.45,100.0292,US-2023-830093,11-06-2020,,,
+First Class,Consumer,United States,Jacksonville,Florida,32216,South,OFF-AP-6311-319,Office Supplies,Appliances,Belkin Surge Protector,2573.0746,11,0,261.8529,US-2020-780081,24-09-2022,,,
+Same Day,Consumer,United States,Henderson,Kentucky,42420,South,FUR-FU-5301-732,Furniture,Furnishings,Bretford Conference Table,2959.6694,12,0.3,735.9909,US-2020-124147,23-02-2022,,,
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,TEC-MA-2624-483,Technology,Machines,Bush Somerset Bookcase,756.4686,1,0,13.6934,US-2024-443928,08-09-2021,,,
+Second Class,Home Office,United States,Jacksonville,Florida,32216,South,TEC-CO-7592-641,Technology,Copiers,Fellowes Binder,2669.8643,11,0.1,585.9306,US-2022-424697,27-03-2021,,,
+Second Class,Corporate,United States,San Francisco,California,94109,West,TEC-AC-1815-547,Technology,Accessories,Hon Deluxe Fabric Chair,2154.4277,2,0.4,121.3021,US-2021-989710,16-12-2021,,,
+Standard Class,Consumer,United States,Newark,New Jersey,7114,East,TEC-PH-9544-514,Technology,Phones,Bush Somerset Bookcase,2164.6967,10,0,-925.8387,US-2023-137432,21-06-2023,,,
+First Class,Home Office,United States,Columbus,Ohio,43229,East,OFF-AP-3876-789,Office Supplies,Appliances,HP Officejet Printer,2559.7154,1,0.1,964.4817,US-2020-426664,20-09-2020,,,
+Same Day,Corporate,United States,Dallas,Texas,75220,Central,OFF-PA-6457-174,Office Supplies,Paper,Logitech Wireless Mouse,1639.1122,13,0,-184.0489,US-2022-417877,27-03-2024,,,
+Same Day,Home Office,United States,San Francisco,California,94109,West,TEC-MA-2295-385,Technology,Machines,Xerox 1967,502.9061,6,0.45,-70.9928,US-2020-919866,10-05-2020,,,
+Standard Class,Corporate,United States,Columbus,Ohio,43229,East,FUR-TA-3768-778,Furniture,Tables,Hon Deluxe Fabric Chair,584.7682,3,0.2,267.4039,US-2024-143572,16-05-2022,,,
+Standard Class,Home Office,United States,Fort Worth,Texas,76106,Central,FUR-BO-7227-791,Furniture,Bookcases,3M Storage Bin,183.4901,2,0.45,-78.9153,US-2020-828813,28-05-2022,,,
+First Class,Corporate,United States,Columbus,Ohio,UNKNOWN,East,OFF-AP-2014-308,Office Supplies,Appliances,Global Push Button Manager Chair,948.039,13,0.6,470.3341,US-2024-424068,08-06-2020,,,
+Same Day,Corporate,United States,Dallas,Texas,75220,Central,TEC-MA-9026-886,Technology,Machines,Apple iPhone,326.2255,4,0.8,-144.7828,US-2024-523519,22-12-2023,,,
+Standard Class,Consumer,United States,New York City,New York,10024,East,OFF-AR-2494-803,Office Supplies,Art,Bush Somerset Bookcase,1817.1861,13,0.15,-821.2373,US-2022-282114,18-11-2022,,,
+First Class,Corporate,United States,Houston,Texas,77036,Central,FUR-FU-2261-458,Furniture,Furnishings,Hon Deluxe Fabric Chair,1361.7806,10,0.6,163.2414,US-2022-302200,17-04-2020,,,
+Second Class,Home Office,United States,Chicago,Illinois,60623,Central,OFF-BI-3235-912,Office Supplies,Binders,Bretford Conference Table,1329.1033,5,0.4,326.8088,US-2024-142267,08-06-2024,,,
+Same Day,Corporate,United States,Los Angeles,California,90036,West,FUR-FU-2331-487,Furniture,Furnishings,Eldon Fold N Roll Cart,2682.498,6,0.15,-60.6831,US-2022-942957,21-12-2021,,,
+First Class,Home Office,United States,Detroit,Michigan,48227,Central,OFF-BI-9748-792,Office Supplies,Binders,Fellowes Binder,671.6069,11,0.15,151.5882,US-2022-876833,17-10-2024,,,
+First Class,Consumer,United States,New York City,New York,10024,East,TEC-AC-6851-443,Technology,Accessories,Newell 322,926.0199,7,0,-502.2574,US-2024-435291,TBD,,,
+Same Day,Consumer,United States,Detroit,Michigan,48227,Central,FUR-CH-3609-556,Furniture,Chairs,Cisco IP Phone,40.0636,13,0.45,-17.6047,US-2022-775096,23-06-2023,,,
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,TEC-MA-5034-535,Technology,Machines,Fellowes Binder,582.127,9,0.45,76.96,US-2020-904590,07-05-2020,,,
+First Class,Corporate,United States,Chicago,Illinois,60623,Central,TEC-CO-1324-630,Technology,Copiers,Bush Somerset Bookcase,2943.3426,3,0,891.384,US-2022-392161,01-06-2021,,,
+Second Class,Home Office,United States,Newark,New Jersey,7114,East,OFF-ST-1059-150,Office Supplies,Storage,3M Storage Bin,1972.7861,6,0.4,379.219,US-2020-586507,03-04-2023,,,
+Same Day,Corporate,United States,Fort Worth,Texas,76106,Central,FUR-CH-6679-861,Furniture,Chairs,Bretford Conference Table,303.4522,1,-,-37.7244,US-2022-550537,09-10-2023,,,
+Second Class,Home Office,United States,New York City,New York,10024,East,TEC-PH-6737-154,Technology,Phones,Fellowes Binder,1960.2082,13,0.15,357.5753,US-2021-806472,15-05-2022,,,
+Same Day,Consumer,United States,Fort Lauderdale,Florida,33311,South,OFF-AR-7784-502,Office Supplies,Art,Bush Somerset Bookcase,1630.2441,3,0,-159.2835,US-2023-525650,13-09-2023,,,
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19140,East,OFF-BI-1358-410,Office Supplies,Binders,Newell 322,1990.1436,8,0.6,679.5569,US-2020-121157,22-05-2020,,,
+Standard Class,Home Office,United States,Houston,Texas,77036,Central,FUR-CH-8693-440,Furniture,Chairs,Belkin Surge Protector,1308.064,4,0,-40.8992,US-2024-310805,04-09-2021,,,
+First Class,Home Office,United States,Chicago,Illinois,60623,Central,TEC-CO-3437-943,Technology,Copiers,Hon Deluxe Fabric Chair,586.6996,8,0,46.9219,US-2023-164809,23-10-2020,,,
+Second Class,Consumer,United States,Chicago,Illinois,60623,Central,OFF-AR-8045-628,Office Supplies,Art,HP Officejet Printer,209.1803,2,0,-36.4898,US-2020-214448,02-10-2022,,,
+Standard Class,Consumer,United States,Chicago,Illinois,60623,Central,OFF-AR-3238-712,Office Supplies,Art,Fellowes Binder,549.2953,1,0.15,,,,,,
+First Class,Corporate,United States,Fort Worth,Texas,76106,Central,OFF-AR-7232-148,Office Supplies,Art,Global Push Button Manager Chair,2398.4482,5,0.6,-1028.2295,US-2024-972328,26-01-2021,,,
+First Class,Home Office,United States,Chicago,Illinois,60623,Central,OFF-ST-4380-569,Office Supplies,Storage,HP Officejet Printer,1759.6923,N/A,0.3,-225.1632,US-2023-151366,25-08-2024,,,
+Same Day,Corporate,United States,San Francisco,California,94109,West,OFF-AR-1863-550,Office Supplies,Art,Fellowes Binder,683.7862,9,0.2,-322.7019,US-2022-889062,06-03-2023,,,
+Second Class,Corporate,United States,Henderson,Kentucky,42420,South,TEC-MA-2166-743,Technology,Machines,Xerox 1967,977.946,8,0.4,140.142,US-2020-962968,26-05-2022,,,
+Second Class,Corporate,United States,Chicago,Illinois,60623,Central,OFF-AR-3872-314,Office Supplies,Art,Apple iPhone,1063.7556,9,0.4,-552.2351,US-2024-708724,03-12-2024,,,
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,OFF-AR-9017-633,Office Supplies,Art,HP Officejet Printer,140.7604,8,0.4,63.2085,US-2022-784543,28-04-2021,,,
+Second Class,Consumer,United States,Los Angeles,California,90036,West,FUR-FU-5237-232,Furniture,Furnishings,Xerox 1967,1229.6803,9,0.2,513.7861,US-2023-916419,01-07-2024,,,
+Second Class,Corporate,United States,Los Angeles,California,90036,West,TEC-AC-7181-768,Technology,Accessories,Fellowes Binder,1036.1617,7,0.15,-163.2495,US-2022-752262,12-11-2020,,,
+First Class,Home Office,United States,Jacksonville,Florida,32216,South,FUR-CH-1143-478,Furniture,Chairs,Belkin Surge Protector,549.5414,5,0,66.5221,US-2020-800310,27-07-2021,,,
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,FUR-FU-1706-207,Furniture,Furnishings,Bretford Conference Table,2941.6242,12,0,-1262.8895,US-2024-286806,22-09-2022,TOO,MANY,COLUMNS
+First Class,Home Office,United States,New York City,New York,10024,East,FUR-TA-3198-821,Furniture,Tables,Apple iPhone,2115.6329,11,0,203.2546,US-2024-662780,26-10-2023,,,
+Second Class,Home Office,United States,Newark,New Jersey,7114,East,FUR-TA-8165-685,Furniture,Tables,Xerox 1967,2550.7617,8,0.15,1201.8169,US-2021-734381,19-08-2024,,,
+Standard Class,Consumer,United States,Newark,New Jersey,7114,East,TEC-CO-7443-685,Technology,Copiers,Apple iPhone,514.8818,3,0,-248.5171,US-2024-214025,17-12-2020,,,
+First Class,Consumer,United States,Houston,Texas,77036,Central,TEC-PH-3177-722,Technology,Phones,Belkin Surge Protector,2968.4866,1,0,876.3469,US-2023-372994,27-10-2021,,,
+Same Day,Consumer,United States,Houston,Texas,ZIPCODE,Central,FUR-BO-4259-940,Furniture,Bookcases,HP Officejet Printer,2215.8316,5,0.6,124.5637,US-2021-254094,28-02-2024,,,
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,TEC-MA-9692-157,Technology,Machines,Belkin Surge Protector,1114.4766,1,0.3,58.0639,US-2021-162841,13-12-2021,,,
+First Class,Consumer,United States,Dallas,Texas,75220,Central,OFF-AR-5721-635,Office Supplies,Art,Global Push Button Manager Chair,1111.9133,7,0.8,-265.9505,US-2022-420568,27-03-2022,,,
+Same Day,Consumer,United States,Detroit,Michigan,48227,Central,FUR-BO-6861-103,Furniture,Bookcases,Hon Deluxe Fabric Chair,185.4079,2,0.15,42.0727,US-2024-509557,12-02-2022,,,
+Standard Class,Home Office,United States,Newark,New Jersey,7114,East,TEC-CO-7508-312,Technology,Copiers,Xerox 1967,1913.1076,8,0.8,-951.481,US-2020-378406,06-01-2024,,,
+Second Class,Home Office,United States,Detroit,Michigan,48227,Central,OFF-AP-7505-551,Office Supplies,Appliances,Bretford Conference Table,1591.5626,3,0,740.257,US-2021-922190,04-06-2022,,,
+First Class,Corporate,United States,Fort Lauderdale,Florida,33311,South,OFF-AR-8924-170,Office Supplies,Art,Global Push Button Manager Chair,2463.9619,10,0.15,570.7431,US-2021-335673,10-05-2024,,,
+Second Class,Corporate,United States,Chicago,Illinois,60623,Central,FUR-FU-2359-477,Furniture,Furnishings,Logitech Wireless Mouse,653.1691,9,0.15,-211.3401,US-2023-777200,12-10-2024,,,
+"Same Day,Home Office,Unclosed quote without termination,Chicago,Illinois,60623
+Same Day,Corporate,United States,Dallas,Texas,75220,Central,OFF-AP-6590-608,Office Supplies,Appliances,Fellowes Binder,1146.1181,6,0.8,410.5223,US-2021-394577,2021-09-23
+Standard Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,FUR-TA-4166-283,Furniture,Tables,Xerox 1967,1802.2432,13,0.2,40.6677,US-2020-760005,2021-10-24
+Second Class,Corporate,United States,New York City,New York,10024,East,OFF-BI-6746-462,Office Supplies,Binders,3M Storage Bin,1002.8594,11,0.6,-581.2308,US-2021-874400,2024-10-13
+Second Class,Corporate,United States,Detroit,Michigan,48227,Central,FUR-CH-5560-209,Furniture,Chairs,Bush Somerset Bookcase,44.099,4,0.15,-19.89,US-2022-585125,2020-06-24
+Standard Class,Home Office,United States,Fort Worth,Texas,76106,Central,TEC-PH-6585-617,Technology,Phones,3M Storage Bin,1995.5493,5,0.4,745.5905,US-2024-872173,2020-09-13
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,TEC-PH-1046-402,Technology,Phones,Eldon Fold N Roll Cart,280.0918,2,0.2,-127.8989,US-2022-524293,2021-09-09
+First Class,Home Office,United States,Jacksonville,Florida,32216,South,TEC-PH-6779-146,Technology,Phones,Belkin Surge Protector,2737.4031,10,0,-934.0248,US-2022-661823,2020-01-11
+Same Day,Home Office,United States,Los Angeles,California,90036,West,FUR-FU-9767-624,Furniture,Furnishings,Logitech Wireless Mouse,2091.1151,4,0.3,283.504,US-2023-669616,2021-02-21
+First Class,Corporate,United States,Dallas,Texas,75220,Central,OFF-BI-3766-589,Office Supplies,Binders,Cisco IP Phone,1479.2843,12,0.45,87.3328,US-2023-583341,2023-05-03
+First Class,Consumer,United States,San Francisco,California,94109,West,OFF-AP-6365-941,Office Supplies,Appliances,Bretford Conference Table,798.042,12,0.8,55.519,US-2024-855580,2024-03-12
+Standard Class,Home Office,United States,Columbus,Ohio,43229,East,OFF-AP-2378-746,Office Supplies,Appliances,Fellowes Binder,169.3972,6,0.6,-0.7383,US-2022-161620,2021-09-08
+Second Class,Consumer,United States,Henderson,Kentucky,42420,South,OFF-BI-8328-481,Office Supplies,Binders,3M Storage Bin,1134.4086,13,0.3,132.7831,US-2020-380510,2024-11-13
+Second Class,Consumer,United States,Newark,New Jersey,7114,East,TEC-MA-4633-684,Technology,Machines,Fellowes Binder,503.1246,10,0,-150.3983,US-2023-727743,2020-03-06
+Second Class,Home Office,United States,New York City,New York,10024,East,OFF-BI-6910-967,Office Supplies,Binders,Hon Deluxe Fabric Chair,293.4968,8,0.4,-72.3669,US-2021-939784,2021-03-18
+First Class,Corporate,United States,Chicago,Illinois,60623,Central,TEC-PH-9891-199,Technology,Phones,Bretford Conference Table,2156.6132,14,0.2,688.4436,US-2024-469383,2022-09-15
+First Class,Corporate,United States,Columbus,Ohio,43229,East,FUR-TA-3628-611,Furniture,Tables,Xerox 1967,400.1934,4,0.2,-99.9816,US-2023-791500,2024-01-17
+Second Class,Consumer,United States,New York City,New York,10024,East,TEC-CO-5985-724,Technology,Copiers,Hon Deluxe Fabric Chair,1279.4593,9,0.4,-681.9875,US-2020-511478,not-a-date
+Same Day,Corporate,United States,Detroit,Michigan,48227,Central,FUR-CH-4871-757,Furniture,Chairs,Cisco IP Phone,640.5829,12,0.15,-328.4304,US-2022-609049,2020-12-28
+Same Day,Home Office,United States,Columbus,Ohio,43229,East,FUR-CH-7675-277,Furniture,Chairs,Bretford Conference Table,1091.977,7,0.8,302.9392,US-2020-414237,2022-10-03
+Same Day,Home Office,United States,Los Angeles,California,90036,West,OFF-PA-8654-760,Office Supplies,Paper,HP Officejet Printer,2922.0869,4,0.2,-82.6035,US-2021-955510,2021-02-03
+Same Day,Consumer,United States,Dallas,Texas,75220,Central,OFF-PA-8457-273,Office Supplies,Paper,Logitech Wireless Mouse,1199.9587,6,0.6,377.4193,US-2020-575635,2023-08-19
+Standard Class,Home Office,United States,Detroit,Michigan,48227,Central,FUR-BO-7377-470,Furniture,Bookcases,3M Storage Bin,1188.5776,4,0.2,156.2622,US-2021-954975,2023-01-23
+Same Day,Consumer,United States,Philadelphia,Pennsylvania,19140,East,OFF-PA-9824-125,Office Supplies,Paper,Belkin Surge Protector,1929.1924,3,0,170.282,US-2020-874723,2024-09-22
+Second Class,Corporate,United States,Fort Worth,Texas,76106,Central,FUR-CH-9920-267,Furniture,Chairs,Cisco IP Phone,2352.145,8,0.1,-302.9957,US-2023-399593,2023-05-25
+First Class,Home Office,United States,Henderson,Kentucky,42420,South,OFF-BI-5552-454,Office Supplies,Binders,Global Push Button Manager Chair,1948.7161,12,0,-872.0217,US-2022-924881,2021-08-20
+First Class,Home Office,United States,Henderson,Kentucky,42420,South,OFF-PA-3135-843,Office Supplies,Paper,Belkin Surge Protector,2680.1947,5,0.8,-615.3144,US-2022-456199,2022-07-22
+Standard Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,FUR-CH-1173-726,Furniture,Chairs,Bretford Conference Table,1775.7428,6,0.4,727.4177,US-2021-520984,2024-12-27
+Same Day,Home Office,United States,Houston,Texas,77036,Central,OFF-ST-2314-331,Office Supplies,Storage,Fellowes Binder,1111.0625,11,0,-550.7806,US-2024-315472,2022-03-17
+Second Class,Consumer,United States,Chicago,Illinois,60623,Central,TEC-MA-6670-878,Technology,Machines,Eldon Fold N Roll Cart,2162.1599,8,0.45,-118.5888,US-2024-735197,2021-03-04
+Standard Class,Corporate,United States,Los Angeles,California,90036,West,FUR-FU-4768-425,Furniture,Furnishings,Fellowes Binder,278.0501,12,0.15,-96.4317,US-2021-987086,2023-09-26
+First Class,Consumer,United States,Chicago,Illinois,60623,Central,OFF-PA-4516-615,Office Supplies,Paper,Bush Somerset Bookcase,2052.8616,5,0,740.4766,US-2022-174147,2021-01-19
+Second Class,Home Office,United States,Jacksonville,Florida,32216,South,OFF-PA-1760-456,Office Supplies,Paper,Fellowes Binder,327.513,3,0,38.961,US-2024-120310,2022-04-28
+Second Class,Consumer,United States,Seattle,Washington,98103,West,TEC-PH-8839-650,Technology,Phones,3M Storage Bin,1309.1468,10,0.1,-490.6501,US-2023-969910,2022-12-16
+First Class,Corporate,United States,New York City,New York,10024,East,FUR-FU-6026-490,Furniture,Furnishings,Bretford Conference Table,2309.8313,9,0,-291.0225,US-2023-771925,2020-07-11
+Same Day,Corporate,United States,Henderson,Kentucky,42420,South,TEC-MA-3722-960,Technology,Machines,Hon Deluxe Fabric Chair,339.5016,7,0.6,85.8145,US-2022-523026,2020-04-23
+Same Day,Corporate,United States,Seattle,Washington,98103,West,OFF-AP-4503-360,Office Supplies,Appliances,Belkin Surge Protector,252.8806,2,0.3,-11.4509,US-2023-189016,2022-12-11
+Second Class,Corporate,United States,Houston,Texas,77036,Central,FUR-FU-2367-270,Furniture,Furnishings,Cisco IP Phone,1023.7403,13,0.15,497.8035,US-2023-612083,2022-07-24
+Second Class,Corporate,United States,Houston,Texas,77036,Central,FUR-FU-7173-101,Furniture,Furnishings,Hon Deluxe Fabric Chair,2805.9829,6,0.4,-834.6444,US-2021-440655,2020-02-10
+Second Class,Corporate,United States,Los Angeles,California,90036,West,OFF-AP-1271-951,Office Supplies,Appliances,Hon Deluxe Fabric Chair,2897.6692,12,0,-438.1048,US-2024-793760,2023-05-08
+First Class,Corporate,United States,Newark,New Jersey,7114,East,FUR-BO-5404-925,Furniture,Bookcases,Bush Somerset Bookcase,2912.0425,13,0,-1046.7481,US-2020-419157,2023-02-27
+First Class,Home Office,United States,San Francisco,California,94109,West,OFF-ST-8535-360,Office Supplies,Storage,Cisco IP Phone,2036.8757,4,0,433.1495,US-2024-908335,2022-03-10
+Same Day,Consumer,United States,Fort Worth,Texas,76106,Central,TEC-CO-6929-637,Technology,Copiers,Newell 322,883.2217,5,0.6,202.9616,US-2024-304716,2020-02-28
+First Class,Consumer,United States,Columbus,Ohio,43229,East,OFF-AP-8063-406,Office Supplies,Appliances,Newell 322,1119.6783,9,0.2,179.0877,US-2020-922604,2021-01-27
+Second Class,Corporate,United States,Jacksonville,Florida,32216,South,FUR-TA-1705-443,Furniture,Tables,Eldon Fold N Roll Cart,2996.3096,13,0.3,1442.1653,US-2021-298189,2022-10-16
+Second Class,Corporate,United States,Dallas,Texas,75220,Central,OFF-BI-3477-519,Office Supplies,Binders,Xerox 1967,376.4023,1,0,-215.078,US-2021-790394,2023-03-12
+Same Day,Consumer,United States,Columbus,Ohio,43229,East,OFF-BI-5115-716,Office Supplies,Binders,Xerox 1967,693.8477,14,0.45,15.9083,US-2022-437789,2022-12-24
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,TEC-AC-4535-854,Technology,Accessories,HP Officejet Printer,168.7331,8,0,-17.1793,US-2024-808054,2020-07-13
+Same Day,Home Office,United States,Detroit,Michigan,48227,Central,TEC-MA-6413-203,Technology,Machines,Bretford Conference Table,1580.9904,11,0.3,638.7531,US-2024-586722,2022-11-09
+Same Day,Home Office,United States,Los Angeles,California,90036,West,TEC-MA-3261-338,Technology,Machines,Apple iPhone,1969.0874,five,0.2,619.4581,US-2022-906423,2024-02-19
+Standard Class,Corporate,United States,Los Angeles,California,90036,West,FUR-BO-2707-415,Furniture,Bookcases,Eldon Fold N Roll Cart,1711.9856,6,0.8,-404.6935,US-2023-266263,2021-09-15
+Same Day,Corporate,United States,New York City,New York,10024,East,FUR-FU-8093-252,Furniture,Furnishings,Fellowes Binder,324.3851,13,0,109.0514,US-2024-935514,2023-07-15
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19140,East,FUR-TA-5653-346,Furniture,Tables,Logitech Wireless Mouse,$1200,11,0.1,78.7871,US-2024-718591,2022-12-06
+First Class,Corporate,United States,New York City,New York,10024,East,FUR-TA-1218-670,Furniture,Tables,Xerox 1967,899.0274,12,0,367.6228,US-2024-983617,2020-10-13
+Same Day,Home Office,United States,Columbus,Ohio,43229,East,FUR-FU-6434-921,Furniture,Furnishings,Global Push Button Manager Chair,43.2324,2,0.8,20.0701,US-2024-546427,2021-11-16,TOO,MANY,COLUMNS
+Same Day,Corporate,United States,Detroit,Michigan,48227,Central,FUR-CH-9429-712,Furniture,Chairs,Fellowes Binder,566.1567,7,0.8,215.6445,US-2022-749669,2022-01-06
+First Class,Home Office,United States,New York City,New York,10024,East,TEC-MA-5112-827,Technology,Machines,Eldon Fold N Roll Cart,472.6135,3,0.1,53.3098,US-2021-170323,2021-04-10
+Same Day,Home Office,United States,Dallas,Texas,75220,Central,TEC-PH-8918-310,Technology,Phones,Newell 322,1445.0705,12,0.6,396.4481,US-2022-135051,2021-01-01
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,TEC-MA-4936-236,Technology,Machines,Hon Deluxe Fabric Chair,2630.2702,7,0.2,5.676,US-2023-480669,2020-05-18
+Same Day,Consumer,United States,Jacksonville,Florida,32216,South,TEC-MA-5634-516,Technology,Machines,Eldon Fold N Roll Cart,1715.7748,13,0.3,469.2612,US-2021-192081,2021-03-08
+First Class,Home Office,United States,Chicago,Illinois,N/A_ZIP,Central,TEC-PH-1120-792,Technology,Phones,Cisco IP Phone,2559.5162,11,0.45,452.6964,US-2024-499585,2022-07-11
+Second Class,Corporate,United States,Newark,New Jersey,7114,East,TEC-AC-6560-311,Technology,Accessories,HP Officejet Printer,2237.7846,12,0.2,-526.786,US-2021-709620,2021-03-12,TOO,MANY,COLUMNS
+Standard Class,Consumer,United States,San Francisco,California,94109,West,TEC-MA-6164-739,Technology,Machines,Logitech Wireless Mouse,2171.4287,3,0.2,383.8763,US-2021-129965,2024-02-07
+Standard Class,Consumer,United States,Detroit,Michigan,48227,Central,OFF-ST-1091-172,Office Supplies,Storage,Logitech Wireless Mouse,126.8628,4,0.1,-71.6955,US-2021-399262,2024-10-17
+Same Day,Home Office,United States,Henderson,Kentucky,42420,South,FUR-BO-7915-258,Furniture,Bookcases,Belkin Surge Protector,2379.8695,14,0.15,352.2398,US-2022-352187,2021-11-24
+Same Day,Corporate,United States,Chicago,Illinois,60623,Central,OFF-PA-4589-949,Office Supplies,Paper,Hon Deluxe Fabric Chair,1533.6878,8,0.6,-107.7597,US-2020-771884,2020-04-08
+Second Class,Home Office,United States,Detroit,Michigan,48227,Central,TEC-PH-3108-960,Technology,Phones,Eldon Fold N Roll Cart,874.57,10,0,-356.5874,US-2024-100024,2023-09-24
+Same Day,Consumer,United States,Jacksonville,Florida,32216,South,OFF-AR-1619-311,Office Supplies,Art,Newell 322,521.9273,6,0.8,62.188,US-2024-384493,2024-01-12
+Same Day,Corporate,United States,San Francisco,California,94109,West,FUR-FU-6125-621,Furniture,Furnishings,Eldon Fold N Roll Cart,2778.0234,3,0.6,-562.1615,US-2020-738061,2020-09-23
+Standard Class",Corporate,Unclosed quote without termination,Columbus,Ohio,43229,,,,,,,,,,,,,,
+Second Class,Consumer,United States,New York City,New York,10024,East,TEC-AC-9212-460,Technology,Accessories,HP Officejet Printer,2851.4372,1,0.6,-1504.1266,US-2023-113419,20-05-2023,,,
+Standard Class,Consumer,United States,Chicago,Illinois,60623,Central,OFF-AP-4281-866,Office Supplies,Appliances,Logitech Wireless Mouse,2583.1866,4,0.45,640.096,US-2024-646853,23-05-2021,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE,
+Second Class,Home Office,United States,Newark,New Jersey,7114,East,OFF-ST-9091-240,Office Supplies,Storage,Bretford Conference Table,1369.2843,14,0.1,515.4753,US-2022-459550,02-05-2020,,,
+Same Day,Home Office,United States,Fort Worth,Texas,76106,Central,FUR-FU-3347-729,Furniture,Furnishings,Cisco IP Phone,1293.6693,14,0.6,406.0857,US-2023-377483,05-02-2022,,,
+Second Class,Home Office,United States,New York City,New York,10024,East,TEC-PH-9359-375,Technology,Phones,Newell 322,716.0566,14,0.2,88.5379,US-2021-737870,25-04-2022,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE,
+Same Day,Corporate,United States,Detroit,Michigan,48227,Central,OFF-BI-7329-525,Office Supplies,Binders,Apple iPhone,2545.2618,1O,0.3,-616.094,US-2023-473864,20-10-2023,,,
+First Class,Corporate,United States,San Francisco,California,94109,West,TEC-AC-2808-978,Technology,Accessories,Bretford Conference Table,263.3342,4,0.4,-93.7585,US-2023-946512,05-05-2024,,,
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,OFF-AR-4746-973,Office Supplies,Art,Cisco IP Phone,479.6634,9,0.8,-104.5873,US-2020-133859,09-09-2020,,,
+Same Day,Consumer,United States,Jacksonville,Florida,ZIPCODE,South,TEC-MA-4694-518,Technology,Machines,HP Officejet Printer,30.3219,12,0.45,13.9638,US-2021-731440,15-03-2021,,,
+Standard Class,Consumer,United States,Newark,New Jersey,7114,East,TEC-MA-1112-443,Technology,Machines,Bretford Conference Table,756.5067,12,0.15,-353.9561,US-2021-355053,21-05-2020,,,
+Same Day,Consumer,United States,Fort Worth,Texas,76106,Central,TEC-PH-1593-640,Technology,Phones,Cisco IP Phone,2125.0926,6,0.4,-361.4054,US-2024-677615,24-07-2024,,,
+Same Day,Home Office,United States,Houston,Texas,77036,Central,FUR-BO-7601-401,Furniture,Bookcases,Eldon Fold N Roll Cart,2042.1621,11,0.4,-1071.8241,US-2023-379273,12-02-2021,,,
+Standard Class,Home Office,United States,Dallas,Texas,75220,Central,OFF-AR-3091-665,Office Supplies,Art,Hon Deluxe Fabric Chair,$1200,7,0,-171.7465,US-2022-684123,16-06-2022,,,
+Same Day,Home Office,United States,Newark,New Jersey,7114,East,OFF-PA-9615-822,Office Supplies,Paper,Logitech Wireless Mouse,2642.2688,13,0.1,-969.5222,US-2024-599136,24-10-2022,,,
+Same Day,Corporate,United States,Seattle,Washington,98103,West,OFF-PA-4523-890,Office Supplies,Paper,Logitech Wireless Mouse,2637.9498,13,0.45,613.6343,US-2024-664709,28-06-2022,,,
+Second Class,Home Office,United States,Jacksonville,Florida,32216,South,OFF-AR-3008-745,Office Supplies,Art,Newell 322,407.0167,2,0.3,-208.455,US-2022-629689,16-12-2022,,,
+First Class,Home Office,United States,Columbus,Ohio,43229,East,TEC-PH-9665-706,Technology,Phones,Xerox 1967,1076.5922,5,0.6,-322.8941,US-2020-754934,15-03-2023,,,
+Standard Class,Home Office,United States,Detroit,Michigan,48227,Central,OFF-ST-8734-826,Office Supplies,Storage,Eldon Fold N Roll Cart,751.5621,7,0.45,-348.827,US-2022-522857,06-07-2020,,,
+Same Day,Consumer,United States,Fort Lauderdale,Florida,33311,South,OFF-PA-2524-700,Office Supplies,Paper,Eldon Fold N Roll Cart,2349.3892,14,0.3,44.5036,US-2024-436951,07-10-2024,,,
+Second Class,Consumer,United States,Dallas,Texas,75220,Central,OFF-ST-3742-611,Office Supplies,Storage,Belkin Surge Protector,1259.55,4,0.15,-655.7748,,,,,
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,OFF-BI-6357-636,Office Supplies,Binders,Newell 322,2568.3877,11,0,-1303.6214,US-2023-722300,27-04-2023,,,
+Second Class,Home Office,United States,Henderson,Kentucky,42420,South,FUR-FU-8650-688,Furniture,Furnishings,Hon Deluxe Fabric Chair,1619.9261,10,??,-722.5852,US-2022-222192,25-12-2024,,,
+Same Day,Corporate,United States,Fort Worth,Texas,76106,Central,FUR-BO-2136-709,Furniture,Bookcases,Belkin Surge Protector,1156.5597,4,0.45,-156.3623,US-2023-371400,18-07-2023,,,
+Standard Class,Consumer,United States,Seattle,Washington,98103,West,FUR-TA-5654-945,Furniture,Tables,Xerox 1967,1014.9962,2,0.3,115.2034,US-2022-434579,19-04-2021,,,
+Same Day,Consumer,United States,Jacksonville,Florida,32216,South,TEC-AC-4163-138,Technology,Accessories,Global Push Button Manager Chair,541.7351,N/A,0.45,-118.306,US-2024-521767,23-06-2022,,,
+First Class,Corporate,United States,Seattle,Washington,98103,West,TEC-MA-2095-146,Technology,Machines,Eldon Fold N Roll Cart,1181.7778,3,0.3,579.7951,US-2023-307153,07-01-2021,,,
+Second Class,Home Office,United States,Houston,Texas,77036,Central,FUR-BO-8961-746,Furniture,Bookcases,3M Storage Bin,2492.3615,6,0.3,-1024.1405,US-2022-239154,23-08-2023,,,
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,OFF-BI-9669-363,Office Supplies,Binders,Cisco IP Phone,2479.0078,3,ten_percent,351.4657,US-2024-455041,12-03-2021,,,
+Second Class,Consumer,United States,Dallas,Texas,75220,Central,OFF-BI-9971-931,Office Supplies,Binders,Logitech Wireless Mouse,2575.5036,13,0.8,-730.4685,US-2023-295059,15-04-2023,,,
+Same Day,Home Office,United States,San Francisco,California,94109,West,FUR-BO-7112-516,Furniture,Bookcases,Bush Somerset Bookcase,467.7931,3,0.1,191.8463,US-2021-122198,18-08-2023,,,
+First Class,Home Office,United States,Columbus,Ohio,43229,East,FUR-FU-3063-881,Furniture,Furnishings,3M Storage Bin,1257.3152,7,0.6,95.1565,US-2021-109613,19-02-2021,,,
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,FUR-FU-3677-429,Furniture,Furnishings,Bush Somerset Bookcase,N/A_BAD_VALUE,5,0.2,-348.0152,US-2021-427573,14-12-2020,,,
+First Class,Corporate,United States,Jacksonville,Florida,32216,South,OFF-BI-1171-379,Office Supplies,Binders,3M Storage Bin,746.7127,2,0.8,168.289,US-2022-833837,07-05-2022,,,
+Same Day,Corporate,United States,Houston,Texas,77036,Central,OFF-ST-7614-791,Office Supplies,Storage,Global Push Button Manager Chair,723.6385,3,0.4,-120.3823,US-2024-252513,24-12-2020,,,
+Second Class,Home Office,United States,Detroit,Michigan,48227,Central,OFF-ST-8141-600,Office Supplies,Storage,Xerox 1967,2157.2275,4,0.6,1036.5886,US-2020-360054,03-12-2021,,,
+Same Day,Consumer,United States,New York City,New York,10024,East,TEC-CO-1098-476,Technology,Copiers,Eldon Fold N Roll Cart,713.6012,5,0.2,126.9283,US-2021-276346,11-01-2024,,,
+Standard Class,Corporate,United States,Los Angeles,California,90036,West,OFF-AR-3532-914,Office Supplies,Art,Global Push Button Manager Chair,2509.9672,12,0.8,-1430.0199,US-2023-690553,24-03-2021,,,
+Standard Class,Consumer,United States,Detroit,Michigan,48227,Central,OFF-ST-8932-910,Office Supplies,Storage,Cisco IP Phone,1635.3083,4,0.1,-922.1971,US-2020-209623,21-09-2024,,,
+Standard Class,Corporate,United States,New York City,New York,10024,East,FUR-TA-4804-461,Furniture,Tables,3M Storage Bin,442.0722,1,0.2,130.9639,US-2022-794077,28-08-2023,,,
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,TEC-PH-7614-148,Technology,Phones,Logitech Wireless Mouse,2510.1964,12,0,-1314.4644,US-2022-174497,28-04-2023,,,
+Same Day,Consumer,United States,Jacksonville,Florida,32216,South,FUR-CH-8471-350,Furniture,Chairs,3M Storage Bin,868.3849,qty_missing,0,313.5368,US-2022-612367,28-11-2024,,,
+Standard Class,Home Office,United States,Jacksonville,Florida,32216,South,TEC-AC-6169-573,Technology,Accessories,Belkin Surge Protector,2855.4165,5,0.1,1300.0078,US-2022-137827,06-08-2020,,,
+First Class,Consumer,United States,Los Angeles,California,90036,West,FUR-FU-6002-479,Furniture,Furnishings,HP Officejet Printer,2131.5166,8,0.15,744.6239,US-2020-768488,04-05-2023,,,
+Same Day,Consumer,United States,New York City,New York,10024,East,OFF-PA-9427-951,Office Supplies,Paper,Eldon Fold N Roll Cart,2278.4005,11,0.45,742.0573,US-2023-965131,27-01-2021,,,
+First Class,Home Office,United States,Fort Worth,Texas,76106,Central,TEC-AC-8213-315,Technology,Accessories,Eldon Fold N Roll Cart,2918.2731,5,0,1198.9154,US-2020-310456,27-09-2022,,,
+Second Class,Corporate,United States,San Francisco,California,94109,West,FUR-BO-2543-253,Furniture,Bookcases,Eldon Fold N Roll Cart,2900.8473,4,0.15,104.2129,US-2022-478258,22-10-2022,,,
+Same Day,Consumer,United States,Fort Lauderdale,Florida,33311,South,OFF-PA-9603-171,Office Supplies,Paper,Newell 322,514.9968,9,0.6,209.8368,US-2021-580738,not-a-date,,,
+First Class,Home Office,United States,Fort Worth,Texas,76106,Central,OFF-BI-8433-156,Office Supplies,Binders,Logitech Wireless Mouse,122.7637,9,0.8,-51.5342,US-2023-207809,13-01-2022,,,
+Second Class,Consumer,United States,Newark,New Jersey,7114,East,OFF-PA-1570-862,Office Supplies,Paper,Belkin Surge Protector,555.3234,13,0,-21.3857,US-2023-795863,04-10-2023,,,
+Standard Class,Home Office,United States,Jacksonville,Florida,32216,South,OFF-BI-4924-302,Office Supplies,Binders,Fellowes Binder,2985.3813,3,0.6,373.2117,US-2023-120431,unknown_date,,,
+Standard Class,Home Office,United States,New York City,New York,10024,East,OFF-AR-5383-317,Office Supplies,Art,3M Storage Bin,1243.0447,5,0.45,-706.9437,US-2022-356187,10-10-2021,,,
+First Class,Consumer,United States,Columbus,Ohio,43229,East,OFF-AP-1565-152,Office Supplies,Appliances,Global Push Button Manager Chair,1437.8985,1,0.2,-227.905,US-2020-382485,18-09-2024,,,
+Second Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,FUR-CH-5112-489,Furniture,Chairs,Eldon Fold N Roll Cart,114.4273,1,0.2,29.1133,US-2020-561096,16-10-2022,,,
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,FUR-TA-5622-310,Furniture,Tables,Apple iPhone,2830.4785,11,0.8,218.7743,US-2021-757531,14-08-2023,,,
+Standard Class,Home Office,United States,Houston,Texas,77036,Central,OFF-ST-9113-392,Office Supplies,Storage,Bretford Conference Table,unknown,1,0.2,-469.7948,US-2022-921040,01-06-2024,,,
+Same Day,Corporate,United States,New York City,New York,10024,East,TEC-PH-4469-320,Technology,Phones,Hon Deluxe Fabric Chair,1326.1056,14,ten_percent,-350.9567,US-2023-609692,01-10-2022,,,
+First Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,OFF-PA-2103-136,Office Supplies,Paper,Eldon Fold N Roll Cart,2709.0704,6,0.1,1178.7297,US-2020-285394,07-10-2022,,,
+Second Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,OFF-ST-2639-631,Office Supplies,Storage,Fellowes Binder,2446.6154,3,0.6,-1055.7362,US-2023-542090,25-03-2020,,,
+Second Class,Consumer,United States,Detroit,Michigan,48227,Central,OFF-PA-3261-236,Office Supplies,Paper,Global Push Button Manager Chair,300.7666,3,0.8,-33.3343,US-2021-288905,06-02-2024,,,
+First Class,Corporate,United States,San Francisco,California,94109,West,OFF-PA-1218-802,Office Supplies,Paper,Xerox 1967,1397.6532,5,0.3,-567.1168,US-2021-526163,28-09-2021,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE,
+Second Class,Consumer,United States,New York City,New York,10024,East,OFF-AP-5715-631,Office Supplies,Appliances,Cisco IP Phone,2358.7586,5,0.8,-1342.7879,US-2024-606215,10-12-2021,TOO,MANY,COLUMNS
+Standard Class,Consumer,United States,Los Angeles,California,90036,West,FUR-TA-3539-926,Furniture,Tables,Belkin Surge Protector,318.9124,11,0.8,-39.2266,US-2023-648763,07-12-2021,,,
+Same Day,Corporate,United States,Houston,Texas,77036,Central,TEC-MA-5230-940,Technology,Machines,Belkin Surge Protector,226.721,2,0,51.429,US-2021-984708,20-09-2023,,,
+First Class,Consumer,United States,Los Angeles,California,90036,West,OFF-ST-8238-284,Office Supplies,Storage,Fellowes Binder,2999.0565,14,0.3,340.2988,US-2020-306373,26-05-2023,,,
+First Class,Corporate,United States,Chicago,Illinois,60623,Central,OFF-PA-6378-953,Office Supplies,Paper,3M Storage Bin,1342.951,12,0.6,532.443,US-2024-201927,25-08-2023,,,
+Second Class,Consumer,United States,Fort Worth,Texas,76106,Central,OFF-ST-4536-890,Office Supplies,Storage,Cisco IP Phone,2573.2348,14,-,-975.3264,US-2023-978618,18-08-2022,,,
+First Class,Consumer,United States,Jacksonville,Florida,32216,South,OFF-PA-7506-893,Office Supplies,Paper,Cisco IP Phone,594.9338,10,0,-66.4021,US-2022-452071,23-10-2020,,,
+First Class,Consumer,United States,Detroit,Michigan,48227,Central,FUR-TA-7662-743,Furniture,Tables,Bretford Conference Table,2150.6342,1,0.1,713.1158,US-2023-850765,22-07-2023,,,
+Second Class,Consumer,United States,Dallas,Texas,75220,Central,TEC-MA-4831-304,Technology,Machines,Bretford Conference Table,$1200,1,0,-109.1347,US-2020-750162,01-01-2021,,,
+First Class,Consumer,United States,Fort Worth,Texas,76106,Central,TEC-MA-6733-317,Technology,Machines,HP Officejet Printer,2398.1898,6,0.4,-635.0836,US-2023-676611,19-04-2020,TOO,MANY,COLUMNS
+Second Class,Consumer,United States,Fort Worth,Texas,76106,Central,OFF-AP-8940-266,Office Supplies,Appliances,Hon Deluxe Fabric Chair,1403.6324,2,0.3,-279.4453,US-2023-702187,28-09-2024,,,
+Standard Class,Home Office,United States,Henderson,Kentucky,42420,South,OFF-AP-9470-705,Office Supplies,Appliances,Belkin Surge Protector,1100.2597,4,0,232.2744,US-2020-902601,18-02-2021,TOO,MANY,COLUMNS
+Standard Class,Corporate,United States,Chicago,Illinois,60623,Central,OFF-AR-5161-999,Office Supplies,Art,Eldon Fold N Roll Cart,1768.7473,5,0,-842.862,US-2023-916364,17-04-2024,,,
+Second Class,Consumer,United States,San Francisco,California,94109,West,FUR-TA-5901-234,Furniture,Tables,Bush Somerset Bookcase,2040.8227,2,0.4,-981.6109,US-2024-281655,26-01-2021,,,
+Standard Class,Corporate,United States,Detroit,Michigan,48227,Central,OFF-AP-4069-216,Office Supplies,Appliances,Logitech Wireless Mouse,1928.9274,11,0,-648.1947,US-2023-260512,06-02-2022,,,
+First Class,Home Office,United States,Detroit,Michigan,48227,Central,TEC-PH-6918-481,Technology,Phones,HP Officejet Printer,2836.7711,6,0,127.5007,US-2021-237215,05-04-2020,,,
+Same Day,Consumer,United States,Chicago,Illinois,60623,Central,OFF-ST-6426-341,Office Supplies,Storage,Logitech Wireless Mouse,2949.6268,11,0,-1270.9539,US-2020-677453,09-10-2020,,,
+Second Class,Corporate,United States,Columbus,Ohio,43229,East,TEC-PH-4118-480,Technology,Phones,Apple iPhone,2940.1076,9,0.8,680.6894,US-2021-424201,28-08-2022,,,
+Second Class,Home Office,United States,Los Angeles,California,90036,West,TEC-MA-1203-121,Technology,Machines,Fellowes Binder,1884.9173,2,0,-569.3079,,,,,
+Same Day,Consumer,United States,Henderson,Kentucky,42420,South,FUR-FU-5770-383,Furniture,Furnishings,Logitech Wireless Mouse,978.0125,3,0.8,57.0944,US-2024-418719,06-09-2024,,,
+Same Day,Consumer,United States,New York City,New York,10024,East,FUR-CH-1187-812,Furniture,Chairs,Eldon Fold N Roll Cart,212.1011,5,0.6,-72.1802,US-2024-492079,25-07-2022,,,
+Second Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,OFF-ST-2449-963,Office Supplies,Storage,Cisco IP Phone,2744.4316,2,0.8,-1238.8847,US-2021-153538,09-05-2023,,,
+First Class,Home Office,United States,Dallas,Texas,75220,Central,FUR-CH-6144-816,Furniture,Chairs,Eldon Fold N Roll Cart,1763.4399,1,0.1,84.5073,US-2022-453714,23-11-2020,,,
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,TEC-CO-7733-892,Technology,Copiers,Bush Somerset Bookcase,2082.1861,1,0,-869.486,US-2024-653676,20-07-2024,,,
+Second Class,Corporate,United States,Newark,New Jersey,7114,East,TEC-PH-6424-450,Technology,Phones,Apple iPhone,1272.6557,12,0,-750.9449,US-2021-207877,25-04-2023,,,
+Second Class,Home Office,United States,San Francisco,California,94109,West,OFF-AR-4163-128,Office Supplies,Art,Xerox 1967,1996.3166,12,0.3,-457.0842,US-2020-371292,20-03-2023,,,
+Same Day,Home Office,United States,Newark,New Jersey,7114,East,FUR-BO-1505-605,Furniture,Bookcases,HP Officejet Printer,360.402,4,0,150.3947,US-2022-692287,05-09-2020,,,
+Same Day,Corporate,United States,Detroit,Michigan,48227,Central,FUR-TA-6560-811,Furniture,Tables,Cisco IP Phone,2625.8362,7,0,-410.982,US-2024-199835,23-12-2022,,,
+Second Class,Home Office,United States,Detroit,Michigan,48227,Central,FUR-BO-6942-347,Furniture,Bookcases,HP Officejet Printer,2969.1823,3,0.15,-935.465,US-2022-733081,11-10-2023,,,
+Same Day,Consumer,United States,Fort Worth,Texas,76106,Central,FUR-BO-9973-448,Furniture,Bookcases,Apple iPhone,2453.3033,13,0.3,471.5184,US-2021-538224,28-06-2023,,,
+Same Day,Consumer,United States,Newark,New Jersey,7114,East,TEC-MA-5297-338,Technology,Machines,Cisco IP Phone,2275.5428,7,0.45,268.8653,US-2020-659847,01-12-2020,,,
+First Class,Corporate,United States,New York City,New York,ZIPCODE,East,OFF-ST-5062-169,Office Supplies,Storage,Eldon Fold N Roll Cart,621.8745,7,0.8,22.0889,US-2023-426327,21-05-2023,,,
+First Class,Corporate,United States,San Francisco,California,94109,West,FUR-BO-3495-271,Furniture,Bookcases,Belkin Surge Protector,2194.5447,2,0.15,-197.9843,US-2020-418125,26-12-2020,,,
+First Class,Consumer,United States,Jacksonville,Florida,32216,South,TEC-MA-9271-984,Technology,Machines,Fellowes Binder,1100.8468,4,0.4,-430.1302,US-2021-550723,08-01-2021,,,
+Same Day,Home Office,United States,New York City,New York,10024,East,FUR-TA-7982-997,Furniture,Tables,Bush Somerset Bookcase,288.2118,13,0.8,-47.2306,US-2024-546268,11-04-2022,,,
+Same Day,Home Office,United States,Houston,Texas,77036,Central,OFF-PA-6862-103,Office Supplies,Paper,Cisco IP Phone,1298.1318,5,0.45,220.8407,US-2024-584661,15-08-2024,,,
+Same Day,Home Office,United States,Seattle,Washington,98103,West,OFF-PA-1225-305,Office Supplies,Paper,HP Officejet Printer,233.9997,2,0,-82.7912,US-2023-485182,16-12-2021,,,
+First Class,Home Office,United States,Jacksonville,Florida,32216,South,TEC-CO-5224-907,Technology,Copiers,Hon Deluxe Fabric Chair,2430.8324,6,0.4,840.0193,US-2023-869935,07-08-2023,,,
+Standard Class,Consumer,United States,Jacksonville,Florida,32216,South,OFF-AP-6116-567,Office Supplies,Appliances,Global Push Button Manager Chair,2355.2589,9,0.6,-656.1906,US-2021-467964,08-07-2022,,,
+Second Class,Consumer,United States,San Francisco,California,94109,West,TEC-MA-1620-197,Technology,Machines,Cisco IP Phone,2383.4689,3,0.15,218.417,US-2020-779487,17-04-2020,,,
+Second Class,Home Office,United States,Jacksonville,Florida,32216,South,TEC-PH-4431-884,Technology,Phones,Fellowes Binder,2651.1183,5,0.4,-371.5649,US-2020-661489,19-09-2024,,,
+Same Day,Home Office,United States,New York City,New York,10024,East,TEC-AC-2832-957,Technology,Accessories,Logitech Wireless Mouse,2203.433,8,0.8,175.5912,US-2022-195143,20-10-2024,TOO,MANY,COLUMNS
+Same Day,Home Office,United States,New York City,New York,N/A_ZIP,East,TEC-MA-9600-346,Technology,Machines,Belkin Surge Protector,90.7287,1,0.45,11.0851,US-2020-240747,14-02-2022,,,
+Same Day,Consumer,United States,Newark,New Jersey,7114,East,OFF-AP-6196-950,Office Supplies,Appliances,Xerox 1967,2270.822,8,0.3,-1168.2396,US-2020-792042,03-11-2024,,,
+First Class,Home Office,United States,Los Angeles,California,90036,West,TEC-PH-7387-198,Technology,Phones,Hon Deluxe Fabric Chair,553.473,5,0,-118.7566,US-2024-636567,28-12-2021,,,
+Standard Class,Home Office,United States,Fort Worth,Texas,76106,Central,OFF-PA-9567-432,Office Supplies,Paper,HP Officejet Printer,2510.2762,12,0.2,-1406.0749,US-2024-586516,22-04-2024,,,
+Standard Class,Home Office,United States,Los Angeles,California,90036,West,OFF-AR-3117-503,Office Supplies,Art,Fellowes Binder,2317.1056,13,0,214.6878,US-2022-660321,25-09-2020,,,
+First Class,Corporate,United States,Jacksonville,Florida,32216,South,FUR-FU-2534-778,Furniture,Furnishings,Eldon Fold N Roll Cart,645.0223,7,0.8,-222.9037,US-2021-217772,24-09-2020,,,
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,OFF-AR-4440-775,Office Supplies,Art,Logitech Wireless Mouse,2634.1685,2,0.1,912.4073,US-2023-876989,10-03-2023,,,
+Same Day,Consumer,United States,Henderson,Kentucky,42420,South,TEC-MA-3471-360,Technology,Machines,Bush Somerset Bookcase,1644.0981,6,0.6,-867.8061,US-2021-633027,08-11-2024,,,
+Second Class,Corporate,United States,New York City,New York,10024,East,OFF-ST-7085-330,Office Supplies,Storage,Eldon Fold N Roll Cart,1868.2553,8,0.6,-999.7399,US-2024-419294,18-11-2020,,,
+"Second Class,Corporate,Unclosed quote without termination,Dallas,Texas,75220
+Same Day,Home Office,United States,Houston,Texas,77036,Central,OFF-AR-7393-227,Office Supplies,Art,Hon Deluxe Fabric Chair,2413.3591,12,0,-1307.9968,US-2020-599016,2022-08-03
+Same Day,Consumer,United States,Fort Worth,Texas,76106,Central,OFF-BI-4300-503,Office Supplies,Binders,Xerox 1967,1997.6879,11,0.1,912.3092,US-2023-379618,2024-09-01
+Standard Class,Corporate,United States,Los Angeles,California,90036,West,OFF-ST-2555-736,Office Supplies,Storage,Fellowes Binder,25.8795,13,0,4.8507,US-2024-848935,2024-07-20
+Standard Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,TEC-PH-9044-658,Technology,Phones,Newell 322,338.8938,10,0.45,-37.3282,US-2020-612855,2021-07-03
+First Class,Consumer,United States,New York City,New York,10024,East,FUR-BO-6263-900,Furniture,Bookcases,HP Officejet Printer,319.0504,13,0.3,24.8009,US-2024-261058,2023-04-24
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,TEC-MA-5950-244,Technology,Machines,Fellowes Binder,952.1167,7,0.8,181.1977,US-2023-168108,2023-10-11
+Same Day,Corporate,United States,Houston,Texas,77036,Central,FUR-FU-9713-544,Furniture,Furnishings,Apple iPhone,151.4693,13,0,-0.0093,US-2023-556194,2021-09-15
+Same Day,Corporate,United States,Los Angeles,California,90036,West,OFF-BI-8700-923,Office Supplies,Binders,Xerox 1967,543.1306,14,0.2,198.431,US-2021-321702,2024-02-26
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,OFF-AP-2220-960,Office Supplies,Appliances,Logitech Wireless Mouse,656.3229,3,0.3,-53.5608,US-2020-226998,2021-12-11
+First Class,Home Office,United States,Jacksonville,Florida,32216,South,OFF-BI-1414-268,Office Supplies,Binders,HP Officejet Printer,2006.5659,2,0.3,-700.4562,US-2021-826596,2022-06-25
+First Class,Home Office,United States,Chicago,Illinois,60623,Central,OFF-ST-6815-858,Office Supplies,Storage,Cisco IP Phone,1572.8128,4,0.45,-139.8744,US-2024-466805,2020-06-18
+Standard Class,Corporate,United States,Houston,Texas,77036,Central,FUR-BO-9849-741,Furniture,Bookcases,Global Push Button Manager Chair,2615.8989,12,0,-1067.7633,US-2023-505006,2021-03-25
+Second Class,Corporate,United States,New York City,New York,10024,East,FUR-CH-3003-800,Furniture,Chairs,Logitech Wireless Mouse,622.3636,12,0.6,207.2626,US-2022-668888,2023-03-03
+Second Class,Corporate,United States,Jacksonville,Florida,32216,South,TEC-MA-3015-598,Technology,Machines,Apple iPhone,2339.4653,1,0,852.8961,US-2023-341789,2022-04-04
+First Class,Corporate,United States,Fort Worth,Texas,76106,Central,OFF-ST-1069-855,Office Supplies,Storage,Logitech Wireless Mouse,2103.3646,8,0.45,941.2784,US-2022-798967,2020-12-02
+First Class,Corporate,United States,Seattle,Washington,98103,West,FUR-TA-8223-800,Furniture,Tables,HP Officejet Printer,2715.532,7,0,-911.5745,US-2023-486104,2020-06-10
+First Class,Home Office,United States,Jacksonville,Florida,32216,South,TEC-PH-3930-428,Technology,Phones,Hon Deluxe Fabric Chair,2782.0948,6,0.4,44.3599,US-2023-853088,2022-10-08
+Standard Class,Consumer,United States,San Francisco,California,94109,West,FUR-CH-4068-774,Furniture,Chairs,Apple iPhone,1446.8397,1,0,120.9696,US-2020-569877,2023-01-22
+Standard Class,Corporate,United States,Henderson,Kentucky,42420,South,OFF-PA-6325-738,Office Supplies,Paper,Belkin Surge Protector,1059.4863,2,0.8,2.9635,US-2022-659349,2022-02-06,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE
+First Class,Corporate,United States,Dallas,Texas,75220,Central,FUR-FU-1016-467,Furniture,Furnishings,Newell 322,1530.4369,6,0,179.0926,US-2021-748500,2022-08-11
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,OFF-PA-7956-884,Office Supplies,Paper,Newell 322,2325.5114,7,0,-779.8659,US-2020-353292,2020-06-04
+Same Day,Corporate,United States,Henderson,Kentucky,42420,South,OFF-ST-4189-470,Office Supplies,Storage,Newell 322,1468.1479,12,0.15,274.4733,US-2022-973250,2021-11-26
+First Class,Corporate,United States,Columbus,Ohio,43229,East,FUR-TA-1369-767,Furniture,Tables,Newell 322,1419.329,10,0.6,460.7783,US-2023-435856,2020-03-22
+First Class",Consumer,Unclosed quote without termination,Fort Worth,Texas,76106,,,,,,,,,,,,,,
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,FUR-FU-9075-884,Furniture,Furnishings,Apple iPhone,457.9732,10,0.8,-132.5735,US-2024-233712,11-12-2023,,,
+Second Class,Consumer,United States,Jacksonville,Florida,32216,South,OFF-ST-2898-641,Office Supplies,Storage,Xerox 1967,1190.3639,2,0.45,314.8103,US-2021-729907,25-01-2022,,,
+Same Day,Home Office,United States,Chicago,Illinois,60623,Central,OFF-AR-3455-583,Office Supplies,Art,Global Push Button Manager Chair,1063.7589,3,0,-429.4765,US-2022-851662,24-11-2024,,,
+First Class,Consumer,United States,Jacksonville,Florida,32216,South,OFF-AP-7786-651,Office Supplies,Appliances,Logitech Wireless Mouse,2325.726,5,0.4,-416.1807,US-2023-248913,27-05-2021,,,
+Same Day,Corporate,United States,Henderson,Kentucky,42420,South,OFF-PA-4509-196,Office Supplies,Paper,HP Officejet Printer,235.2772,3,0.8,-25.9088,US-2023-817240,12-06-2020,,,
+Standard Class,Corporate,United States,Henderson,Kentucky,42420,South,TEC-PH-3368-494,Technology,Phones,3M Storage Bin,2607.8326,2,0.3,911.5611,US-2022-321001,27-09-2023,,,
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,TEC-CO-2155-676,Technology,Copiers,Hon Deluxe Fabric Chair,1522.7383,N/A,0.1,127.6611,US-2024-471498,14-05-2024,,,
+Second Class,Home Office,United States,Seattle,Washington,98103,West,TEC-PH-2159-349,Technology,Phones,Cisco IP Phone,2396.1251,8,0.2,-612.9869,US-2024-427442,TBD,,,
+First Class,Corporate,United States,Fort Lauderdale,Florida,33311,South,OFF-AR-6789-772,Office Supplies,Art,Cisco IP Phone,569.5153,5,0.1,-193.4168,US-2020-110723,14-08-2022,,,
+Standard Class,Corporate,United States,New York City,New York,10024,East,FUR-BO-3128-997,Furniture,Bookcases,Bush Somerset Bookcase,1115.966,1,0.45,-108.753,US-2020-460777,07-09-2022,,,
+Second Class,Home Office,United States,Fort Worth,Texas,76106,Central,FUR-BO-3884-502,Furniture,Bookcases,Global Push Button Manager Chair,1206.2958,13,0,-255.5358,US-2021-442762,12-09-2020,,,
+Same Day,Consumer,United States,Los Angeles,California,90036,West,OFF-BI-5729-668,Office Supplies,Binders,Logitech Wireless Mouse,181.0829,6,0.6,-107.268,US-2023-505774,22-05-2021,,,
+Same Day,Corporate,United States,Seattle,Washington,98103,West,FUR-CH-6652-338,Furniture,Chairs,HP Officejet Printer,2026.0006,9,0.3,899.3742,US-2022-570401,21-06-2021,,,
+Same Day,Consumer,United States,Newark,New Jersey,7114,East,FUR-BO-5557-908,Furniture,Bookcases,3M Storage Bin,1169.7849,6,0,439.9357,US-2024-246706,12-03-2020,,,
+Standard Class,Corporate,United States,Seattle,Washington,UNKNOWN,West,FUR-CH-5572-884,Furniture,Chairs,Eldon Fold N Roll Cart,2771.5986,10,0.8,-598.2629,US-2023-679273,03-09-2021,,,
+Second Class,Corporate,United States,Columbus,Ohio,43229,East,OFF-BI-2432-493,Office Supplies,Binders,Eldon Fold N Roll Cart,271.2262,12,0.8,-118.1337,US-2023-991367,28-11-2024,,,
+Same Day,Corporate,United States,Jacksonville,Florida,32216,South,OFF-PA-2650-279,Office Supplies,Paper,Logitech Wireless Mouse,1852.1648,3,0,483.8037,US-2024-861329,13-04-2020,,,
+First Class,Corporate,United States,New York City,New York,10024,East,FUR-FU-2013-662,Furniture,Furnishings,Newell 322,2917.0421,5,0,736.6776,US-2023-694071,24-10-2024,,,
+Same Day,Corporate,United States,San Francisco,California,94109,West,OFF-AR-2509-364,Office Supplies,Art,Logitech Wireless Mouse,1434.642,4,0.6,-713.1382,US-2021-808570,27-11-2022,,,
+First Class,Consumer,United States,Henderson,Kentucky,42420,South,TEC-MA-5325-855,Technology,Machines,Bush Somerset Bookcase,675.0433,5,0.45,124.2084,US-2022-258462,05-10-2021,,,
+First Class,Home Office,United States,Jacksonville,Florida,32216,South,OFF-PA-3480-887,Office Supplies,Paper,Belkin Surge Protector,82.1747,14,0.3,-3.1066,US-2020-417088,19-06-2021,,,
+First Class,Corporate,United States,Seattle,Washington,98103,West,TEC-PH-2209-983,Technology,Phones,Logitech Wireless Mouse,1201.2002,9,0.3,-446.3448,US-2021-146166,12-02-2024,,,
+First Class,Corporate,United States,San Francisco,California,94109,West,FUR-TA-2592-793,Furniture,Tables,Xerox 1967,1017.3901,12,0.8,-205.1457,US-2023-984845,01-09-2021,,,
+Standard Class,Consumer,United States,San Francisco,California,94109,West,TEC-CO-6592-144,Technology,Copiers,3M Storage Bin,814.7581,13,0.3,-221.1359,US-2023-662847,25-03-2021,,,
+Second Class,Consumer,United States,Los Angeles,California,90036,West,TEC-CO-9526-871,Technology,Copiers,Global Push Button Manager Chair,2534.8959,10,0.1,199.0855,US-2023-339633,16-01-2020,,,
+Second Class,Home Office,United States,San Francisco,California,94109,West,OFF-BI-4047-613,Office Supplies,Binders,Bretford Conference Table,182.7184,13,0.2,18.2739,US-2021-793825,09-04-2024,,,
+Second Class,Consumer,United States,New York City,New York,10024,East,FUR-TA-7536-635,Furniture,Tables,Belkin Surge Protector,2897.4904,3,0.15,-19.7106,US-2024-830761,02-04-2022,,,
+First Class,Corporate,United States,Detroit,Michigan,48227,Central,OFF-AP-3045-523,Office Supplies,Appliances,Global Push Button Manager Chair,909.3156,10,0.2,175.0553,US-2022-727660,28-11-2021,,,
+Standard Class,Home Office,United States,Houston,Texas,77036,Central,TEC-MA-8436-493,Technology,Machines,Belkin Surge Protector,816.7445,7,0,-67.7662,US-2022-367847,14-06-2024,,,
+Second Class,Consumer,United States,Dallas,Texas,75220,Central,TEC-PH-4528-812,Technology,Phones,Global Push Button Manager Chair,$1200,3,0,-119.6064,US-2022-395633,19-05-2022,,,
+Same Day,Corporate,United States,Columbus,Ohio,43229,East,TEC-CO-4835-555,Technology,Copiers,Logitech Wireless Mouse,282.5571,10,0,-152.8119,US-2021-517785,12-07-2020,TOO,MANY,COLUMNS
+First Class,Consumer,United States,Los Angeles,California,90036,West,FUR-CH-9109-907,Furniture,Chairs,3M Storage Bin,292.7984,5,0,-48.8127,US-2024-117593,06-09-2021,EXTRA_COLUMN_HERE,ANOTHER_EXTRA_VALUE,
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,OFF-PA-9654-649,Office Supplies,Paper,Global Push Button Manager Chair,1763.9471,1,0.45,131.6814,US-2020-395464,21-07-2022,,,
+Same Day,Home Office,United States,Houston,Texas,77036,Central,FUR-CH-4375-573,Furniture,Chairs,Cisco IP Phone,1458.6332,2,0,-368.9272,US-2021-682021,23-09-2024,,,
+Same Day,Consumer,United States,Philadelphia,Pennsylvania,19140,East,OFF-BI-9307-288,Office Supplies,Binders,Logitech Wireless Mouse,1972.6607,13,0.6,653.533,US-2021-550048,19-07-2022,,,
+Standard Class,Corporate,United States,Henderson,Kentucky,42420,South,FUR-FU-7834-240,Furniture,Furnishings,3M Storage Bin,2616.159,11,0.2,-675.9127,,,,,
+First Class,Corporate,United States,Houston,Texas,77036,Central,FUR-CH-5321-241,Furniture,Chairs,Hon Deluxe Fabric Chair,61.9452,2,0.8,-12.967,US-2023-241891,02-07-2024,,,
+Standard Class,Corporate,United States,San Francisco,California,94109,West,TEC-MA-8245-606,Technology,Machines,Bretford Conference Table,2877.161,7,0.3,15.0182,US-2024-122783,19-04-2021,,,
+Standard Class,Consumer,United States,San Francisco,California,94109,West,TEC-MA-7333-583,Technology,Machines,Belkin Surge Protector,2372.1906,12,0.15,387.5315,US-2020-951542,12-04-2021,,,
+Second Class,Consumer,United States,Los Angeles,California,90036,West,OFF-BI-5328-163,Office Supplies,Binders,HP Officejet Printer,906.2191,12,0.15,431.8567,US-2021-377867,23-12-2023,,,
+Same Day,Corporate,United States,Newark,New Jersey,7114,East,TEC-CO-4195-202,Technology,Copiers,Newell 322,2792.5303,13,0,-1592.4155,US-2020-281746,27-10-2024,,,
+First Class,Home Office,United States,Detroit,Michigan,48227,Central,OFF-AR-6049-396,Office Supplies,Art,Bush Somerset Bookcase,2057.7467,5,0.6,935.6103,US-2022-557473,02-07-2021,,,
+First Class,Corporate,United States,Columbus,Ohio,43229,East,TEC-MA-1084-787,Technology,Machines,Global Push Button Manager Chair,1978.0547,7,ten_percent,617.5918,US-2021-964289,17-12-2021,,,
+Same Day,Corporate,United States,Chicago,Illinois,60623,Central,TEC-MA-7891-941,Technology,Machines,Bush Somerset Bookcase,1157.9092,12,0,164.2828,US-2022-836556,15-11-2022,,,
+Same Day,Home Office,United States,Columbus,Ohio,43229,East,FUR-CH-3796-379,Furniture,Chairs,Cisco IP Phone,2321.145,3,0,668.465,US-2023-373700,19-06-2021,,,
+Standard Class,Consumer,United States,Newark,New Jersey,7114,East,TEC-CO-3609-524,Technology,Copiers,Cisco IP Phone,1137.9722,9,0.45,-435.1539,US-2022-276077,08-07-2023,,,
+First Class,Corporate,United States,Henderson,Kentucky,42420,South,OFF-AP-2952-196,Office Supplies,Appliances,Eldon Fold N Roll Cart,2356.88,13,0.6,832.1541,US-2022-806834,24-01-2020,,,
+Same Day,Consumer,United States,New York City,New York,10024,East,FUR-TA-1193-509,Furniture,Tables,Newell 322,2647.6617,4,0.8,-292.8044,US-2022-578645,18-07-2023,,,
+"First Class,Home Office,Unclosed quote without termination,Seattle,Washington,98103
+Second Class,Home Office,United States,New York City,New York,10024,East,OFF-AP-7979-179,Office Supplies,Appliances,Eldon Fold N Roll Cart,2615.1414,2,0.45,-1417.6804,US-2024-413926,2023-07-23
+Second Class,Consumer,United States,Columbus,Ohio,43229,East,OFF-ST-4730-374,Office Supplies,Storage,Apple iPhone,2490.8306,8,0,1122.9805,US-2023-292009,2021-05-26
+Same Day,Home Office,United States,Fort Lauderdale,Florida,33311,South,FUR-TA-7449-247,Furniture,Tables,Logitech Wireless Mouse,2459.6321,N/A,0.6,886.4191,US-2020-918203,2022-04-03
+First Class,Home Office,United States,Newark,New Jersey,7114,East,TEC-PH-1214-743,Technology,Phones,Cisco IP Phone,1384.4616,7,0.1,-581.9375,US-2021-377735,2024-06-04
+Same Day,Consumer,United States,San Francisco,California,94109,West,TEC-PH-4766-448,Technology,Phones,Apple iPhone,1504.9418,8,0,87.8471,US-2024-928534,2023-04-18
+First Class,Corporate,United States,Los Angeles,California,90036,West,OFF-BI-9694-603,Office Supplies,Binders,Fellowes Binder,1629.0451,12,0,711.6656,US-2024-589123,2021-07-13
+Second Class,Home Office,United States,Seattle,Washington,98103,West,FUR-TA-3416-654,Furniture,Tables,Apple iPhone,642.7975,12,0.3,166.5583,US-2020-865542,2023-02-01
+First Class,Consumer,United States,Dallas,Texas,75220,Central,TEC-MA-2749-353,Technology,Machines,Global Push Button Manager Chair,1011.1963,1,0.1,-117.1597,US-2023-327703,2023-05-15
+Second Class,Corporate,United States,New York City,New York,10024,East,OFF-PA-4776-561,Office Supplies,Paper,Eldon Fold N Roll Cart,176.7636,5,0,44.0811,US-2024-705388,2023-07-03
+First Class,Consumer,United States,Newark,New Jersey,7114,East,TEC-PH-7014-506,Technology,Phones,Fellowes Binder,1183.523,3,0.3,90.638,US-2020-689033,2020-02-07
+Standard Class,Home Office,United States,New York City,New York,10024,East,OFF-BI-2302-979,Office Supplies,Binders,Fellowes Binder,1138.3937,8,0.15,-511.2445,US-2022-418081,2023-07-25
+Second Class,Home Office,United States,Detroit,Michigan,48227,Central,TEC-MA-3887-100,Technology,Machines,3M Storage Bin,1692.3638,10,0.2,-709.8419,US-2021-979356,2024-02-15
+Second Class,Consumer,United States,Henderson,Kentucky,42420,South,TEC-AC-7306-632,Technology,Accessories,Fellowes Binder,586.6032,10,0.6,16.0459,US-2022-284228,2024-04-28
+Same Day,Home Office,United States,Detroit,Michigan,48227,Central,OFF-AP-5406-717,Office Supplies,Appliances,Global Push Button Manager Chair,818.6118,6,0.2,-405.1822,US-2020-866316,2023-04-06
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,OFF-AR-5311-867,Office Supplies,Art,Logitech Wireless Mouse,1790.0735,2,0,-993.5803,US-2022-495202,2024-11-14
+Standard Class,Home Office,United States,New York City,New York,10024,East,TEC-PH-3140-876,Technology,Phones,Belkin Surge Protector,1728.8498,11,0,-198.0963,US-2022-615103,2022-08-09
+Same Day,Corporate,United States,Henderson,Kentucky,42420,South,FUR-TA-3864-717,Furniture,Tables,Xerox 1967,697.0737,12,0.3,147.0653,US-2022-687827,2020-06-25
+Same Day,Corporate,United States,Detroit,Michigan,48227,Central,TEC-MA-8409-656,Technology,Machines,Fellowes Binder,988.0346,5,0.8,-363.0758,US-2021-561440,2023-12-06
+Standard Class,Consumer,United States,Fort Lauderdale,Florida,33311,South,TEC-MA-6378-784,Technology,Machines,Logitech Wireless Mouse,1551.5401,5,0,49.5095,US-2020-134741,not-a-date
+First Class,Consumer,United States,Dallas,Texas,75220,Central,FUR-CH-2062-409,Furniture,Chairs,Newell 322,2866.2694,8,0.1,-1090.2733,US-2022-691843,2020-07-12
+First Class",Corporate,Unclosed quote without termination,Newark,New Jersey,7114,,,,,,,,,,,,,,
+First Class,Consumer,United States,Houston,Texas,77036,Central,OFF-ST-9281-994,Office Supplies,Storage,Bretford Conference Table,2644.4547,12,0.15,-1294.1812,US-2023-258202,24-04-2024,,,
+Same Day,Consumer,United States,Newark,New Jersey,7114,East,FUR-TA-2447-154,Furniture,Tables,Fellowes Binder,29.4091,12,0.8,-6.8693,US-2023-475170,12-09-2024,,,
+Second Class,Home Office,United States,Seattle,Washington,98103,West,OFF-AR-3238-455,Office Supplies,Art,Newell 322,2636.8862,10,0.4,-1578.9061,US-2022-327024,25-06-2023,,,
+Same Day,Consumer,United States,Columbus,Ohio,43229,East,OFF-AR-4741-878,Office Supplies,Art,Global Push Button Manager Chair,368.723,5,0.6,-83.6245,US-2022-934269,19-01-2024,,,
+Standard Class,Consumer,United States,Newark,New Jersey,7114,East,TEC-CO-3073-449,Technology,Copiers,Apple iPhone,60.8304,7,0,2.1525,US-2022-112167,19-01-2023,,,
+First Class,Consumer,United States,New York City,New York,10024,East,FUR-CH-7118-675,Furniture,Chairs,Apple iPhone,1126.4239,2,0.3,-133.5219,US-2021-269115,23-06-2022,,,
+Standard Class,Home Office,United States,Chicago,Illinois,60623,Central,OFF-AR-4109-137,Office Supplies,Art,Xerox 1967,1596.5159,7,0.15,86.377,US-2021-762830,23-01-2022,,,
+Standard Class,Corporate,United States,San Francisco,California,94109,West,FUR-TA-9641-141,Furniture,Tables,Hon Deluxe Fabric Chair,884.7069,11,0,123.6336,US-2021-211602,14-12-2022,,,
+Standard Class,Corporate,United States,Seattle,Washington,98103,West,OFF-AR-1365-228,Office Supplies,Art,Bretford Conference Table,802.5334,6,0,351.9908,US-2020-286992,18-05-2024,,,
+First Class,Home Office,United States,San Francisco,California,94109,West,TEC-CO-8966-410,Technology,Copiers,HP Officejet Printer,1104.8416,8,0.1,425.7448,US-2023-239183,15-04-2022,,,
+Second Class,Consumer,United States,Houston,Texas,77036,Central,OFF-ST-7862-552,Office Supplies,Storage,Fellowes Binder,2979.2228,11,0.8,-349.5906,US-2024-324652,15-01-2023,,,
+First Class,Corporate,United States,Chicago,Illinois,60623,Central,TEC-CO-3638-261,Technology,Copiers,Bush Somerset Bookcase,1495.7697,3,0.4,-36.1427,US-2021-300236,19-07-2023,,,
+Standard Class,Corporate,United States,Fort Lauderdale,Florida,33311,South,FUR-TA-6469-328,Furniture,Tables,Cisco IP Phone,1685.9108,12,0,-331.5266,US-2024-708355,04-09-2020,,,
+First Class,Corporate,United States,Henderson,Kentucky,42420,South,OFF-BI-8269-364,Office Supplies,Binders,Eldon Fold N Roll Cart,1687.3579,13,0.3,-1010.6382,US-2020-108813,03-11-2023,,,
+Same Day,Corporate,United States,Los Angeles,California,90036,West,FUR-CH-3680-896,Furniture,Chairs,Eldon Fold N Roll Cart,2340.8105,9,0.4,-1266.5191,US-2021-589511,21-12-2022,,,
+Same Day,Consumer,United States,Fort Lauderdale,Florida,33311,South,OFF-BI-9127-227,Office Supplies,Binders,Newell 322,1686.6005,10,0,-419.4777,US-2020-428496,15-08-2024,,,
+Same Day,Consumer,United States,Los Angeles,California,90036,West,FUR-FU-9272-707,Furniture,Furnishings,Belkin Surge Protector,1387.9552,12,0.2,-519.8976,US-2020-285002,14-09-2020,,,
+Second Class,Home Office,United States,Jacksonville,Florida,32216,South,FUR-BO-1644-450,Furniture,Bookcases,Belkin Surge Protector,259.5837,6,0.6,83.2356,US-2024-397343,11-12-2024,,,
+Second Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,OFF-AP-3898-479,Office Supplies,Appliances,Fellowes Binder,740.4129,8,0.1,-19.2007,US-2023-343921,24-04-2023,,,
+Standard Class,Corporate,United States,Chicago,Illinois,60623,Central,OFF-AR-1734-980,Office Supplies,Art,Cisco IP Phone,$1200,3,0.8,143.7505,US-2022-962490,20-09-2020,,,
+Standard Class,Corporate,United States,Jacksonville,Florida,32216,South,FUR-FU-7244-228,Furniture,Furnishings,Bretford Conference Table,$1200,11,0,657.4463,US-2020-107370,25-05-2021,,,
+Second Class,Consumer,United States,Chicago,Illinois,60623,Central,TEC-CO-1646-319,Technology,Copiers,Global Push Button Manager Chair,2336.8688,8,0.45,-239.2674,US-2024-545963,15-08-2022,,,
+Same Day,Home Office,United States,Los Angeles,California,90036,West,FUR-BO-1258-213,Furniture,Bookcases,Apple iPhone,1268.6209,11,0.45,-411.336,US-2021-100368,05-07-2023,,,
+Second Class,Consumer,United States,Jacksonville,Florida,32216,South,FUR-FU-5610-409,Furniture,Furnishings,Bush Somerset Bookcase,73.2457,2,0.1,31.4743,US-2021-439712,06-10-2021,,,
+Same Day,Consumer,United States,Philadelphia,Pennsylvania,19140,East,TEC-CO-9926-231,Technology,Copiers,Fellowes Binder,2725.6708,8,0,1197.6728,US-2024-724600,26-01-2024,,,
+Same Day,Corporate,United States,Henderson,Kentucky,42420,South,FUR-CH-8571-731,Furniture,Chairs,Newell 322,2854.7178,13,0.45,,,,,,
+Standard Class,Consumer,United States,Columbus,Ohio,43229,East,TEC-CO-7563-991,Technology,Copiers,Newell 322,427.5863,5,0.6,71.1903,US-2022-543062,28-10-2021,,,
+First Class,Consumer,United States,Fort Worth,Texas,76106,Central,TEC-AC-7894-900,Technology,Accessories,3M Storage Bin,2997.1932,3,0.45,-1202.9316,US-2021-192685,28-05-2021,,,
+Standard Class,Home Office,United States,Dallas,Texas,75220,Central,TEC-MA-9530-901,Technology,Machines,Logitech Wireless Mouse,2145.6218,11,0,-895.5234,US-2023-908671,18-06-2020,,,
+Second Class,Corporate,United States,Detroit,Michigan,48227,Central,FUR-FU-7895-861,Furniture,Furnishings,Eldon Fold N Roll Cart,288.532,6,0.3,-93.6617,US-2021-396334,09-11-2021,TOO,MANY,COLUMNS
+Standard Class,Consumer,United States,Jacksonville,Florida,32216,South,FUR-CH-7189-825,Furniture,Chairs,Belkin Surge Protector,435.5174,9,0,-149.5023,US-2020-209048,16-01-2021,,,
+Same Day,Home Office,United States,Dallas,Texas,75220,Central,FUR-BO-1280-186,Furniture,Bookcases,Xerox 1967,699.4331,2,0.8,-281.6508,US-2020-208659,16-04-2022,,,
+First Class,Corporate,United States,New York City,New York,10024,East,OFF-ST-4445-503,Office Supplies,Storage,Global Push Button Manager Chair,2099.4394,6,0.2,92.5077,US-2022-478103,09-05-2020,,,
+Same Day,Corporate,United States,Fort Worth,Texas,76106,Central,FUR-BO-9543-256,Furniture,Bookcases,Eldon Fold N Roll Cart,1331.6837,8,0.3,-627.863,US-2024-126948,11-03-2023,,,
+Second Class,Corporate,United States,Chicago,Illinois,60623,Central,OFF-AP-7084-302,Office Supplies,Appliances,Newell 322,912.0109,3,0.6,61.7574,US-2022-906886,07-04-2021,,,
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19140,East,TEC-CO-2247-278,Technology,Copiers,Apple iPhone,868.7983,3,0.4,174.6124,US-2024-517157,02-03-2020,,,
+Standard Class,Home Office,United States,Houston,Texas,77036,Central,OFF-PA-1835-147,Office Supplies,Paper,Hon Deluxe Fabric Chair,2361.4957,11,0.8,994.0427,US-2021-250079,07-10-2022,,,
+Same Day,Consumer,United States,Jacksonville,Florida,32216,South,FUR-CH-1271-210,Furniture,Chairs,Logitech Wireless Mouse,1723.7914,11,0.3,-270.5281,US-2024-678030,16-08-2023,,,
+Same Day,Home Office,United States,Seattle,Washington,98103,West,OFF-AR-6620-912,Office Supplies,Art,Xerox 1967,2299.7569,9,0.6,-767.1242,US-2020-762647,06-02-2023,TOO,MANY,COLUMNS
+First Class,Consumer,United States,New York City,New York,10024,East,OFF-ST-1504-336,Office Supplies,Storage,3M Storage Bin,1827.8993,9,0.8,601.6542,US-2020-477317,03-04-2024,,,
+Second Class,Consumer,United States,Newark,New Jersey,7114,East,OFF-AR-8683-254,Office Supplies,Art,Belkin Surge Protector,1040.1188,12,0.1,84.2344,US-2023-482682,12-06-2021,,,
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,TEC-MA-1737-360,Technology,Machines,Hon Deluxe Fabric Chair,2047.4761,2,0,674.4902,US-2022-523525,19-03-2024,,,
+Standard Class,Corporate,United States,Houston,Texas,77036,Central,OFF-AR-4006-379,Office Supplies,Art,Logitech Wireless Mouse,2041.5706,6,0.2,-75.1968,US-2021-957708,20-12-2020,,,
+Same Day,Home Office,United States,Houston,Texas,77036,Central,TEC-AC-6285-296,Technology,Accessories,Bretford Conference Table,1774.5388,2,0.15,-699.8434,US-2024-798621,07-06-2021,,,
+Same Day,Corporate,United States,San Francisco,California,94109,West,FUR-BO-6493-249,Furniture,Bookcases,Hon Deluxe Fabric Chair,2267.7834,4,0,-213.0479,US-2021-917084,02-12-2023,TOO,MANY,COLUMNS
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,OFF-AP-2030-760,Office Supplies,Appliances,Logitech Wireless Mouse,2516.2619,5,ten_percent,-670.5514,US-2021-371432,04-03-2023,,,
+Second Class,Home Office,United States,Columbus,Ohio,43229,East,FUR-FU-2816-242,Furniture,Furnishings,Bretford Conference Table,1211.4082,13,0.1,-76.7384,US-2023-597898,13-05-2023,,,
+Standard Class,Home Office,United States,Los Angeles,California,90036,West,TEC-PH-8200-265,Technology,Phones,3M Storage Bin,978.178,4,0.2,-27.6751,US-2023-360782,10-11-2024,,,
+Same Day,Consumer,United States,Columbus,Ohio,43229,East,FUR-TA-5962-808,Furniture,Tables,Eldon Fold N Roll Cart,1479.074,9,0.45,290.1485,US-2024-960632,04-01-2020,,,
+Standard Class,Home Office,United States,Dallas,Texas,75220,Central,TEC-CO-4977-105,Technology,Copiers,Xerox 1967,1022.7653,3,0,253.2502,US-2024-976485,13-12-2021,,,
+"Second Class,Home Office,Unclosed quote without termination,Detroit,Michigan,48227
+First Class,Corporate,United States,Chicago,Illinois,60623,Central,FUR-FU-5225-798,Furniture,Furnishings,Xerox 1967,292.8651,6,0.15,-154.1819,US-2020-440436,2024-02-03
+First Class,Home Office,United States,San Francisco,California,94109,West,TEC-PH-4667-387,Technology,Phones,Global Push Button Manager Chair,2366.199,9,0.2,842.8794,US-2021-906478,2023-11-14
+First Class,Consumer,United States,Chicago,Illinois,60623,Central,OFF-ST-4967-448,Office Supplies,Storage,Logitech Wireless Mouse,1489.7122,11,0.15,424.0057,US-2021-474180,2021-12-27
+Standard Class,Corporate,United States,Seattle,Washington,98103,West,OFF-BI-5656-307,Office Supplies,Binders,Apple iPhone,2341.7372,2,0.4,406.2078,US-2021-143962,2020-07-02
+First Class,Home Office,United States,New York City,New York,10024,East,TEC-CO-3164-427,Technology,Copiers,Bretford Conference Table,1368.424,6,0.1,388.4181,US-2024-275842,2022-05-27
+First Class,Corporate,United States,Jacksonville,Florida,32216,South,OFF-AP-3989-125,Office Supplies,Appliances,Xerox 1967,455.5826,12,0.2,17.3158,US-2021-194445,2023-05-09
+Same Day,Corporate,United States,San Francisco,California,94109,West,OFF-PA-1684-268,Office Supplies,Paper,Apple iPhone,2611.4769,1,0,-834.6093,US-2022-922338,2020-07-11
+Second Class,Home Office,United States,Fort Lauderdale,Florida,33311,South,OFF-AP-5507-743,Office Supplies,Appliances,Belkin Surge Protector,1605.2795,13,0,731.8945,US-2020-764056,2022-07-24
+Second Class,Consumer,United States,San Francisco,California,94109,West,TEC-MA-6453-131,Technology,Machines,Hon Deluxe Fabric Chair,1835.9331,6,0.4,-309.1462,US-2021-233444,2023-09-13
+Second Class,Home Office,United States,Chicago,Illinois,60623,Central,FUR-CH-1125-236,Furniture,Chairs,Bretford Conference Table,1705.7374,14,0.6,-863.134,US-2023-472221,2021-05-14
+First Class,Corporate,United States,Jacksonville,Florida,32216,South,FUR-BO-3562-339,Furniture,Bookcases,3M Storage Bin,2574.6694,10,0.1,-829.7591,US-2022-833549,2021-01-12
+Second Class,Home Office,United States,New York City,New York,10024,East,FUR-CH-2620-977,Furniture,Chairs,Bretford Conference Table,1041.5813,14,0.1,-190.479,US-2020-740023,2020-02-15
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,FUR-FU-4687-642,Furniture,Furnishings,Fellowes Binder,2635.2,8,0.2,1096.3153,US-2023-925103,2024-06-05
+Standard Class,Home Office,United States,Chicago,Illinois,60623,Central,TEC-AC-1119-821,Technology,Accessories,Fellowes Binder,2478.9965,13,0.1,-391.032,US-2023-336743,2024-11-26
+First Class,Home Office,United States,San Francisco,California,94109,West,OFF-AP-5159-244,Office Supplies,Appliances,3M Storage Bin,1802.6162,13,0.6,139.2381,US-2023-674931,2024-01-26
+Second Class,Corporate,United States,Columbus,Ohio,43229,East,TEC-CO-9329-468,Technology,Copiers,Belkin Surge Protector,1196.5947,12,0.2,493.0726,US-2023-291684,2023-11-01
+Second Class,Home Office,United States,Newark,New Jersey,7114,East,TEC-AC-4794-696,Technology,Accessories,Bretford Conference Table,848.1015,14,0.45,-483.7145
+Same Day,Home Office,United States,Jacksonville,Florida,32216,South,OFF-PA-2404-583,Office Supplies,Paper,Global Push Button Manager Chair,1266.7545,12,0.4,305.6158,US-2024-820738,2022-06-19
+Same Day,Corporate,United States,Detroit,Michigan,48227,Central,FUR-CH-9494-742,Furniture,Chairs,Global Push Button Manager Chair,1259.795,2,0,122.0255,US-2021-831389,2024-10-19
+Second Class,Consumer,United States,Houston,Texas,77036,Central,OFF-ST-2155-758,Office Supplies,Storage,Fellowes Binder,740.8131,1,0,-125.7562,US-2024-130184,not-a-date
+Same Day,Consumer,United States,Dallas,Texas,75220,Central,FUR-CH-1723-443,Furniture,Chairs,Global Push Button Manager Chair,1587.3258,11,0,242.1678,US-2022-457709,2022-09-16
+Same Day,Consumer,United States,Henderson,Kentucky,42420,South,FUR-FU-3779-900,Furniture,Furnishings,Eldon Fold N Roll Cart,1345.0383,10,0,-449.9523,US-2021-963003,2024-11-01
+",,,,,,,,,,,,,,,,,,,
